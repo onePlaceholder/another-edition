@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "5a6a82985b4a705e2c02363d4864cdfccb27e6cae1a10dbbce733fb25a67e16e"
+
+[[files]]
+file = "config/accessories.json5"
+hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
+
+[[files]]
+file = "config/backpacked.client.toml"
+hash = "a55e8c2de90805b775e3dd4d1b28aa56d0651b0aa635c022e413dfc7b0eab126"
+
+[[files]]
+file = "config/backpacked.server.toml"
+hash = "0fc7b93f00149525ac7b0602619d2d7148bfbf0824af48ac82bf2404a9fc340e"
+
+[[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "32aebc4d42a8e17f224b33bfa88eac008bf81a0c50ecaed849797a617e4d15c4"
 
@@ -25,6 +41,10 @@ file = "config/key_binding_hider.toml"
 hash = "329bd677a65450d6999a1535fa819bef38affefa8695975080c57ab26bf358de"
 
 [[files]]
+file = "config/lootr-common.toml"
+hash = "572cf6dd20559c2e70ac6e2bb75474cfc22206169f897b0c0084e8885fed9df7"
+
+[[files]]
 file = "config/nerb/general.yaml"
 hash = "f61867aa5a2231e87f99a55e5e6d710e42865f1e7174409ccbbb61fc0ed8b36c"
 
@@ -37,8 +57,21 @@ file = "config/toastcontrol-client.toml"
 hash = "ad75c971753c61026d3b5e067d224615691315fe57fb7562316520a2beefea02"
 
 [[files]]
+file = "config/ysns.json"
+hash = "3ded99e8e9adb7a000b02ece630b579118fbf422ff3fddd89924ceae4323cbd6"
+
+[[files]]
+file = "emi.json"
+hash = "b03bfd60613f4bac50f570e806f5167826e42800539bb9f09dbb549b3341fa3f"
+
+[[files]]
 file = "global_packs/required_data/villages-revamped.pw.toml"
 hash = "e10c8415c47564325b4085739b1573b0414d96e27d2790fb51842c954f1b4c85"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/vanilla-lootr.pw.toml"
+hash = "01a9a3c0c1c30e89f03b3661bd1f4224bc4aa4587c4fe3d7cb57b65801ef8e24"
 metafile = true
 
 [[files]]
@@ -66,12 +99,30 @@ file = "kubejs/data/minecraft/tags/worldgen/biomes/has_structure/stronghold.json
 hash = "e95409963e006075cb6e929f0efe4aafa227088c87773271b3895db8b089571d"
 
 [[files]]
+file = "kubejs/server_scripts/potions.js"
+hash = "fc4ebe60ccd70c52c818caf86eae4296debf00afbce0f9e7c9274301bf8494cf"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "c2a7acf38789a0cf17682888ac470d920830f5228ff648431c4f77ddf0f2a378"
+
+[[files]]
 file = "kubejs/startup_scripts/blocks.js"
 hash = "cf5bc7ad5030b3f8ba8d57ce4e83fa9ad334c24307ce3797b66656694b3916cb"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "08d5b42c63b13a05a5ad962fb2782126b6a1dbbd76ef383608da7e39009f8b06"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/backpacked.pw.toml"
+hash = "19dcb98a1ce20e1f5c2f8353f64b9f0e2a08decb0a93924f5db405c9e6430bb0"
 metafile = true
 
 [[files]]
@@ -112,6 +163,16 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "61a46abc7e25ba0fed85c175d31c0022146c86ad458a7633bf9c843ce69f7967"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "11bc4d2951f2bbb0dd17c77534f05c909987e19203398558713bc515f441d5a2"
 metafile = true
 
 [[files]]
@@ -160,6 +221,11 @@ hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "20084e6c096135548dbceb71e6adb7ed2cdaa66dc4e3e2e3bc2055091e109bbe"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
@@ -172,6 +238,16 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "d720ecbf6097102b3243462928c0453f1b4df24a6a0edfa57b83d655fdb2ef75"
+metafile = true
+
+[[files]]
+file = "mods/morejs.pw.toml"
+hash = "b1a1157abdc88e4b6e86f4ea3df6dc41f3e7c5aebd763b5fc7604d1704628886"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "6acba5e53610fc3e62bd9641aeaaba056f99248a2d1d86bbf032061a1e408826"
 metafile = true
 
 [[files]]
@@ -200,6 +276,11 @@ hash = "d9401738f5964a2c97898c834ebfe0578a0a69066a70363aed80747405e8bc5e"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "74c69f8c8f04009f6af96905022321b7ea07cf760d6e31bc9b8de42f1c298e2f"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
 metafile = true
@@ -220,6 +301,16 @@ hash = "b493edef7538a8ca403ed83bfa5b1ad568caf38b371b0bd181f2aa26f0c7b52d"
 metafile = true
 
 [[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "308e0d918ea91f029cf72db5a13b415e1bcdca462c1a021a5f27d77c4fee253c"
+metafile = true
+
+[[files]]
+file = "mods/sleeping-bags.pw.toml"
+hash = "bdb45cc64e12361de3b335ebcb638c6df06a4cdcdbbee415a85011c0b1304a06"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
@@ -237,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+metafile = true
+
+[[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "b7d675018e09d20876b450f57493c537da693320e3656e3554aca3046331f59f"
 metafile = true
 
 [[files]]
