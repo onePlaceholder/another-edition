@@ -1,0 +1,13 @@
+{
+    "name": "1. The Nether Portal",
+    "icon": "minecraft:obsidian",
+    "sortnum": 1,
+    "category": "patchouli:01_nether",
+    "read_by_default": true,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "TEST"
+        }
+    ]
+}

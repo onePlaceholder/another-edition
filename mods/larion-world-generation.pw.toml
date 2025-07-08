@@ -1,0 +1,13 @@
+name = "Larion World Generation"
+filename = "larion-neoforge-1.21.1-4.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12de67f0b1da9dcac2b63ca1cc085b2f5714afcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6315772
+project-id = 1150582

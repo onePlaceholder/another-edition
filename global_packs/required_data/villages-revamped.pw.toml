@@ -1,0 +1,7 @@
+name = "villages-revamped"
+filename = "Villages revamped 1.21.6.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/qtOzkQyw/versions/LoQ7acY8/Villages%20revamped%201.21.6.zip"
+hash-format = "sha256"
+hash = "6c71d2b81f084d73349a05032d47ccdf1c1c9e4430b6d0e1853ae040a7c198d4"

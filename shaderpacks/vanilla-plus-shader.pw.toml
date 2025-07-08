@@ -1,0 +1,13 @@
+name = "Vanilla Plus Shader"
+filename = "VanillaPlus_v3.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3e6d764cfb598fc4d0e62c6dd99f1211037ee38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6247558
+project-id = 322360

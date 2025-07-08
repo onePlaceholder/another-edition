@@ -1,0 +1,261 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "32aebc4d42a8e17f224b33bfa88eac008bf81a0c50ecaed849797a617e4d15c4"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen.txt"
+hash = "62890967a9df088233e488079ba72c542d11d5bcec1db6e64d8fbc312c00d692"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen.txt"
+hash = "4fc4ade43df275567f93ebe7f974f2a34ffbda32ddf1aa59a20155506cc3d3b1"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "d086297359d2092cc2de4f2faf9a2d99eb38874d58473d53f3c8cbb5566a83cf"
+
+[[files]]
+file = "config/iris.properties"
+hash = "f750c639a45f01989ee6e8bfe0690d6d7a55442df9faa0d5056b2e1c2b1798ce"
+
+[[files]]
+file = "config/key_binding_hider.toml"
+hash = "329bd677a65450d6999a1535fa819bef38affefa8695975080c57ab26bf358de"
+
+[[files]]
+file = "config/nerb/general.yaml"
+hash = "f61867aa5a2231e87f99a55e5e6d710e42865f1e7174409ccbbb61fc0ed8b36c"
+
+[[files]]
+file = "config/netherportalspread.json5"
+hash = "c1b5644358ed4a811e33a2833fb36e775f9ac2cb785e746c0e290446e7dbc811"
+
+[[files]]
+file = "config/toastcontrol-client.toml"
+hash = "ad75c971753c61026d3b5e067d224615691315fe57fb7562316520a2beefea02"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped.pw.toml"
+hash = "e10c8415c47564325b4085739b1573b0414d96e27d2790fb51842c954f1b4c85"
+metafile = true
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/nether_catalyst.json"
+hash = "8f69b53b9190d79527a5035bead5708e1f643a06be96f26936264740b9f8a0eb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/encased_nether_star.png"
+hash = "eeb55df568a90a59606d2a8fdcc620f91ebb38be8f050617c72f2cc789e3c6e5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/glass_cage.png"
+hash = "67d659bf5b35c4c3323e296558704d4e7198fab8fdb3a5b8a7e22946d23d674f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
+hash = "34c562e36f3af5eef5012f0ac3bfd81be8ebaf0ca35232ad6f4f684d46f51194"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/nether_catalyst.json"
+hash = "1be4251907213b3364e477e450fcc2389e796757125e4f5715e3eb5e0ca20717"
+
+[[files]]
+file = "kubejs/data/minecraft/tags/worldgen/biomes/has_structure/stronghold.json"
+hash = "e95409963e006075cb6e929f0efe4aafa227088c87773271b3895db8b089571d"
+
+[[files]]
+file = "kubejs/startup_scripts/blocks.js"
+hash = "cf5bc7ad5030b3f8ba8d57ce4e83fa9ad334c24307ce3797b66656694b3916cb"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "21782cf50547212bf6fca41564043a520971c80277ded0f20c94acbdc2ff86ba"
+metafile = true
+
+[[files]]
+file = "mods/c2me.pw.toml"
+hash = "ffb6dd12ef7c32549d88f9c2c6710cfa415728d48c3e33cf5673d324c92a8ce8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "d3c143c5b518d2a57888cf1916e06bdb0f50e83b8341bf65885cdc769886647f"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "68379d0a55b328fd389cbab544b62d66a1336647102e9222de183c04b1e3ef12"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "295e71fc7586fbe1bc3669fdd7cfc7c08231c78485c69431d018e9c28e51a991"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "f0b46153b8357899eb45c1c1991da11d5ae3dab28dbc92e6b8f49dbe2967c464"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fe9ce277843026156c6f05e532b1b6ded0adeec63a740d758e75e467aecc7196"
+metafile = true
+
+[[files]]
+file = "mods/keybinding-hider.pw.toml"
+hash = "ae599c384e1f975fa826947159cd587747cd0384c26b509e9250aea913531328"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "51e8c729a6722d04ff85da2afac2b1c2178587be7713027cbc9cd0c58f668929"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b2e4e9c22fa6dbdedf14fefc64ae45ab6354ff00246e8c950d720ea9198eb75e"
+metafile = true
+
+[[files]]
+file = "mods/larion-world-generation.pw.toml"
+hash = "cbdbed5f549d37d43968276347ec306cb89da7cffc579f261c67b7aa42ab8c78"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "44f8841e4598e8a0123cff1be588f8801495d8e415500c770cc20319285664f9"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "d720ecbf6097102b3243462928c0453f1b4df24a6a0edfa57b83d655fdb2ef75"
+metafile = true
+
+[[files]]
+file = "mods/nether-portal-spread.pw.toml"
+hash = "be3f2aa8a8b7e14f2ce3d047e2e52de6d4590fdf3e019a248b8756c36a45b8a7"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "c39f473bc613a79aaf8717ced14f9e081451118cd53521ac5d6e6cdd469a3f59"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "5ea7556ae91d3f6a6bbb36f0641184c7d53052a167b7d1d1b006bacb28193524"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "d9401738f5964a2c97898c834ebfe0578a0a69066a70363aed80747405e8bc5e"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "d94f05f57f4a981d3e0fda30b3def484cee5715edc48d8a2a0c8173008a125ea"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "9dfeb4b87e376aacf809236ade964c2e37943aaff4d7a5774442f7cca52b76de"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "b493edef7538a8ca403ed83bfa5b1ad568caf38b371b0bd181f2aa26f0c7b52d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "6492dcbca5fa09ae9fdb3277601ff4cfbe1a2e69607ce091abd7d9f0381386df"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+metafile = true
+
+[[files]]
+file = "patchouli_books/everything_guide/book.json"
+hash = "2f3902df58c1a91c336a574af2cc567f26abd31f77a23aebbb924db51de1d64b"
+
+[[files]]
+file = "patchouli_books/everything_guide/en_us/categories/01_nether.json"
+hash = "b99ea6155f65e539aeb87a06d7fd0c6e9ea31913a69220621ee262d13b694004"
+
+[[files]]
+file = "patchouli_books/everything_guide/en_us/entries/nether/01_nether_portal.json"
+hash = "faf0d216d7a7872c872235bcf0f3f00c8e8881cefac98219b03cd91f491fe214"
+
+[[files]]
+file = "shaderpacks/VanillaPlus_v3.3.zip.txt"
+hash = "b1aec976c8136ffecaa1a66e6582e94e9fbce88ea73c639247b62b8872481a04"
+
+[[files]]
+file = "shaderpacks/vanilla-plus-shader.pw.toml"
+hash = "949ba5a9e44d11ed82d6018066812499c995cfa367e26beec152111a034dc30f"
+metafile = true
