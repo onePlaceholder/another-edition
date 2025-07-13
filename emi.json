@@ -130,6 +130,12 @@
     "item:minecraft:dragon_breath",
     "item:minecraft:dragon_head",
     "item:minecraft:dragon_egg",
-    "item:minecraft:lingering_potion"
+    "item:minecraft:lingering_potion",
+    "item:minecraft:shulker_shell",
+    "item:create:creative_motor",
+    "item:create:creative_fluid_tank",
+    "item:create:creative_crate",
+    "item:create:creative_blaze_cake",
+    {"type": "fluid", "id": "create:potion", "amount": 0}
   ]
 }
