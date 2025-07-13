@@ -1,0 +1,13 @@
+name = "Jungle Villager Trader"
+filename = "jungle_villager_trader-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60f3cc7ae63e270b1631c86a905ad3072d123ccf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6418782
+project-id = 1227594

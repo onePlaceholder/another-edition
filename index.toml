@@ -62,7 +62,7 @@ hash = "3ded99e8e9adb7a000b02ece630b579118fbf422ff3fddd89924ceae4323cbd6"
 
 [[files]]
 file = "emi.json"
-hash = "b03bfd60613f4bac50f570e806f5167826e42800539bb9f09dbb549b3341fa3f"
+hash = "b7e250c9096caf60712a75b7fb388267c44501356d4b9c8e77c2a465bf1e5cb7"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped.pw.toml"
@@ -87,6 +87,10 @@ file = "kubejs/assets/kubejs/textures/block/glass_cage.png"
 hash = "67d659bf5b35c4c3323e296558704d4e7198fab8fdb3a5b8a7e22946d23d674f"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/image/nether_portal.png"
+hash = "7b883ddcb4d957b08af4c85ebf9443973cdef41181fda233d97172dbf9bdcb27"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
 hash = "34c562e36f3af5eef5012f0ac3bfd81be8ebaf0ca35232ad6f4f684d46f51194"
 
@@ -99,12 +103,8 @@ file = "kubejs/data/minecraft/tags/worldgen/biomes/has_structure/stronghold.json
 hash = "e95409963e006075cb6e929f0efe4aafa227088c87773271b3895db8b089571d"
 
 [[files]]
-file = "kubejs/server_scripts/potions.js"
-hash = "fc4ebe60ccd70c52c818caf86eae4296debf00afbce0f9e7c9274301bf8494cf"
-
-[[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "c2a7acf38789a0cf17682888ac470d920830f5228ff648431c4f77ddf0f2a378"
+hash = "751d12fa036be88310966bae8376611e027a1146deb47d0f0c7d45d0f2ef0610"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "d3c143c5b518d2a57888cf1916e06bdb0f50e83b8341bf65885cdc769886647f"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
 metafile = true
 
 [[files]]
@@ -196,6 +201,16 @@ hash = "fe9ce277843026156c6f05e532b1b6ded0adeec63a740d758e75e467aecc7196"
 metafile = true
 
 [[files]]
+file = "mods/jungle-villager-trader.pw.toml"
+hash = "373b4137270ddc1637a15336c50f97a0b687c172419d0ad7c4780a0bd91a2455"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "5345bb641d6b9307c6a05f12885315537386519476bd2aee79d9fd1181268a7a"
+metafile = true
+
+[[files]]
 file = "mods/keybinding-hider.pw.toml"
 hash = "ae599c384e1f975fa826947159cd587747cd0384c26b509e9250aea913531328"
 metafile = true
@@ -243,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/morejs.pw.toml"
 hash = "b1a1157abdc88e4b6e86f4ea3df6dc41f3e7c5aebd763b5fc7604d1704628886"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
@@ -345,13 +365,9 @@ hash = "b99ea6155f65e539aeb87a06d7fd0c6e9ea31913a69220621ee262d13b694004"
 
 [[files]]
 file = "patchouli_books/everything_guide/en_us/entries/nether/01_nether_portal.json"
-hash = "faf0d216d7a7872c872235bcf0f3f00c8e8881cefac98219b03cd91f491fe214"
+hash = "38ec2f7cfa70d6f7ca2c9e6c221fe017daf16958766cbf53cc6c9c3612f561ee"
 
 [[files]]
-file = "shaderpacks/VanillaPlus_v3.3.zip.txt"
-hash = "b1aec976c8136ffecaa1a66e6582e94e9fbce88ea73c639247b62b8872481a04"
-
-[[files]]
-file = "shaderpacks/vanilla-plus-shader.pw.toml"
-hash = "949ba5a9e44d11ed82d6018066812499c995cfa367e26beec152111a034dc30f"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
 metafile = true

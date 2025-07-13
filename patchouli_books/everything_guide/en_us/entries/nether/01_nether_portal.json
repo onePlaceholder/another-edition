@@ -5,9 +5,11 @@
     "category": "patchouli:01_nether",
     "read_by_default": true,
     "pages": [
+        "The Nether portal functions like it does in vanilla, except that it spreads corruption to its surroundings unless a $(item)Nether Catalyst$() is placed nearby.$(br)For this reason, you should construct the portal far from your base (or craft a $(item)Nether Catalyst$() quickly)",
         {
-            "type": "patchouli:text",
-            "text": "TEST"
+            "type": "patchouli:image",
+            "images": ["kubejs:textures/image/nether_portal.png"],
+            "text": "Here's a correctly catalyzed portal."
         }
     ]
 }
