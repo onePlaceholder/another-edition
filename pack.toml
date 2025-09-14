@@ -1,4 +1,4 @@
-name = "Minecraft Another Edition"
+name = "Minecraft - Another Edition"
 author = "thePlaceholder"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6e482927df42e08ccb05a294ce056bffdd7aeb8cb43e2d46dd426d2c8141855f"
+hash = "1a14a2655ed2fa2107612365b187aae9e0e6dbdcafd789ae325d7127a60d12a7"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.187"
+neoforge = "21.1.208"
 
 [options]
 datapack-folder = "global_packs/required_data"
