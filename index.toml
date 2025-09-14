@@ -18,7 +18,11 @@ hash = "70144da84be4b1c458aab408e106047fde1f12eab0fae167eb7443980842f06f"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "ce2801be0f80c93ab74fba216055de29ffd7ceda910a54980771f90853fede84"
+hash = "6954c5bd36fe8e809775081c3e9a75e8dbf691d4df22417f227a5dafcfae3f12"
+
+[[files]]
+file = "config/fancymenu/customization/accessories_screen.txt"
+hash = "555c04b5ef48381203c80d38501ca4d243719873785bb96292c86ad2491e1bf8"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen.txt"
@@ -30,7 +34,7 @@ hash = "b693e8b8a0d91587c0458ffcd53a10b093370f2b41cf3efdada6c65c5d6df1bc"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "8f1c9360e13f0eef97c303d15be3e85eeabdb2b9fb59f1d69cdc57729f3cdfbd"
+hash = "f853bec7fe076cdb194fbb87f2a343c0e8399c2552b8b0ab63ccca74d6e85783"
 
 [[files]]
 file = "config/iris.properties"
@@ -99,7 +103,7 @@ file = "kubejs/data/kubejs/recipe/nether_catalyst.json"
 hash = "371aa86f542ffe1d26f6453d6d037836d9e140677875e47c74ad94da5774b458"
 
 [[files]]
-file = "kubejs/data/minecraft/tags/worldgen/biomes/has_structure/stronghold.json"
+file = "kubejs/data/minecraft/tags/worldgen/biome/has_structure/stronghold.json"
 hash = "f825f8a7f4e8043a5f8336cafcbbf266b50b3789d28ea963036114c908547d46"
 
 [[files]]
