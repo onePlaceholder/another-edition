@@ -6,3 +6,5 @@ net.minecraft.client.gui.screens.PauseScreen {
 net.minecraft.client.gui.screens.TitleScreen {
 }
 
+io.wispforest.accessories.client.gui.AccessoriesScreen {
+}
