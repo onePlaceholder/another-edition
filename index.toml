@@ -17,12 +17,24 @@ file = "config/backpacked.server.toml"
 hash = "0fc7b93f00149525ac7b0602619d2d7148bfbf0824af48ac82bf2404a9fc340e"
 
 [[files]]
+file = "config/biomeswevegone/mob_spawn.json"
+hash = "012a2e5f01965f67e8377468eb04852bceced3dcafc12f1b9776b55ebe66081c"
+
+[[files]]
+file = "config/biomeswevegone/world_generation.json5"
+hash = "6d6b3ef22b83593617ffe84bc04c37c572278e5a61ec3bcf4b0f3b7452d20674"
+
+[[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "d2a003b06b218237ea551f21a53cf3a64cb59b770fa6cee81ac906d4602c2d45"
+hash = "f6699c0cffd1c12032234a7ba3121a91fab887e144d1ed1119f40bb762fa631a"
 
 [[files]]
 file = "config/fancymenu/customization/accessories_screen.txt"
 hash = "555c04b5ef48381203c80d38501ca4d243719873785bb96292c86ad2491e1bf8"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen.txt"
+hash = "9d7674570d99381b80e5d107d9525883b2b4dd895f107c24b0fc80d098ba1f27"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen.txt"
@@ -30,11 +42,11 @@ hash = "2be2535ea39bc9e5c044ba41c2b68029c03112806decc9d761dc3fce570b0d91"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen.txt"
-hash = "e84501127f99de4ee0e0460bdf49113c0708c3c190e60c824f9f88dc157f2420"
+hash = "0f7801a9c04194571135c4017b5748a7cecbe58fb54756505bb33c097493f4ca"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "d086297359d2092cc2de4f2faf9a2d99eb38874d58473d53f3c8cbb5566a83cf"
+hash = "f3cdf5733a32ce028c77f6518f33f5cdeadd4a84774cd0852cecda6caf0387f1"
 
 [[files]]
 file = "config/iris.properties"
@@ -70,7 +82,7 @@ hash = "b18f138bc62dae245eb715a6878d4fe4cf3c3a1ab74de46367ccc7eaa1a961f9"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped.pw.toml"
-hash = "60c0b0448053f301fc3d9444bcdc0f4985796264dddaf6efea506835c9bdee01"
+hash = "12371945d1517adb5b18b5120841d6225db798bd10eb81449d8cdeaed99d7437"
 metafile = true
 
 [[files]]
@@ -162,13 +174,13 @@ hash = "d3c143c5b518d2a57888cf1916e06bdb0f50e83b8341bf65885cdc769886647f"
 metafile = true
 
 [[files]]
-file = "mods/create.pw.toml"
-hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
+file = "mods/corgilib.pw.toml"
+hash = "fbdd2d7171e9100806bd5db5f10240e7609550efeba69796e8765fbefaeed1fd"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "aa0c2ab534fe56d93d1fb1d25be0a3613c9b05a1cbd5d3be9b72f10179c56232"
+file = "mods/create.pw.toml"
+hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
 metafile = true
 
 [[files]]
@@ -199,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "11bc4d2951f2bbb0dd17c77534f05c909987e19203398558713bc515f441d5a2"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "402ca5410076adcf4bff4211d5d734572e0549955d3613ea0942309ec29a409b"
 metafile = true
 
 [[files]]
@@ -249,11 +266,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
-metafile = true
-
-[[files]]
-file = "mods/lithosphere.pw.toml"
-hash = "fe616bbfbfb8c65ec4672ca62e628b6c54d2901f8f2604f86bf270164b9cb77c"
 metafile = true
 
 [[files]]
@@ -317,6 +329,16 @@ hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "c5c976ed2631dcf28ee9ca6ae601bc12fa993942e4b2a3b9334b23dd9dedeba8"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "9892c42a00d17bde66e9ed9e6cff91d13988046bb4d634e26af4f0e0bf74f0ba"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
@@ -329,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
 metafile = true
 
 [[files]]
@@ -357,8 +384,8 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
-file = "mods/still-life.pw.toml"
-hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
@@ -369,11 +396,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
-metafile = true
-
-[[files]]
-file = "mods/villages-revamped.pw.toml"
-hash = "7d5317ddde3fd75d81bee760f61c604ad054e985e82db21ae3dd6b1d7c704631"
 metafile = true
 
 [[files]]
