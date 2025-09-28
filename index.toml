@@ -70,7 +70,7 @@ hash = "b18f138bc62dae245eb715a6878d4fe4cf3c3a1ab74de46367ccc7eaa1a961f9"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped.pw.toml"
-hash = "e10c8415c47564325b4085739b1573b0414d96e27d2790fb51842c954f1b4c85"
+hash = "60c0b0448053f301fc3d9444bcdc0f4985796264dddaf6efea506835c9bdee01"
 metafile = true
 
 [[files]]
@@ -369,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
+metafile = true
+
+[[files]]
+file = "mods/villages-revamped.pw.toml"
+hash = "7d5317ddde3fd75d81bee760f61c604ad054e985e82db21ae3dd6b1d7c704631"
 metafile = true
 
 [[files]]
