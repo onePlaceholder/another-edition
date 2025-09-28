@@ -1,7 +1,7 @@
 name = "villages-revamped"
-filename = "villages-revamped-v2.4.jar"
+filename = "Villages revamped 1.21.7-8.zip"
 
 [download]
-url = "https://cdn.modrinth.com/data/qtOzkQyw/versions/wDDbY1ww/villages-revamped-v2.4.jar"
+url = "https://cdn.modrinth.com/data/qtOzkQyw/versions/BbYw4y3C/Villages%20revamped%201.21.7-8.zip"
 hash-format = "sha256"
-hash = "a4d33aa3efad50a6fa6b0c23ee3c2d34a044454b584df148023d3ac4f3c23a17"
+hash = "37c4910bd67ec514ac3712e011a995581665ab8f852bd5b914359ca0b982d84a"
