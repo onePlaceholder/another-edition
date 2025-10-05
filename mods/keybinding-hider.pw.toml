@@ -1,13 +1,13 @@
 name = "KeyBinding Hider"
 filename = "key_binding_hider-neoforge-1.1.0+mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "1527bf35aa5195ac5c0035125c104ef0708f4927"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/sr6w9aQc/versions/NdenmujJ/key_binding_hider-neoforge-1.1.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "bad43f642801d02252d4223ea59c1d398882e8bd0a44a1d39c1529965c889c4538b18fc57123b0812532e570cc8382986c4ae759c36a2621cd166d793f64cee8"
 
 [update]
-[update.curseforge]
-file-id = 6326418
-project-id = 1129419
+[update.modrinth]
+mod-id = "sr6w9aQc"
+version = "NdenmujJ"
