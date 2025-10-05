@@ -1,0 +1,13 @@
+name = "Vanilla-Like Lootr"
+filename = "VanillaLootr-1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aF6tzn03/versions/E0we9009/VanillaLootr-1.20.1.zip"
+hash-format = "sha512"
+hash = "aa49d1798d3333f69fcab8b99c1c65b79350d55df9f3df04b491a7b8b23dc629b0f55a0819445e8dc8f58c0e94e5a12284ca7be1fb112975e4a3485bccd1b2f6"
+
+[update]
+[update.modrinth]
+mod-id = "aF6tzn03"
+version = "E0we9009"

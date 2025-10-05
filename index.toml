@@ -1,48 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "5a6a82985b4a705e2c02363d4864cdfccb27e6cae1a10dbbce733fb25a67e16e"
-
-[[files]]
-file = "config/accessories.json5"
-hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
-
-[[files]]
-file = "config/backpacked.client.toml"
-hash = "a55e8c2de90805b775e3dd4d1b28aa56d0651b0aa635c022e413dfc7b0eab126"
-
-[[files]]
-file = "config/backpacked.server.toml"
-hash = "0fc7b93f00149525ac7b0602619d2d7148bfbf0824af48ac82bf2404a9fc340e"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "f6699c0cffd1c12032234a7ba3121a91fab887e144d1ed1119f40bb762fa631a"
-
-[[files]]
-file = "config/fancymenu/customization/accessories_screen.txt"
-hash = "555c04b5ef48381203c80d38501ca4d243719873785bb96292c86ad2491e1bf8"
-
-[[files]]
-file = "config/fancymenu/customization/options_screen.txt"
-hash = "9d7674570d99381b80e5d107d9525883b2b4dd895f107c24b0fc80d098ba1f27"
-
-[[files]]
-file = "config/fancymenu/customization/pause_screen.txt"
-hash = "2be2535ea39bc9e5c044ba41c2b68029c03112806decc9d761dc3fce570b0d91"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen.txt"
-hash = "0f7801a9c04194571135c4017b5748a7cecbe58fb54756505bb33c097493f4ca"
-
-[[files]]
 file = "config/fancymenu/options.txt"
-hash = "f3cdf5733a32ce028c77f6518f33f5cdeadd4a84774cd0852cecda6caf0387f1"
+hash = "790d62d3b8d0bbb2c874469ebb484c124796d2b8a3e1cf5c704bb86d124eb6b3"
 
 [[files]]
 file = "config/iris.properties"
-hash = "e8d12774587fdf27939890534913669ab58991ee956d6f511b95cd93dd104726"
+hash = "3b94a1b2fa451b17f557179232ff672a1cb50c84f204987491e8a5ea52cde9bb"
 
 [[files]]
 file = "config/key_binding_hider.toml"
@@ -57,1877 +21,181 @@ file = "config/nerb/general.yaml"
 hash = "f61867aa5a2231e87f99a55e5e6d710e42865f1e7174409ccbbb61fc0ed8b36c"
 
 [[files]]
-file = "config/netherportalspread.json5"
-hash = "c1b5644358ed4a811e33a2833fb36e775f9ac2cb785e746c0e290446e7dbc811"
-
-[[files]]
 file = "config/toastcontrol-client.toml"
 hash = "ad75c971753c61026d3b5e067d224615691315fe57fb7562316520a2beefea02"
 
 [[files]]
-file = "config/ysns.json"
-hash = "3ded99e8e9adb7a000b02ece630b579118fbf422ff3fddd89924ceae4323cbd6"
-
-[[files]]
 file = "emi.json"
-hash = "b18f138bc62dae245eb715a6878d4fe4cf3c3a1ab74de46367ccc7eaa1a961f9"
+hash = "1638abe6648461f8108a001102920e914cd9d36da011c2f2f6b72f9a2e0e94bf"
 
 [[files]]
-file = "global_packs/required_resources/vanilla-lootr.pw.toml"
-hash = "01a9a3c0c1c30e89f03b3661bd1f4224bc4aa4587c4fe3d7cb57b65801ef8e24"
+file = "global_packs/required_data/villages-revamped.pw.toml"
+hash = "27a08123f9109c234f3ab244ec16a0b0633be47db21dd2798d078da3ddd55869"
 metafile = true
 
 [[files]]
-file = "kubejs/assets/jungle_villager_trader/textures/block/jungletraderblockfront.png"
-hash = "6a9f1722e15b524b7817c3b9139dede0f1b68a6559db9a718ca5c2433a002ee8"
+file = "global_packs/required_data/william-wythers-overhauled-overworld-(datapack).pw.toml"
+hash = "fc6aa4383db7badfff28c3a0c93eb1c1d66bffa4c0230ec98747b4de75990554"
+metafile = true
 
 [[files]]
-file = "kubejs/assets/jungle_villager_trader/textures/block/jungletraderblockside.png"
-hash = "2983b25390d2b88d899906e89b5809ce34f355461a2da9b3c034ff2ddad0df98"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/block/nether_catalyst.json"
-hash = "8f69b53b9190d79527a5035bead5708e1f643a06be96f26936264740b9f8a0eb"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/encased_nether_star.png"
-hash = "eeb55df568a90a59606d2a8fdcc620f91ebb38be8f050617c72f2cc789e3c6e5"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/glass_cage.png"
-hash = "67d659bf5b35c4c3323e296558704d4e7198fab8fdb3a5b8a7e22946d23d674f"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/image/nether_portal.png"
-hash = "7b883ddcb4d957b08af4c85ebf9443973cdef41181fda233d97172dbf9bdcb27"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
-hash = "34c562e36f3af5eef5012f0ac3bfd81be8ebaf0ca35232ad6f4f684d46f51194"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_decor_1.nbt"
-hash = "8040fdc92b105d7b39285823c4103b3b710fb205f175de1c6a78404c37834444"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_decor_10.nbt"
-hash = "b7b74381294f459b7dd0f5091fe67ef810c027f116f0e566edb4fa381932cd7d"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_decor_2.nbt"
-hash = "70d2067288d3314f7af9fad5741588cac7e787c07fe7a9aac7f1ca6c2eb16a64"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_decor_3.nbt"
-hash = "52f3c1d3e0a3cc97ff5401bd679bee6802ade6f02154a509789b937cc12b5df2"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_decor_4.nbt"
-hash = "594008dc1f30c9aa0fc0b5c63a33394ab4c34628bff1f2d0259fd222e93f154f"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_decor_5.nbt"
-hash = "12414d89f5353ffd7d523afd5ded4b33a9b0f77737d4092c9119a92f2ec8be7e"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_decor_6.nbt"
-hash = "ce64d00fa3cabdc18a89375a9b618cefc4563e3eff57d96e723246d4a3d1106f"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_decor_7.nbt"
-hash = "14aaf96eacb515994a3b38e73b0e5fec3d9880738a68b3638ac1901a0335b10c"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_decor_8.nbt"
-hash = "75969e6370303a0578801da5702ab66aa84e65952f8d7e1c627f72f348d011e5"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_decor_9.nbt"
-hash = "0a0c649eca9a5e84727df4df5fae00519b4733e0b0fcb6d8534b60745801387b"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/decor/cherry_empty_decor.nbt"
-hash = "86240e55d71a8842169120a807ae58a2b6ece606fc2285b96972c1478ddc3d18"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_armorer.nbt"
-hash = "e72ce59ea999d708a270db03f9d3ed6ad84f1280e9444cab908eeb5d2f9f6cde"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_big_house.nbt"
-hash = "7f654ded1e08d9f6288d523035b0ee9d4e37207992f80f894edfbfd3d203351d"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_butcher.nbt"
-hash = "93962653acdd95ccb9a8a1438e4bd55f6ed0815679e4ab1dc9bfeffd4e18b2c0"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_cartographer.nbt"
-hash = "445d8e1166aceb5ac87ec386e11052a21422985eb214222e6c17244a3ca19b79"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_farm_1.nbt"
-hash = "cbe36b82c162bd4751813583032e5620be879e40607b19804930cec91d149ff2"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_farm_2.nbt"
-hash = "b4a542e29d55e751173cdf4da832bf884f619fff09735a997f217b87de35b9f1"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_fisher.nbt"
-hash = "a92524b9e782b4222877e23e0f1f59562cdfb64bbeb7335bfd4a1b7ab5beb1c6"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_fletcher.nbt"
-hash = "1386d694617199da01ed14ab2ed05448fa59b443553a12985905cd98ae55d0e4"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_library.nbt"
-hash = "8ea4a96c207a910879220ca8deac0d65f77a296fde78870694bbfe2da000e8ef"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_mason.nbt"
-hash = "7e68ebed4e76a35123fdd52080d237f4b6859deb8f6ccffb9f2a6b8b26348995"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_medium_house.nbt"
-hash = "0839f369bf475c9ec7ad2390fce873e150945e26fd6d307453ee024940f12445"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_pagoda.nbt"
-hash = "de62897a5d8b8a1c988d29b681be567301631ad91f3e134a11e0d9c0c72dafe2"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_shepherd.nbt"
-hash = "423535acc48bc86c54bc7553bf3323a3c20e5711dd808b3d161e7fa8189e157a"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_small_house_1.nbt"
-hash = "73a6967fe1924428741bf4e701d551a3a803102a7a97ce41025974667deda4f2"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_small_house_2.nbt"
-hash = "4c3fc603f69230143fdc922a04d3bc9244a977be5d8c3068c74faa877a258a0f"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_small_house_3.nbt"
-hash = "cde12a2abb106ff5a80ad5ca42596e58b00c0812a41665aa2b12b2042745a86f"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_small_house_4.nbt"
-hash = "336d21133a4b5f7b9a1fbe0d50ef70589442dac4c3003b905d9ecd8d159e176e"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_tannery.nbt"
-hash = "2c6a65e8dec65322ccb4313aab2f3dca957816834f75f7c2e7065f1433754eba"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_toolsmith.nbt"
-hash = "cc2c3c0355d667015c6de2f384c418dfb73459a79e520cff4954b631b00436ed"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/houses/cherry_weaponsmith.nbt"
-hash = "0461702cda25a36b4495ad46d71bb74479766819121e4a3e9bc5f1f01f3d95be"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/streets/cherry_crossroad_1.nbt"
-hash = "ea79cc5e5668ac2962abed415e651675a30285e565c46c9c0e2ae0d9054c2525"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/streets/cherry_crossroad_2.nbt"
-hash = "7d7a9454b1276aef56b0ebb812d173156f3eb116302857cd3099e89e4bf1c587"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/streets/cherry_crossroad_3.nbt"
-hash = "406b346eec42bdb417b2621a4bba28e96445db9d094c4e54f7bd63b1b6126d2c"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/streets/cherry_curve_1.nbt"
-hash = "9f7ab7f7aabb9f057b73f56e5a3a25e4bf98849b92139894d31b0c4e2e9aaea6"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/streets/cherry_curve_2.nbt"
-hash = "a32a218bf601b0724f443848007f00c5a2bdaaf011d40a4d422c7730b5130e5c"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/streets/cherry_straight_1.nbt"
-hash = "0d3bd9676200307533e7e2e7895c4de8eeb382c01202e486c755412c46546147"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/streets/cherry_straight_2.nbt"
-hash = "fd77654970e33a28513f8258861144c071cdc640b00e92bd9800c5cb2714a155"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/terminators/cherry_terminator_1.nbt"
-hash = "ec5f9a97de83888ee08bace9d15942f8fb4e343dbbac05b7f3c20905d77ebea6"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/terminators/cherry_terminator_2.nbt"
-hash = "dc8db529279dd421c8764685447ba9a17ca3e74d4ce2bd6b3d76b6d1b47cd2f8"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/terminators/cherry_terminator_3.nbt"
-hash = "8d4509aefff9897ac36c98a5be38dc314d10395b0a70f7a3ed506b9a946be855"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/town_centers/cherry_meeting_point_1.nbt"
-hash = "3e46176303741981676660606cc56a0ed8717f3e67990cae43f55905b0d34059"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/town_centers/cherry_meeting_point_2.nbt"
-hash = "f06b10c746b29ef26e9f83aedb9bfe4334fa9037e7803d2323b1fa4c32fa4417"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/town_centers/cherry_meeting_point_3.nbt"
-hash = "f1eed3f54a009f227854d6c14cf014502e6d0dcbeffa6ea393765ff8be30ed3f"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/cherry/villagers/unemployed_plains.nbt"
-hash = "c9b968c87fd34293f04814ef2dcebc6be4aafb305e1266ca4ba8980731018970"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/decor/swamp_decor_1.nbt"
-hash = "a862b34142c1c837a3bee88db6096949871dc31aff72604bae6afe313ee081d7"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/decor/swamp_decor_2.nbt"
-hash = "2da1d038d67deb8e4e65b0a59260d08ecc955fed9004dab551d1f36b94287ac4"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/decor/swamp_decor_3.nbt"
-hash = "423dcfd4e277d9173f53b5ed00e9a41f2ab0a3270ff095412b16548fb2aa5e97"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/decor/swamp_decor_4.nbt"
-hash = "462fdf4fbf58ba5c5b4a2c5ee38207f78e9eeb964527046ce49e8c6a0d8a2b39"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/decor/swamp_decor_5.nbt"
-hash = "5d1f10bf11ddf48e3b056ba17c76f5880af1593dac913526beaa1055860777bd"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/decor/swamp_decor_6.nbt"
-hash = "b6d8dad1df650b80b821bfad933c7d559d5c02bd6ce0a96250221e0bc6c44a09"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_armorer.nbt"
-hash = "96e7d260e536af1f83c608fff2950dea1c7a038530f902cae30369f9182ac3bd"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_big_house.nbt"
-hash = "80a367e56eb58fb760ec476ccbad61d9c6bf7bb08c672119adc02ac3e58c0056"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_butcher.nbt"
-hash = "7e1defbcdad17ece1218a34e865511f1313e47169a0c386904b9289378d7dfa2"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_cartographer.nbt"
-hash = "4367503a4e6c6097ed7e28729fbfc9a3a997f8a884b400edc1bd5b2f5fe014b2"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_church.nbt"
-hash = "3c2b7ddf7ebf49f3c2bf414dbd43088f01b0786c636ce66196f3b88937f09093"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_farm1.nbt"
-hash = "5f25e7fd293ca1872c722bf74270625c5e410fbc29afffda28cf92d070411108"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_farm2.nbt"
-hash = "c16f7d96cc9a2849965c690f8030684fb7af630d8a99b092bd43829e1b11c60c"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_fisher.nbt"
-hash = "5a0c65d54b940d50370841810059f4118be17b12e60d2911fcd217f842de8b56"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_fletcher.nbt"
-hash = "58b812099d202e1fc9d0678db940766498eb6392b478feca9d81a32bfd73606f"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_library.nbt"
-hash = "20f9601d6c33b9246953f0bb5b89364f0854e68c9d4de8cd9cbe19f3998bd8a4"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_mason.nbt"
-hash = "14a8f5674f2eeaec8a632c8a170d321011d2b3bb9c16270f34e74fa6f413665f"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_medium_house_1.nbt"
-hash = "be3c1c114d0b5f976766600b7b0de4d1fe5e2827e096b8311d7b475d3c709fa1"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_medium_house_2.nbt"
-hash = "7ddb887f3d570b9ca8dc3cfbc45565df154718a5d27dc5d02f9faaf5c54bc2c9"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_shepherd.nbt"
-hash = "6bee449b21cff7b43c68a2820fbb96afd07dc808e7be250fd7de458f8da92fa6"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_small_house_1.nbt"
-hash = "d09c143da3334153d0a70f3b58550c5de3e30a9b28c7f125dfcdf885a2be080e"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_small_house_2.nbt"
-hash = "87dd461a2e4df9f8223f7c8220269784a03a01a8a091ab0ea5178942c63185bd"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_small_house_3.nbt"
-hash = "9712c8cf54bd94c68d99b12a601e6fd3ecd9325d33a612a510b8302bcd7e9b61"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_small_house_4.nbt"
-hash = "9283a6d7ee7ededb2c11babf092f41f38f899fd237cb14838a18d35cf888a7c8"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_small_house_5.nbt"
-hash = "bc71cd4dc45d3163a62547181e58b142ea5a55bc218a79499fd5532c779bba4a"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_tannery.nbt"
-hash = "c891da45e2aeefdd4e8b8ed6d60e6e9e53f60e39f9c52cdd81af6695f3ddf9a1"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_toolsmith.nbt"
-hash = "3d2b893bde40db4687024df76f72683c569a78aecae440f5cc3d65ffc3d4f146"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/houses/swamp_weaponsmith.nbt"
-hash = "d0ab5b7e695e46dd6f7b1757bb9e2417f78149ce1777e21827be6b10c7e976a5"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/streets/swamp_crossroad_1.nbt"
-hash = "f1166e0d002d90b665f71c689f6fa74237422568bc37fcb2c5e5d218855db2f9"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/streets/swamp_crossroad_2.nbt"
-hash = "ec25ecd148dd74ae4bff62b3bc4f4c80ab98b0f406c21e4e433f7b21dd0753d1"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/streets/swamp_crossroad_3.nbt"
-hash = "2a1f39fa2c49f74b1ff1345625ba95d6dcc8bf3cf4392a96ba01e44a15631f79"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/streets/swamp_curve.nbt"
-hash = "c5b0b2d32b6669fdfc53058c57fd38d489168cee2b8e5b92ee0d70d6df4cfabe"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/streets/swamp_deadend.nbt"
-hash = "3e3d2551cece96951ffc71fee7994ef026bca631dddbf304ac417934ba728c52"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/streets/swamp_straight.nbt"
-hash = "6b5d1e25d7ea16be6ca7208d2aad412b2933bcff911b3901a4d4cd198d81f5be"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/streets/swamp_straight2.nbt"
-hash = "d67b257bc60a2e89304afc04439e219113a2c736ae3e332131d1e55683974d90"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/terminators/swamp_terminator_1.nbt"
-hash = "cdb2c93143726ab5139c937603c3d0c360adbfdf22cefb1682401513e0adc475"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/terminators/swamp_terminator_2.nbt"
-hash = "78f4f8f369fe20471662830d8f0fc12fc94f92f51e6d2e66563aa82aba9440a9"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/terminators/swamp_terminator_3.nbt"
-hash = "c229646be70ad02d815f844f7d5624cea45236fe5b100bce855193fddc01fe8c"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/town_centers/swamp_meeting_point_1.nbt"
-hash = "b6b840e53c3cdfe384708ec9e75d58bdf3243316e965ac4b6104ee551d3b6007"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/town_centers/swamp_meeting_point_2.nbt"
-hash = "6eaa2369fd2c103fa4645b5efd48253bf816a251ce71c946e94831fff8432d67"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/town_centers/swamp_meeting_point_3.nbt"
-hash = "606a7808dda3d0003e86584d39dc390665b5d16f3b24abf539a62f170bdea7d0"
-
-[[files]]
-file = "kubejs/data/brutos/structure/village/swamp/villagers/unemployed_swamp.nbt"
-hash = "2bfaea84d32a7d8adcc21e822e41f524ac87e1fe9d21d1f8f7b7580eea727e71"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/cherry/decor.json"
-hash = "395faed7514a936b0009e2d528d6999d8880d6d06c963ac80c875f7c9f3790e4"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/cherry/houses.json"
-hash = "ee2cfa0e24cbbf5c8687de2815ba662ef7dca4edc1587ad77784705178e5207d"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/cherry/streets.json"
-hash = "30ceecf8d4e03d2c1d277cc5ce0762cc19cfee07cfc7f54f53dba47f944118ff"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/cherry/terminators.json"
-hash = "d39f1ad1b0badba006cb66e6451398637ec4bd2965ea4050aeea002c95ff9fe3"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/cherry/town_centers.json"
-hash = "aa85286a2d8ef0c3d40fe4fd224f631712121dc4077272e22471bd7d0c3dea17"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/cherry/villagers.json"
-hash = "761ffb6a7f9e3f712e264fbe958429b2a5501b50408ef68465918d7ca86fceb7"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/swamp/decor.json"
-hash = "cfbd9d0b81581484f3ab3949764106b77133446506c738b3ed6cdf3dcf56ea0c"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/swamp/houses.json"
-hash = "8d9129cf5ee1b9a3f36e80a1c4486192dda9fdb1a0459af20d4e6a1e3f47f2b4"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/swamp/streets.json"
-hash = "935fa01d288ca3f919a4a3370c5460e25b1bd3d562009ea3fbfe890cb878114e"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/swamp/terminators.json"
-hash = "abd73e1e0ed1fc024f4f1e591e72a5fc28302cb0cbdc61028b4e7bc178977a1d"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/swamp/town_centers.json"
-hash = "701628fa97c93ab2a0532304b2a34853b3611b07e84ccbacdd62489ec273d13d"
-
-[[files]]
-file = "kubejs/data/brutos/worldgen/template_pool/village/swamp/villagers.json"
-hash = "256df8a6ea3b6f5c401f1332f95aecd906dd186021a17ba0093f7a666e3b25d2"
-
-[[files]]
-file = "kubejs/data/jungle_villager_trader/worldgen/structure/jungle_trader.json"
-hash = "7f82425c1e0833cc89483b6420fec88508b784077c3ee679cf1e7243e1509811"
-
-[[files]]
-file = "kubejs/data/kubejs/recipe/everything_guide.json"
-hash = "de53fbcc183c9c389edbba498364bf6fcb4260bcd535ba5ce9dc8a10fe775729"
-
-[[files]]
-file = "kubejs/data/kubejs/recipe/nether_catalyst.json"
-hash = "1be4251907213b3364e477e450fcc2389e796757125e4f5715e3eb5e0ca20717"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_1.nbt"
-hash = "63daa212f4e6f11c516563b47e0abbd72960c24f8b64fc2341abfb8237f1129a"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_2.nbt"
-hash = "0da926ddb3210f9a0ea98bf6f29f45241ddc8641b23d80cac853565b8f9d9cff"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_3.nbt"
-hash = "35a174d176816a24519da826f791878b457203432a1e738192bd742e6ef47182"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_4.nbt"
-hash = "9915f6ab177e31a3b4c233b049cea3862b2aed56bcc519adc2fe4c92ec59bf8f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_broken_cage.nbt"
-hash = "16e03f02a7e0e5513895baa44e2502fdb75985f5b6cb912a0ad439776006983f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_broken_iron_cage.nbt"
-hash = "36910e319cbdc7fab2df866ab6e471fb5ea8b0e9b95b4daead922c94e2339aa8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_cage_with_allays_1.nbt"
-hash = "2412246080bfdafc8231ffad0bab557cad9b62a9330bbec3ad00db36c26d82c8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_cage_with_allays_2.nbt"
-hash = "374b208b5bb813727a0e2d6cffdab9b4913414f5f17b3734d0341e78dac75061"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_iron_cage_1.nbt"
-hash = "e441033cd8729981f7aeac5ca4c395512a252a8451140544e7e5a89360634376"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_logs.nbt"
-hash = "abd8fc5c3d306fb8a5cccdd4f9ab2204efa474c00cf8705d64cf4eea54556280"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_plate.nbt"
-hash = "765bf9b6ccf9bb8fd832e25dce98c628395544a085ae32af767e8571f6e21771"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_plate_2.nbt"
-hash = "a1993ec938684df9fa3e932e97f65a6f26a8b31b15e30e2d58444e9d47cf7b1c"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_plate_3.nbt"
-hash = "bbce72b1a14393925b8e845d6ea8831dad6084dd946865c45777f1252d4209d2"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_targets.nbt"
-hash = "1ec3e0d09a28073f54c2236bff8bac7749b7ce45144ff4372104f723f704fd2a"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_villager_cage.nbt"
-hash = "e958fe5b6a2e41c5b96c5f965b88c40609dba0d66c1dac0f8d8ff9186b7f5b53"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/feature_villager_cage_2.nbt"
-hash = "e8c1f6dc16353bbeabd27e119046cec9b2dd36eb1eee5853c7a9600abb775b28"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/pillager_watchtower.nbt"
-hash = "32f1827ce73247b302b204e918d903df646acb178f3129588f4d17f6dc188eb9"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/tent_1.nbt"
-hash = "32f0033194ef8a3340cf8b801c9608e043cdde8a1defc9a1bed7c8b9d3b8f9de"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/tent_2.nbt"
-hash = "798d8dc9fef30c5a13b1e2bebf7ad862519817c97a2dd4db6ef7ec086fd3a8c9"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/tent_3.nbt"
-hash = "8009cc7c444e41d99adcb0e44a55e63cf29aa6aa600ce04a7e3a048f42983b59"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/tent_4.nbt"
-hash = "038112cbf9ae6353413d322c09ce935ed4dc8b568ccabfc82d8cf894c73bd196"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/tent_5.nbt"
-hash = "6c57b59c2b4d8d0f489391b116356fd2898ba0f6f6927f1e4287543f693747ee"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/tent_6.nbt"
-hash = "e2c72e5be38e82ae39ebe9428a10b0d9835b1e5e4fc19a637ca039c710feaec9"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/tent_7.nbt"
-hash = "a560863d9b82483353b79819b1db088e3a4866d529e16562f59641443720d3e9"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/pillager_outpost/wagon.nbt"
-hash = "613f5bf8b42280eea8d97166afc0566f41bca1ff9c14dadd9f5c6a617cb12cec"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/animals/cows_1.nbt"
-hash = "68d5fbafe70bc655556f98c6d0b120ced1c186cb64983e4b626a15f94c8352e3"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/animals/horses_1.nbt"
-hash = "5abdcc93ce158ac5b4d1b7a84fa73890009b3d96e46a85952b24f3a30af92415"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/animals/horses_2.nbt"
-hash = "981a1d8ef53fcf943f7241e6be55a19be3dc044dfcf060d675abcd3023b6fc22"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/animals/horses_3.nbt"
-hash = "878879536de882514b8f38139fcee61d29d4a4e733e080e3f236d36cecf0f51a"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/animals/horses_4.nbt"
-hash = "c50b01204bfc379d74955bda6de29d74d410233b60544eaa134f893cb38dfcf0"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/animals/horses_5.nbt"
-hash = "ba9843da80d5ee0295583a4d2c6c69fd16cddf1c5835b4b066b3b0f7c57e2386"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/animals/pigs_1.nbt"
-hash = "e3bbde06036bc0dbe58207a112f37a1271ab7f5625b4550d0f2d898e78ca4444"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/animals/sheep_1.nbt"
-hash = "31604a342e1c7d6cc72a42a2a6e9fef2b4f1ed7509febc2eadcd8732051a7c5f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/animals/sheep_2.nbt"
-hash = "c7a62b97f39b15cfe9f39471ef702a67107264249dc6eccbcc4334115374017f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/cats/cat_black.nbt"
-hash = "9cc182ff555bbda711f23909aea8dc3a1a611efababe1cf835d956f1915128f6"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/cats/cat_british.nbt"
-hash = "8586421b7bb15cbb144ccecf4a5ab038db833a2a50c6f614e6dc3b982f49a223"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/cats/cat_calico.nbt"
-hash = "55f37a8c9684f362bb539e2451371ce13d9bf71fc5d68e9184e499d0dbb4328b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/cats/cat_jellie.nbt"
-hash = "8c7951bd2271beccada51af10bde33324e6d08458e5e2034b5ebfe727dc4930c"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/cats/cat_persian.nbt"
-hash = "39cf87364f769a96752a9ec7f0cff29fa0cf4cf69e4d2c684d4eb497a7c4a3c3"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/cats/cat_ragdoll.nbt"
-hash = "112685c47e024222aba884e874e3c81b249a2181799d5fda88f29dd89d1b7770"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/cats/cat_red.nbt"
-hash = "af4fdbc28ac76163ebd792ecaa99a325188a605b405fc8f97dac994dc3667bd3"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/cats/cat_siamese.nbt"
-hash = "df8161ea2cfe882609bb5f927147827deadf9f66b000039ee6a6e43a781b02f7"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/cats/cat_tabby.nbt"
-hash = "edcfc0028fa459265068355ea2e990527faf31f4a754be101ebe74e4408cfe72"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/cats/cat_white.nbt"
-hash = "adf613d0c02be3830b4809c68e1c95597439e684a32923825a1d5e33a43599b8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/common/iron_golem.nbt"
-hash = "4ba1f17a1ff3f3262e121f5d4d88ccdeb26af80d121a6397542640cc73e4b5f1"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/camel.nbt"
-hash = "c436e610b1eb5edc7ebe477f12b67ae776ed50ec27547628d150a769dfcbe7df"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_armorer.nbt"
-hash = "d75839303dd9c194966addeb29aa75bcd25c5147bf49123ddb38f84006673f40"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_big_house.nbt"
-hash = "611d45206aee6c00214e84e60959d1f438df231015365a1db916807199bede84"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_butcher.nbt"
-hash = "7a68db289288c6717c22d0fff70d5542b0f975b3a12e776528900309026d83b0"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_cartographer.nbt"
-hash = "950c630f8e0081ea28f167d403beabe3c8069936f3e66ecbf3aed0f1803efc6f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_church.nbt"
-hash = "b8a9fb9ba3a98f67b562340fdffb56fc067da68c01ecaffcfb6b42335fc0d760"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_farm1.nbt"
-hash = "4ae2f6d8244fff55ad069dcb8d717f271c00ada20707458d94d093b588587439"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_farm2.nbt"
-hash = "1a1e28428b8d87bd8f0fd10422183fcf27041b59c0fcf1bce810337f49240a7b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_farm3.nbt"
-hash = "6b150ff21537ff10a7951ea17e3414fbda7f47fcc0614aeca1048ac9084936a0"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_fisher.nbt"
-hash = "21fd3a6ec7499d3f221f7d1bb62ef817e1433f2b28c3953b12167fed2fb758c2"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_fletcher.nbt"
-hash = "1e6624c0b1a0d24d5c36c433d1cfa1507679f9e618eb61845ba5546825d1d1bf"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_library.nbt"
-hash = "70236ba309b501fc3a12853841f8c9a336d72d15e659ec1220ace5540edab70a"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_mason.nbt"
-hash = "f6fd046a68bafe0d6e855a81725ae6e3ce640cf7456bebfb10fa7661e0c41eb5"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_medium_house.nbt"
-hash = "436296e10e31636e0eb96309c05e522292c0736b3408035dacdb279088a3aa4c"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_medium_house2.nbt"
-hash = "6b94f2b974ac52a5f55bc6312954bb002b39c53786080d13d60f0352d82c33ab"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_shepherd.nbt"
-hash = "e4c2818c2a56b4acc5805b4c961ef43712f8ddf45466c5370888e83d48f732d8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_smallhouse.nbt"
-hash = "7776a8fe4f6d1ebaa0b6821045846e2d7e42ea3cac3a730e44eca190882cefab"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_smallhouse2.nbt"
-hash = "dd4c94ba441eff825e23cd09dd34f0ddfdda4e43b6b4a84e2cf49a62e753ff03"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_smallhouse3.nbt"
-hash = "2dc1d6fda7dc42a0d269a158f2aadbbcad2c95f5d7da4f4af62348f379f6a420"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_smallhouse4.nbt"
-hash = "d8f691376f597331721e3347be71b3db8a8f1dad79894ab10e5a883b0722cabf"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_smallhouse5.nbt"
-hash = "cae7bf0d2da828fc822cda8b0e3849a40420a67a587a449d6d455c69dbef1629"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_smallhouse6.nbt"
-hash = "e53a6620cdab6e0b6c477b7b29c3cb9ae55b79d87110d3d2059f467d041d23f4"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_smallhouse7.nbt"
-hash = "e52b53e0cab86dee984a6844af1f416fc3e76144298b49c51bf0a78970c117e1"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_smallhouse8.nbt"
-hash = "c1c589a3cd3eff7bb499fc561edd20f735d6831139dd60871c6c6a7dfeb00b25"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_tannery.nbt"
-hash = "8d6ab631045f665a3a36788ecda935ba533e0384fe7e9466a5ef6f1195b444b5"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_toolsmith.nbt"
-hash = "5f1262c4754dce84537f811ac76d2d858265e2844b854b09b57b68f2fd9b108b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/houses/desert_weaponsmith.nbt"
-hash = "18a479a70cfca1466832fe1284c73f523a673c5e3f2b7bc9a10685f5e52028b7"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_crossroad.nbt"
-hash = "5b9ddedd42487477a2cc98afed126b53a90c8adca943e8a220ba19d3fd6574be"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_crossroad4.nbt"
-hash = "3d21f97537bd89f4bc5fa4ed1ff0771dcfba378746a5433ddd9d580d9e06cba5"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_crossroad5.nbt"
-hash = "d74fff78b16d57e8119dd5fe89fd070c9bbfd5e4dde3f5e4e73881657b69e040"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_curve.nbt"
-hash = "5571bbfeddd31be87cfcbad6a1b847a09a29a295e6cf4791c65573b0de8d52b2"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_curve2.nbt"
-hash = "2b8259d39fe37fb1e2d2706e8f4b184f5a746a8618a268f361a83f5d386755b5"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_deadend.nbt"
-hash = "acc47ea3d47b68a82eab8a0a36a16530d654db750a0f1e9df53b5d2e82a4b512"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_medium_house.nbt"
-hash = "688e70b5e5247b5932e80b94425ae790e16a81d01dc10bbe9fccc921f09216fa"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_medium_house2.nbt"
-hash = "331e35a285e8718963e2d98f1d8ccd8385db920967b1109d20b26746e4785df3"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_straight.nbt"
-hash = "2a612b3b416949d2eb6edaa3a933201122a20af43e3356ce4419a06c737fcaaf"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_straight2.nbt"
-hash = "958f3b95af36dd608b88dee1568111a6a672a3d0be9ac59f2437039f5cb27b30"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/streets/desert_straight3.nbt"
-hash = "b4324b2876f71b81066b64f0e2a58f7fbdcf6e1324e82fd96ec1d1d154c146fe"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/terminators/terminator_01.nbt"
-hash = "df8c760af8e3e484963c0ad5d3d0dcfdcda4606590d2699bb3b27e371c5ce02c"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/terminators/terminator_02.nbt"
-hash = "1ed1b5962ad68ca71f68615dd60c9bc1ff284218a93e70f92187fc0d09be544a"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/town_centers/desert_market.nbt"
-hash = "11c4ecb8a476f3c020b20818ca64a14735a3ea59f97d8a78ca29eba5ca14b8b8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/town_centers/desert_meeting_point_1.nbt"
-hash = "d7d6801f0cd6b4cab6e455594c64fd353fc3bd08303c865ad8a8f2a32b6cb62a"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/town_centers/desert_meeting_point_2.nbt"
-hash = "8b996c13f8e2a69df21e71778f3a79331262b972693f8e97515404e742ddabbb"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/desert/villagers/unemployed_desert.nbt"
-hash = "4c356d96d9b5c43a12d8da5139820d3bb1586df2ad1c6c585c58e6b7ea4186b8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/decor/plains_decor_1.nbt"
-hash = "0fe30f2a4afafc6119e9f3360cbef4e405c966e26853dc32cd4b727f19c08383"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/decor/plains_decor_2.nbt"
-hash = "9ff888bf1e773fe7c15bc6c91521e56671a6d5446d6eac7dc09743893ebc1021"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/decor/plains_decor_3.nbt"
-hash = "b093a9c52320122ae296fd042166d95b090dde7b7f45ac9560bc740b1f672583"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/decor/plains_decor_4.nbt"
-hash = "f56919da51d21c936c27c82ff0a552fb0ca90f70375ed99fc9d6ee35aea6ad0b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_armorer.nbt"
-hash = "fe6156b555c79f971707293a8fa94b0b54b496bc6b8546ecdf8520189b890391"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_big_house.nbt"
-hash = "548762a4c0da4733e4b85d259f384129a4229bba2f7dd64f1e8c9ddb55cc8266"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_butcher.nbt"
-hash = "7842fb81fc53a17cec1e1faded45b529d8ea16a0ebb211a0a018c32de659f0c1"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_cartographer.nbt"
-hash = "f8ae3010d271f4536f5ba7d7b62f450c5a4417eb932c855a5178dec18b913671"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_church.nbt"
-hash = "564151dccfff82fab0a7b105d7da283679c03faf805c9d2735409c6a74061b60"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_farm1.nbt"
-hash = "32aa579a265a976d1c0e33346f6b0d5e7372fc52b99285576761b27a65cea9a6"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_farm2.nbt"
-hash = "cd0082d5d79da498eed7857463dcd0b1aa2a0d4e49167b2a2a82862ff34c7d65"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_fisher.nbt"
-hash = "929e92a160bd64a75285b1067672df334be86a5ee10dc94357ad89273aecf916"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_fletcher.nbt"
-hash = "74923a6bfff646dafbb8be495624567d124286f05879e65002121bbdf5c70fb0"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_library.nbt"
-hash = "9a774486b7c8d5e04332b7e8bd158d9c4221b43ee455e710fb199b72b865486c"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_mason.nbt"
-hash = "51fc518d10a5840f232e838cc40ec6ec27276da42855726e3302d4cbcce3e885"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_medium_house.nbt"
-hash = "39a99fd1b9852482a7862d7a41e87c1cfa7434b13dc75ba1d508ac247b83b6fd"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_medium_house2.nbt"
-hash = "74303547e3fc1ce6f1fd2b25083486299cefb7d7113e7b026e8e578f939f5934"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_shepherd.nbt"
-hash = "bf52e8492252f159d06f3b12aae2cc4375f583c4374cb1555eb32b7ea3d3867a"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_smallhouse.nbt"
-hash = "f8c2318c7fcdb4f8727caf1e1ebf2d53981b6c6e8cea6cc46bae6d20c93d0d7b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_smallhouse2.nbt"
-hash = "1f759ace659e0d96d8342c94195a384384a717e723504e756912ce4488e102de"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_smallhouse3.nbt"
-hash = "a85203a517f456be16711980b2d32861405cd662676c73ed6bab891186437160"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_smallhouse4.nbt"
-hash = "edb9b097da23694a8c4c41e9ce423a5e59f083b1f53521425c648bdaece10c01"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_stable.nbt"
-hash = "8faa2a0a56c0d5c93591fb8431acf09098f20b5aab61bd6adc13905a1ee23f05"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_tannery.nbt"
-hash = "0c13b5505bbb0bc2d6b60c0417cb1caf5c2ae0c17f020e07517593a0e8a75a93"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_toolsmith.nbt"
-hash = "6c1a170f6fcd2236642038362b0bd31c63382f219c48c1968c447c862c16c9b6"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/houses/plains_weaponsmith.nbt"
-hash = "c63605397a6322fb9b969abaf024d67f177aa76f8e5659c017d47eae20782226"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/plains_fisher.nbt"
-hash = "654876a57b6791dafa1625f8ff1ff941943b378662f8aeef5c6ac36108631ce4"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/streets/plains_crossroad_1.nbt"
-hash = "4ab532daf124edeef0820c483692561a610b76314dc1dfa937e381f2c8840f86"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/streets/plains_crossroad_2.nbt"
-hash = "e7ba7524dae706c554fcc8019bbc5fd91124124e63b650851764f62ff62c8b11"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/streets/plains_crossroad_3.nbt"
-hash = "ed45581b8e51f43d606fa53ed83829e7c9772fe8d2706aa501692418e2d35389"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/streets/plains_curve.nbt"
-hash = "0ff166cb0ab6e6ae51014b3cc47f71722de6f3b4e6886acd45fb910ffdd224f2"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/streets/plains_deadend.nbt"
-hash = "2c026867e2bce6fa18fa2863de0b4e1ad2ee728f1023ca924507b502720f893d"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/streets/plains_straight.nbt"
-hash = "e0f8ddbff73bd5ea45a2a994ae1fa27daf528151b055192979a1bcc93b023f9f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/streets/plains_straight2.nbt"
-hash = "6793f52200e0133e2e1dab7e9c6c367067a42ea43df5b9758c0cf15be6c6807d"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/streets/plains_straight3.nbt"
-hash = "54e8daa327983d352ce327357a742dbc770b73c8eb3ee7c949c88b2edf4999e7"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/streets/plains_straight4.nbt"
-hash = "c4c92a9cdf3f48da07d2f62ed52a12112570d78f45ba4bb90dbd95c07ac55a69"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/terminators/terminator_01.nbt"
-hash = "2fee89887f4cd6b9526d7ac13e670d50aa7f59c38d914c83acc48816b211a667"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/terminators/terminator_02.nbt"
-hash = "4b0d6630b31a8dd612325a3e4a54840d4858c7abaf43554fb16cd6b244238b43"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/terminators/terminator_03.nbt"
-hash = "8e1a539b084b5e935a1f5d9cc60c7864934ba1f6eb5ade78016bddcf64aecb5c"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/terminators/terminator_04.nbt"
-hash = "eb3a53b8b9992137f83e36fd659ddb311299ee3dfbd6ff7a20c2dd370853a3bc"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/town_centers/plains_market.nbt"
-hash = "fe2543aac67f4b68823666594fd962dcb67495bc2f8b75c65fc163f1db793664"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/town_centers/plains_meeting_point_1.nbt"
-hash = "0021ec983fc37b2152bc01bd0615f71c96c8ce8c4f3a5148962ee3e49f4fda29"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/town_centers/plains_meeting_point_2.nbt"
-hash = "25c8e068a0219c499ef263b3c02b670d5fc1b90b616e96754fd24482186115a1"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/plains/villagers/unemployed_plains.nbt"
-hash = "c9b968c87fd34293f04814ef2dcebc6be4aafb305e1266ca4ba8980731018970"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_armorer.nbt"
-hash = "b2c7a32232348705914dc9dab9fef99f65ecb40ae113213033565d3d64392a99"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_big_house.nbt"
-hash = "f46dbfc9157d1a6c8ad4bacc47a5e90229c9bb3af4a26f3f44320d35ffb1c6f2"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_butcher.nbt"
-hash = "e1f8307f5334c6b96fa5f0fd8a0aa500c521a7b87f692b627d8610b0fcef9c1e"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_cartographer.nbt"
-hash = "82c0716e18103aa67a84db95db9bd81872e8f9dc4a3316ce7b17ea3dadca8d92"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_farm1.nbt"
-hash = "27b6119ee96939ba46915e90fbbf9188ab0a19bd7c3b2a29c118ea5c620178ca"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_farm2.nbt"
-hash = "4287ce4620d171404f37be401efc738f002608455cb61408a14449378b77cd0c"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_fisher.nbt"
-hash = "e8c528a0ce005e52e0e0584fdb9b95cc2b80fae7957127d60060421ded79c999"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_library.nbt"
-hash = "2abdf5ae1182c3460d00553489ab4e5af71c73dca30bae23e3598777edfe8558"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_mason.nbt"
-hash = "1d6e1400a6179aa5f247b72204d1bbf04e2cf2a57b015e13cf0c26b9f3941a9f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_medium_house1.nbt"
-hash = "40d606e9098955052272e343c6499bbfb3e65d9327ac309b50d17ee92ceb2e62"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_medium_house2.nbt"
-hash = "b141670b9af404863ad6ab5234204e97789fd717ea7e23c5e2b80dc74d9b4003"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_shepherd.nbt"
-hash = "bf853b57779b56897dd9619d999bb4ad6a2053de4cd84f44673c207cb72ee59f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_tannery.nbt"
-hash = "d75acf813e7a87ff19cdaac20c2dc851813d65fa34a2a932397f24d0a57661b9"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_teepee1.nbt"
-hash = "0de47c3164369ff52a9e4f0c2e6a6ba755dab323b5d98421d12c7122a16a49c8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_teepee2.nbt"
-hash = "06515cc904718e4808dad60ec1340ce26be6e169b493043e4094a6cc09242bfa"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_teepee3.nbt"
-hash = "e141ecbff133447acff7aeabc69dcebdb04ba262ff506a5ee70705de0d978d4a"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_temple.nbt"
-hash = "2c1e4c1554f1d5edf04e7291621365ee8aa3c0b022d9da0d11c1200640f907c6"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_toolsmith.nbt"
-hash = "182b43a22f2d6c77c8ae5e91944d65e0d31aa8976c52e31741692adef0ce5f79"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/houses/savanna_weaponsmith.nbt"
-hash = "344cb29fe48a15264916fe1440e7456699bdf02061c211a3a085d833a387cb09"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/streets/savanna_circle1.nbt"
-hash = "a3124c828b190301a03dfc95a74c9851cf4228a7b2dff370d4c82bfb7927c9ea"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/streets/savanna_circle2.nbt"
-hash = "7e37747059a4e8ac81f7b4d0a2bd297b468e555298fbc7ea7b6adcaa485fbd53"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/streets/savanna_curve1.nbt"
-hash = "a31a015ef4cd3a6a2f3e85a657a5d4a048bb9c68520c35052430227c67b6e127"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/streets/savanna_curve2.nbt"
-hash = "816b2b347d40b1a157daf53052621aa1934b149b01139f436eb44c8fd4b396d9"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/streets/savanna_straight1.nbt"
-hash = "e6c243dee3e6ba961a5fb806855470411f6c12c38fcb487bcb39a44383f34229"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/streets/savanna_straight2.nbt"
-hash = "3f461781892c859db6b2464ee626bf88d25f2c30025319938d22c406159b0878"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/streets/savanna_straight3.nbt"
-hash = "3ecda9e29a5fa5c93b967d039c5c8224da7a7bea631a093e3387ba672043007e"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/streets/savanna_straight4.nbt"
-hash = "96af21bef72b6c7914965f732fb91db85192e81ed9eba09b63472ee4d66a6534"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/terminators/terminator_01.nbt"
-hash = "aea4a10f9a1d1ce75b1e389c79c9fb967528197caa33a3845223b93cd33673c0"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/terminators/terminator_02.nbt"
-hash = "277471ea07ea0c5e3fc6bc5c81d91a7d65a6b80ce10bb81ba62d7feab46b51c2"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/terminators/terminator_03.nbt"
-hash = "e69f3cd4ff858971644b69dfe5eb45df924ebc68dacd8c4b0d7eac07bf20839b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/terminators/terminator_04.nbt"
-hash = "b2c988756589545a5fbbb56e02ca0f48cd47db62d41335e4eec940223f5ed29a"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/town_centers/savanna_market.nbt"
-hash = "b2f0cd38979b2eac22587025fb1cac335656958b012db6357d88b7084339f827"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/town_centers/savanna_teepee_crossing.nbt"
-hash = "af5e3863fe51ce5e2614b6b0946900ec62191b0182776cc7d5a22a8650b2bcfa"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/town_centers/savanna_totem.nbt"
-hash = "1645a4dff3a396f3786482e2fa69b053d2eda80905605da4f3279fb50ca6d5a9"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/town_centers/savanna_tree_crossing.nbt"
-hash = "c8e623dbe01bcd4a7505dfbd5e06723e4069ca1cf10408247bc76b5167f2ad36"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/savanna/villagers/unemployed_savanna.nbt"
-hash = "c1bc13b66c4c99a12acbd8d2967ca192348f6e5b05fe321adc2754e0dd9c5eb8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/decor/snowy_decor_1.nbt"
-hash = "4086dba03e28074e04d5108857de149a55fcb8a0a9fad5239672582675cdfe10"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/decor/snowy_decor_2.nbt"
-hash = "13fee8052f18f9de1dc2fe0f637fa3478d249b86ea0c8bf0b06aea653ca37c45"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/decor/snowy_decor_3.nbt"
-hash = "d871a9386f24785dcd6fe418441d43835fb83564f82b76edf5918ac77f6aca12"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/decor/snowy_decor_4.nbt"
-hash = "d56c2ff6c68e15c9429fda004a9311a8f27c2250afc07dc1d25416b38d3484b0"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_animal_pen_1.nbt"
-hash = "3c6df6408e9afa30eacac6ac78a3c5892c8acc9cf6c10149eef719cf3585e36e"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_animal_pen_2.nbt"
-hash = "01b59bdd03609060194c96a9ebf8f60bc3881e18c26daa68aa4980ecd704b7ad"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_armorer.nbt"
-hash = "7316fb4298b9a295684c15ded3fad534eb1f6e1ce01b83381016f4a0097bf177"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_butcher.nbt"
-hash = "a68ccaf93c20d53df40a0429a6a8705561c73f12da525029e6b031d56eaab856"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_cartographer.nbt"
-hash = "66a1e0769e3a647180974d4de5321a4656ba10b75622e8c5576ba872bbff8bb9"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_chicken_coop.nbt"
-hash = "e6220afc9b1c4b967ae9c8a71fd9331af7e8c6f4dd29dccc1b10ded5a5e87029"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_fisher.nbt"
-hash = "e08298a9d0a5d238a85c11f32586d446cad51f7c53db7a374a1ce2c5e9f73a16"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_fletcher.nbt"
-hash = "d8bc1c77b73337b6974b37da174d3e27f4989eb67f0b3ba5acfff41b8ca3c37f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_library.nbt"
-hash = "48766f6839e0761fb1f9467624877307d4f41badb820ffce3ec07696cfc48a6b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_longhouse.nbt"
-hash = "dafa91194a154ec7364bae85efb3085c23268ec7fcfe3ace730b52e86b69fa96"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_mason.nbt"
-hash = "f6eb527aa9df1faed71381e543454a25b5bb9b99255bd9fc5c393c0e963135fd"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_medium_house_1.nbt"
-hash = "736c14cc71640d01ce14ba844bc91fa6d59a1b1ccedd2e7ffaaabafab05c12d4"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_medium_house_2.nbt"
-hash = "bc384af11851d91ce24365a58e1b11c589612ddc586542ff1bde8d1d313f6305"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_shepherd.nbt"
-hash = "4b96ecf10c7b7cc5f017a6eb1be5964824c926ccdc7d3fe030a75c491772fb90"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_small_house_1.nbt"
-hash = "7d0f3bb8f5c93eb91519f270d872e29d70734608c87c5ff675ef2773177e1511"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_small_house_2.nbt"
-hash = "12444dc66fd35265426b23002461b09f908c1e4a8b0a8d44511bf5cb39512b7e"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_small_house_3.nbt"
-hash = "5f09e13d73d6ca14e2c0b02d790daec380409b588c0bbf7f70c00f6c644a75cc"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_small_house_4.nbt"
-hash = "0a6a469ab7c801b444700bad731c1da67fc61a745efb0afc78157dedcf8fb658"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_small_house_5.nbt"
-hash = "00374055a327af0885a5cf66c517e37b0f5c164c7a69e6d76cd17361eb6aa089"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_small_house_6.nbt"
-hash = "478bb511377034b5f116c571015eb904c63b2d7d7de71c0a1300be176bb6436b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_stave_church.nbt"
-hash = "99640e9c4f18c899680c1af14d0a8d5b54246c35530504fe645a7eece60ae7ba"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_tannery.nbt"
-hash = "59e380d83d85e669ae52e6ace47e67b010f00ab0ce605af5d472eb1dcf626dbb"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_toolsmith.nbt"
-hash = "419f28b5db9cec3ac8dfb10fc7af2d2d98fda94053256f4de530b8efeb0cedc8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/houses/snowy_weaponsmith.nbt"
-hash = "24e2dcf39a548045f2d1ac5d8a3a1bb6360274b153013111533b938ce21cf301"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_corner_1.nbt"
-hash = "bc2e4c43b9112d8496c9c116fa8b68fc7a2126b471464906aa5e5288f68a4e36"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_corner_2.nbt"
-hash = "10578d6839046d4a6fe753324a895a98ab4522d7206d5bc0070248b433ac0ebf"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_corner_3.nbt"
-hash = "8001474136d39b9dfee21f90296bec591263d6299b711a7792541c84f887ad8b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_crossroad_3.nbt"
-hash = "172eefeeacc60e1437e95e84967fa39088b9b74e3b7a1de80e96fdb34b5ea3fb"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_crossroad_4.nbt"
-hash = "e407c7f708958f02e93bdde7bf7c1029601c558d496e373e6c2caaba2c6905f1"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_crossroad_5.nbt"
-hash = "ae7f5b6a7ba729b014dc1a318d1ac43a2da392c2262395b6d7ad9616bd0b9c63"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_crossroad_6.nbt"
-hash = "0c1c15afaf8b508c544cb6017f44c96ea28539d88d1f761326fdfa9a2ab13e7b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_square_1.nbt"
-hash = "bd66c03349f8ef3c8b158eb429961a128fa60dd14ec861c95a0faa531d0fcf32"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_straight_1.nbt"
-hash = "c5d97b1aceb9e7c8a3816f1920a1b372764ee99b122ca8f288fff65f559fb0cd"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_straight_2.nbt"
-hash = "70d5234eee47261e879f740e9bab3bdb2c093adbd621ea047dbb64c82ba10a6f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_straight_3.nbt"
-hash = "4c6b50558c47597bd042f164d3aa45e83f195f15b709b1d78d545d7571d9be39"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_straight_4.nbt"
-hash = "7afb26b36d7d72c163ef1aa9482edf794167710f410f809a1f7d7a0a1b82ba58"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_straight_6.nbt"
-hash = "43b6cfd2307cdb2dae108fd77690b048cac2113a447ca68af31e2ea84ae25826"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_straight_8.nbt"
-hash = "bcf57998facdc2f48ac63c9645e171adc15b3209244cf8b0556ef55ed2274249"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/streets/snowy_turn_1.nbt"
-hash = "4cc452a98dc5f56ff6c2fa0afe4da8bd18e2e592170552068f122432c577e15e"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/town_centers/snowy_meeting_point_1.nbt"
-hash = "1ccca4854d10eb9f24784110b313fee07d21678dd54bb9defdf9c6f9c68685e9"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/town_centers/snowy_meeting_point_2.nbt"
-hash = "fad90418528f18252254458f0db7e470ad6a8a9137234909ae5e16ebe9c89742"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/town_centers/snowy_meeting_point_3.nbt"
-hash = "5bed253b711000a9262fa4b8277fa7b4b97c41e35f00db57289f228d4281ebab"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/snowy/villagers/unemployed_snow.nbt"
-hash = "6bfd4966dd6534787deeffb8b792205a5f031f89ff7678327981409492ce7926"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/decor/taiga_decor_1.nbt"
-hash = "ac4d915c5d402fc99dffc88f6a1d712d2b675aedc12bf0ec192608da9471f8e3"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/decor/taiga_decor_2.nbt"
-hash = "24d71da98e341ae0ffee418ac751f20bf5ef2a744f026844df381d237cd9079c"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/decor/taiga_decor_3.nbt"
-hash = "8c887ac35cb1905b33aeb1739d039643aa332d63b8d713b986309cb364d57fda"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/decor/taiga_decor_4.nbt"
-hash = "6054d35a83a33279ef0daffbc5153577422512b93591e1178690e5d822ca0203"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/decor/taiga_decor_5.nbt"
-hash = "0f936f8345008e2d06c50939fb9f3c90d7dffba101dee791c99ee4b65cf94c51"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_armorer.nbt"
-hash = "c589e1600c9f56021294832396460b009d68df738354b451e4dc867fb14eb95f"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_big_house.nbt"
-hash = "96d34d6141e274914e4a9e682d57d79dfbf95c14182732503fd8f2f9d83f4267"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_butcher.nbt"
-hash = "c5e95a6e942d37f054ed5316ba93d3561b671ddcb421a1df3d2bc435c471d90e"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_cartographer.nbt"
-hash = "80f8cefc37a0190ce5df431098affcf7fa44dcf8b95d9e5c779af9f344cc8532"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_church.nbt"
-hash = "08b8b20ce7994b6b70d127ec6c2f6d06d323404346d244e153cacdf06d18682c"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_farm1.nbt"
-hash = "168685ddb66bfa1dfc2c6fd25fa4795eb70e66062810b2232e438d96e90791e8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_farm2.nbt"
-hash = "1eae011d73289087276a5f8d2d2f2b2bc7cd6cbbbd1847f880f28a67d6c7f672"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_farm3.nbt"
-hash = "76cd05c6564476e258b579dd1531d432d8116f07cb68c9d8b68946e2d8c2b446"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_fisher.nbt"
-hash = "7aaae3274017d8a049f36c900411f9f5f77aee799d7de25628b63e45cae2dcfc"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_fletcher.nbt"
-hash = "3fc077da38e53d447183161de07d67c18f0055de7f54e178485a45ce7aa4b889"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_library.nbt"
-hash = "dd563b396e4085a42f6e5727a0f77a8209b94395facbc30edeeac12e7db2a541"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_mason.nbt"
-hash = "3662f27f7515b55869a53525d9b21a492393e84b06e6b9957f038919a4b136c8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_medium_house.nbt"
-hash = "e7ff633f97421da1507b38c001ed693423337e8baa5ea3c0b2502e5cfa3169b8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_medium_house2.nbt"
-hash = "e3fd1f43a73c5db60a929894c50bb614429a85f78d1c4e4f0d4647c9e07289b8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_shepherd.nbt"
-hash = "357c74b2f90457dfcbcfef246d940e2e2758bdd9571daa9da488dfea39f719dc"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_smallhouse.nbt"
-hash = "09c8a603ecc5af4eb70ceb497938b08fce6417749d60c8270576337082fa43ff"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_smallhouse2.nbt"
-hash = "106eb93bd56d91d4578080c6258abd18bdf7a28f14d1584edc9846f75183a262"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_smallhouse3.nbt"
-hash = "140625b15fed91ea73833c76fd3891573bb095cfd92d4ff1a96df98711934d64"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_smallhouse4.nbt"
-hash = "eb7f0232ab27bc75ec673f06e8ddebc9d6643be1ad82fd9f91699b01f37f745b"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_stable.nbt"
-hash = "939674b8c0a2446eb3797ef34487ae38ca9a92e9ebaa564b2239e4681866c9c8"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_tannery.nbt"
-hash = "8e2c016263c5143ccb1d498e628ef36a22a8ef74d7bffb24918fa1712cb44777"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_toolsmith.nbt"
-hash = "1587e4e785736c3aebf8ba39032cd5bf7ff29a73ae058d22f23bf5cd05559257"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/houses/taiga_weaponsmith.nbt"
-hash = "4640d293e23ee84ea8a3af7b5905e517b4a4aa5c2ce6a3375a0b3994e8ee5447"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/streets/taiga_crossroad_1.nbt"
-hash = "0c6f7b994645ba8ba88acbb7174929e22c1991c2a9a394137ed8897e304a20ce"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/streets/taiga_crossroad_2.nbt"
-hash = "7a4aa23c71525c6beccaca86cdc3c2ff129b43dd55b28db21a0d980a0d563ad0"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/streets/taiga_crossroad_3.nbt"
-hash = "41f54f2ce2204f4d96aa1e5883d281772041afeeb94a9bcd77fc37d9bd88ff09"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/streets/taiga_curve.nbt"
-hash = "7d41816781edb2fb8d8964b03e9d46ecdbaed97ae27871667d1d9b8f9f0d9b6d"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/streets/taiga_deadend.nbt"
-hash = "625ddbde9c9670e1e9892f23d39a32dca1e29131a80db042224757e5b5334d8d"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/streets/taiga_straight.nbt"
-hash = "adc777af5680c7a2cccfaa3fbae6ea1cecd49e0eb5fba100824a6fa2982ec2dd"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/streets/taiga_straight2.nbt"
-hash = "2ae959dfae3a8778fcc976d7408149b52722afbcaa9a966e8c750e4f7a26f6ee"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/streets/taiga_straight3.nbt"
-hash = "e2ecd39bf0fa0b6db2772fd3574ad1a9eb36af0e30e2d0b15f2fad19d34a06d9"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/streets/taiga_straight4.nbt"
-hash = "41d02576a59de0ef4a81ba59b91350d9f5e1342bdf88721f3cc12f62d9b77a81"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/town_centers/taiga_market.nbt"
-hash = "bf7a4dd74f6bce039720d726f7efdf41e0fd819e6cffb6d03e21e82e6602b31d"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/town_centers/taiga_meeting_point_1.nbt"
-hash = "8ebcdd8f05efe4292ac928d104f06ddccbc546ec086ec3a74870c091e116f583"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/town_centers/taiga_meeting_point_2.nbt"
-hash = "6caed625ea53f07fe6fb50f3c107fd210d50316441e39a0d52588a6ab49a57f3"
-
-[[files]]
-file = "kubejs/data/minecraft/structure/village/taiga/villagers/unemployed_taiga.nbt"
-hash = "635b8a82e6beebac79a5b000d8eb1df7ec4333b178bfc335a33648cde7eedf32"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/structure/village_desert.json"
-hash = "f72db1943627ba9e3a24c846725e7019cb01b0469b6324388a81e91d491b4f5d"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/structure/village_plains.json"
-hash = "727788c2955ab12203c20344be71f95bf713bab0f1d116426bc3cc2b43310c1f"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/structure/village_savanna.json"
-hash = "2956d98397083ac85b9c77cdc01677e56cdf6888b94b0a232d7a9798c820ab2f"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/structure/village_snowy.json"
-hash = "6e4cb5bf8b8858126a7c913b1b509b59104c395c7a52e9fa2b5af2634686e4cc"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/structure/village_taiga.json"
-hash = "3c454218481188b2ee5c8d97577f400452007be46bef2b6dbbbe1c709da2403f"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/desert/camel.json"
-hash = "1bb64e4cda5b691666956ee16881320b8081de29890bf963be8e325f749de2f9"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/desert/houses.json"
-hash = "767c8682b77fe3c32437da21563f2f28cdebb9984b672f3e2ab9fa3a0e0c06c7"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/desert/streets.json"
-hash = "3f6b0bdb445c26ed779ad3885a107ca15c9c36a9c100484a96244e6ba26daee7"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/desert/terminators.json"
-hash = "4526700c8ed1635008bc9cb1827e3007dd446548a3369188b12f9809be9eb513"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/desert/town_centers.json"
-hash = "28d732890b50f58baa3896fa4b468921c6338b8d7113b9702b45789007342161"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/desert/villagers.json"
-hash = "cf3149e83615cc12aec4e48e75e1e7abfd58031feb17c6fa096584f1da5aaaaf"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/plains/decor.json"
-hash = "2c7c823b8839533db3d45fdb4a4150a6472a9f9873942343c300b4d6314baa78"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/plains/houses.json"
-hash = "a59aa2397f565adac0af14246aa76598515719cd0e44da8dddae839eb748181d"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/plains/streets.json"
-hash = "709424ea8906365f66a8cc06a658558683d799d7d4e4a36104c5e11150ce4fc7"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/plains/terminators.json"
-hash = "aa12274c8ec0c1c8d9ff0e7fc3cd0309af891335d7a5febc0c565f3404b3d14e"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/plains/town_centers.json"
-hash = "0c78065475aff1bcdbf863b35910dfdf0b682b5377322c5de2eca701c7bd5976"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/plains/villagers.json"
-hash = "4d600a338a4c945f898f492776054c680b482fff56a281c5c2b53100083b9684"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/savanna/houses.json"
-hash = "c5dee213353d361b972e9e240f6ef144c628b78561a4282ff75d3aeee6387d64"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/savanna/streets.json"
-hash = "436d33c82211a4067b29f407c37f4cca14258253eeadf6628a6893ccca6938c9"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/savanna/terminators.json"
-hash = "405623932f14a13f4f18cbdd0185f8e434891362d53e08fb555fb4be0876b2f0"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/savanna/town_centers.json"
-hash = "b74265f074cb02a07fc3e17ce14ca7af4d9175d1f24103b2b7261ebfbecf304d"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/savanna/villagers.json"
-hash = "62c62759158eda8f6dfc7a130a836ac804af9c766f0a797daf174cda170a62e7"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/snowy/decor.json"
-hash = "7acef6e63942b810c90320ffee7d90ff62b8ba4226869a89958df4c61879a5de"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/snowy/houses.json"
-hash = "1034fe647a34d20ffb802e9ed8ea6229ed0b06f8adcddb619aeb4b3925e3cc61"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/snowy/streets.json"
-hash = "84b81933114d9a60485b3c9c39831421cae3385cd9490a2d9ae2a0deec7fc970"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/snowy/town_centers.json"
-hash = "8de1f2293ba344fa69dcfcceca39eea159938fceb874bcc33921d93dca8f43cd"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/snowy/villagers.json"
-hash = "4217b2efe17c7d417e39b3b0b20587599e6911e0cf1a0e45eef12e2552a2f8f2"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/taiga/decor.json"
-hash = "61c3e70f13f485c7a93c9da68c82067d8b6a5e857031e8f3cf0d7f381372018e"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/taiga/houses.json"
-hash = "d0bd1732d21ebcd4a98526e18d89dd76ff2452368a11ef78e5949af725e23cb6"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/taiga/streets.json"
-hash = "2fcdea93b0df2442331eac8067ae9d8c439c89e23fce1698ebbb45798486757b"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/taiga/town_centers.json"
-hash = "d60fbb378ea0ec2ca358b85030ffd4650074ac3ecf67396aaf6a6bab3826cb18"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/template_pool/village/taiga/villagers.json"
-hash = "6fcf43c837cce6d10880f7fa4939844a475bc770f67bd6fc30d4fef34185d995"
-
-[[files]]
-file = "kubejs/data/vsrevamped/loot_table/chests/village/village_cherry_house.json"
-hash = "c534e33b9b1d21c92406b120530ea82aec419c22d57671f4bf4e9ee32bb4378a"
-
-[[files]]
-file = "kubejs/data/vsrevamped/loot_table/chests/village/village_library.json"
-hash = "db75ab23e540fd7362244895be52884d4cde9f0d1da3155cd2525e8f37a7e224"
-
-[[files]]
-file = "kubejs/data/vsrevamped/loot_table/chests/village/village_swamp_house.json"
-hash = "7cec92c1c9c48116481b5c295463b7f7b9c955ab6360ee216ddd71f8db74c7b9"
-
-[[files]]
-file = "kubejs/data/vsrevamped/worldgen/processor_list/plains_streets.json"
-hash = "7af34616f3894c871e3411c34c5d456b66502cf6717e0d422228e6753dd27d40"
-
-[[files]]
-file = "kubejs/data/vsrevamped/worldgen/processor_list/snowy_streets.json"
-hash = "5636e713cd231c8a7a6c0dd184cba2bbc534705731b04b9cea0b18c567773f93"
-
-[[files]]
-file = "kubejs/data/vsrevamped/worldgen/processor_list/swamp_house.json"
-hash = "5f3371c4d3295d76c4ee48204e051ce32f195192c8d223b4656e6952ddd7e7a7"
-
-[[files]]
-file = "kubejs/data/vsrevamped/worldgen/processor_list/swamp_streets.json"
-hash = "294606611d853535ded5f6f4cc3a630a9fc9eb1954aee7fb4f5507ad84410d67"
-
-[[files]]
-file = "kubejs/data/vsrevamped/worldgen/processor_list/taiga_streets.json"
-hash = "294606611d853535ded5f6f4cc3a630a9fc9eb1954aee7fb4f5507ad84410d67"
-
-[[files]]
-file = "kubejs/data/vsrevamped/worldgen/structure/village_cherry.json"
-hash = "34cc5ad77ad0f582ba8ca7a41af5ede1192b208cde2cef4ec46cbbc50764bcdf"
-
-[[files]]
-file = "kubejs/data/vsrevamped/worldgen/structure/village_swamp.json"
-hash = "eb88e9801454c94cdb1732c9abb50816ebe55a9af5977fdae7203e8f604497cc"
-
-[[files]]
-file = "kubejs/data/vsrevamped/worldgen/structure_set/village_cherry.json"
-hash = "dc2f9eb7f8395eac4fa3255347f177dabd38811a080b3d48f9997cdff335d21d"
-
-[[files]]
-file = "kubejs/data/vsrevamped/worldgen/structure_set/village_swamp.json"
-hash = "5d40963f756c54e10385e37c66dc2ba6a296d1ff3aa34a8a8bc25abdaef1556d"
-
-[[files]]
-file = "kubejs/server_scripts/recipes.js"
-hash = "751d12fa036be88310966bae8376611e027a1146deb47d0f0c7d45d0f2ef0610"
-
-[[files]]
-file = "kubejs/startup_scripts/blocks.js"
-hash = "cf5bc7ad5030b3f8ba8d57ce4e83fa9ad334c24307ce3797b66656694b3916cb"
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "f1aef43a2b8b1bf68349196f70cf6289f0dc2b27c2b3098a607aeda801c6c096"
+file = "global_packs/required_resources/vanilla-like-lootr.pw.toml"
+hash = "4788f6bef74a2578bb726d372fa8a925eb6885962aa6b4a0cec1c1722c7a5f9a"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
-metafile = true
-
-[[files]]
-file = "mods/backpacked.pw.toml"
-hash = "12f15a2c28c21b2d964178b00e7d6ec2c3ea43a6e11f96c6ec9c5b3ded75f845"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "21782cf50547212bf6fca41564043a520971c80277ded0f20c94acbdc2ff86ba"
+hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "4696bddb459f4dade3c1be79d05e53566a975ae675d2e80a6e2760edbe223a45"
+hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
 metafile = true
 
 [[files]]
-file = "mods/c2me.pw.toml"
-hash = "a8579efa7df18e9486e582a624e1febbc486c66529467d0947d60f3ae13510ce"
+file = "mods/c2me-neoforge.pw.toml"
+hash = "fb581f4561eb20004b1f4b3f771d44d1b6761bf96cefa5f5f558538d17218858"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
-metafile = true
-
-[[files]]
-file = "mods/collective.pw.toml"
-hash = "d3c143c5b518d2a57888cf1916e06bdb0f50e83b8341bf65885cdc769886647f"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "aa0c2ab534fe56d93d1fb1d25be0a3613c9b05a1cbd5d3be9b72f10179c56232"
+file = "mods/distanthorizons.pw.toml"
+hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
 
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
-hash = "68379d0a55b328fd389cbab544b62d66a1336647102e9222de183c04b1e3ef12"
+hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2021c2bcca844f06ca6b38418ae1a88701f15c9bdc24dc671eeec04268c6eacc"
+hash = "3e381c462223da437f386a6f368e734131395f400b24a8cc0406f6e49c84418f"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "46e93749da629d87becf25d9db950ce2a41dc9e996e4c1af18a63ee20ea4ba86"
-metafile = true
-
-[[files]]
-file = "mods/framework.pw.toml"
-hash = "11bc4d2951f2bbb0dd17c77534f05c909987e19203398558713bc515f441d5a2"
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
+hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-beta.pw.toml"
+hash = "1ad92ffac4c6bd88c6479464cc36fd4c61e3432a6a82039b95f13d96b6326e14"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "070867dc8ae93744959610974b246cbac214141299710cf7f6e961adb165310a"
+hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8fac2e3bd398e8f2e9c4211c0ca2a85ae0f73c7f1b3400ae4d7bc5b0a5c352e0"
-metafile = true
-
-[[files]]
-file = "mods/jungle-villager-trader.pw.toml"
-hash = "373b4137270ddc1637a15336c50f97a0b687c172419d0ad7c4780a0bd91a2455"
+hash = "810d40ac27fd949d2e1b6202485d646445ae2230b2a29de1b9162519217ed152"
 metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "5345bb641d6b9307c6a05f12885315537386519476bd2aee79d9fd1181268a7a"
+hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
 metafile = true
 
 [[files]]
 file = "mods/keybinding-hider.pw.toml"
-hash = "ae599c384e1f975fa826947159cd587747cd0384c26b509e9250aea913531328"
+hash = "be07ff8dfdeb0521d166784ef1177ccdb67e3f4f41fe9756072fa26ca6f19d61"
 metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "51e8c729a6722d04ff85da2afac2b1c2178587be7713027cbc9cd0c58f668929"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "b2e4e9c22fa6dbdedf14fefc64ae45ab6354ff00246e8c950d720ea9198eb75e"
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
-metafile = true
-
-[[files]]
-file = "mods/lithosphere.pw.toml"
-hash = "fe616bbfbfb8c65ec4672ca62e628b6c54d2901f8f2604f86bf270164b9cb77c"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "20084e6c096135548dbceb71e6adb7ed2cdaa66dc4e3e2e3bc2055091e109bbe"
+hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
+hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "252659cbaad2f31f723bf31d8ede250dc4b9c821c469f47b77d74e23864b4b45"
+hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d720ecbf6097102b3243462928c0453f1b4df24a6a0edfa57b83d655fdb2ef75"
-metafile = true
-
-[[files]]
-file = "mods/morejs.pw.toml"
-hash = "b1a1157abdc88e4b6e86f4ea3df6dc41f3e7c5aebd763b5fc7604d1704628886"
+hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
-metafile = true
-
-[[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "6acba5e53610fc3e62bd9641aeaaba056f99248a2d1d86bbf032061a1e408826"
-metafile = true
-
-[[files]]
-file = "mods/nether-portal-spread.pw.toml"
-hash = "be3f2aa8a8b7e14f2ce3d047e2e52de6d4590fdf3e019a248b8756c36a45b8a7"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c39f473bc613a79aaf8717ced14f9e081451118cd53521ac5d6e6cdd469a3f59"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
+hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
 metafile = true
 
 [[files]]
@@ -1937,81 +205,49 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "690f29c73b126a49334f9936b585b915200bf0572f5573fbde200ee256b79c92"
+hash = "efbf6335f63bbe36976d27d294c9b649ab9102b02957c76bd3680e83f71c5d57"
 metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "030c615d6b35ec70f4fbe8cb782512deb05362378ab6ca838874b4490343bc7b"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "29303e55edfda01df3eb2bc7cdb90d505568d4c5996600473e559660ace2e2f4"
-metafile = true
-
-[[files]]
-file = "mods/sleeping-bags.pw.toml"
-hash = "bdb45cc64e12361de3b335ebcb638c6df06a4cdcdbbee415a85011c0b1304a06"
+hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
-metafile = true
-
-[[files]]
-file = "mods/still-life.pw.toml"
-hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
+hash = "59dba91bb98d9ec0b16dfd33cb975635a5b33a3c816b6c6a8f56d0416396b5e1"
 metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
-file = "mods/wthit-forge.pw.toml"
-hash = "c4d951c9b6278e20bfd4e0053fe11131bc6407efd84fad148367d3c108128cbe"
+file = "mods/wthit.pw.toml"
+hash = "4c5042d019eaa4b4b20fec7e18e9413584266aed5bb04120b7bbcd2464fe8b25"
 metafile = true
 
 [[files]]
-file = "mods/yeetusexperimentus.pw.toml"
-hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
 
 [[files]]
-file = "mods/you-shall-not-spawn.pw.toml"
-hash = "b7d675018e09d20876b450f57493c537da693320e3656e3554aca3046331f59f"
-metafile = true
-
-[[files]]
-file = "patchouli_books/everything_guide/book.json"
-hash = "2f3902df58c1a91c336a574af2cc567f26abd31f77a23aebbb924db51de1d64b"
-
-[[files]]
-file = "patchouli_books/everything_guide/en_us/categories/01_nether.json"
-hash = "b99ea6155f65e539aeb87a06d7fd0c6e9ea31913a69220621ee262d13b694004"
-
-[[files]]
-file = "patchouli_books/everything_guide/en_us/entries/nether/01_nether_portal.json"
-hash = "38ec2f7cfa70d6f7ca2c9e6c221fe017daf16958766cbf53cc6c9c3612f561ee"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.6.zip.txt"
 hash = "18c80f3ca872c99a7130688c1a4ad992ba21e8518e5fbc89c6f8b34681d0515f"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
+hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
 metafile = true
