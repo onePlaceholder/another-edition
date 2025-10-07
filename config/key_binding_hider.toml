@@ -4,4 +4,24 @@
 SetKeyBindingToUnknown = true
 
 # List of key bindings to hide
-KeyBindings = ["key.advancements"]
+KeyBindings = [
+    "key.advancements", 
+    "key.modernfix.config",
+    "key.waila.config",
+    "key.waila.toggle_liquid",
+    "placebo.toggleTrails",
+    "placebo.toggleWings",
+    "key.kubejs.kubedex",
+    "key.jei.toggleCheatMode",
+    "key.jei.cheatOneItem",
+    "key.jei.cheatOneItem2",
+    "key.jei.cheatItemStack",
+    "key.jei.cheatItemStack2",
+    "key.jei.copy.recipe.id",
+    "gui.jei.editMode.description",
+    "gui.jei.editMode.description.hide",
+    "gui.jei.editMode.description.hide.wild",
+    "key.jei.toggleCheatModeConfigButton",
+    "key.toastcontrol.clear",
+    "iris.keybind.wireframe"
+]

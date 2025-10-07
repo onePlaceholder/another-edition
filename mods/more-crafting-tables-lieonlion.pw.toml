@@ -1,0 +1,13 @@
+name = "More Crafting Tables (MCT)"
+filename = "MoreCraftingTables-1.2.9+1.21-Neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C5hwIsg1/versions/btNg7Xzi/MoreCraftingTables-1.2.9%2B1.21-Neo.jar"
+hash-format = "sha512"
+hash = "fc3b670fad10d3971fd38c253a4f8d1c697730760f6be3a4178acc1c10ecb438f5c1511b10f4a8a6400c5e4f759fd092663e72227b856c5a846dd38b7ff4a725"
+
+[update]
+[update.modrinth]
+mod-id = "C5hwIsg1"
+version = "btNg7Xzi"

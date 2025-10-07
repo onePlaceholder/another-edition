@@ -1,0 +1,13 @@
+name = "Nether Portal Spread"
+filename = "netherportalspread-1.21.1-8.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z7UX4SHt/versions/KkeWVnMV/netherportalspread-1.21.1-8.4.jar"
+hash-format = "sha512"
+hash = "b1ed52cf1d3b043f0cc6279daf53fb2006b3a490c4b6691596181766923faa04e1d24a7961dbba742e41bad61dc27f2e21670027f8cdbfebf7ffec783a64bf7a"
+
+[update]
+[update.modrinth]
+mod-id = "z7UX4SHt"
+version = "KkeWVnMV"
