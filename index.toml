@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "1e2877f9ad17bfbc35e23b244d967a3f6d656725cab99637bde80b2a9e716d4f"
+
+[[files]]
 file = "config/EndRemastered-NeoForge/Eyes/chocolate_eye.json"
 hash = "8ea07cbfc8fb3009af72390cd81a39bb4e16c505504415859214a9dc71976be8"
 
@@ -92,19 +96,27 @@ file = "kubejs/assets/tph/textures/image/nether_portal.png"
 hash = "7b883ddcb4d957b08af4c85ebf9443973cdef41181fda233d97172dbf9bdcb27"
 
 [[files]]
-file = "kubejs/server_scripts/gamerules.js"
-hash = "988828597c64d78a150c3910e0dd5c6d0b81a0bf01c7eb27113868f0466fc4f6"
+file = "kubejs/config/client.json"
+hash = "9ce64a2ae5d6339d1fda303fe24b19e8b87ef1284b03334c8b28f2458124777c"
 
 [[files]]
-file = "kubejs/server_scripts/player/advancements.js"
-hash = "4bb82faf73fdf5a73e3693ceb1b86e043a375c9b3de37486bcf1c47336005d2c"
+file = "kubejs/config/web_server.json"
+hash = "62e7dc15d755bfdb73271fa00bb3223ad04b2cde2fb93f696050e2fe58ad19a8"
+
+[[files]]
+file = "kubejs/data/lootr/advancement/100loot.json"
+hash = "e03141f9d0de606dc27c66835dc66cea5591b23e5984d203f016fa2e60acee46"
 
 [[files]]
 file = "kubejs/server_scripts/player/logged_in.js"
-hash = "985630fd9edd075c10d4620de20aeb22e5fe1241f0e33a7b4f4d9c5ec76b6607"
+hash = "285ff05dedc3c9cea0674de5f8d8a4a7bf23571473e1257449f7392c7221df7f"
 
 [[files]]
-file = "kubejs/startup_scripts/blocks.js"
+file = "kubejs/server_scripts/server/gamerules.js"
+hash = "988828597c64d78a150c3910e0dd5c6d0b81a0bf01c7eb27113868f0466fc4f6"
+
+[[files]]
+file = "kubejs/startup_scripts/registry/blocks.js"
 hash = "34dfb30df05b335756d8bd2305f5eb2a206f42c90c3c2e02dc17455fd5c3685b"
 
 [[files]]
