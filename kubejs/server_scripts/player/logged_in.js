@@ -1,4 +1,4 @@
-ServerEvents.playerLoggedIn(event => {
+PlayerEvents.loggedIn(event => {
   const player = event.player;
   
   if (!player.persistentData.contains("gotGuideBook")) {
@@ -6,4 +6,5 @@ ServerEvents.playerLoggedIn(event => {
 
     player.persistentData.putBoolean("gotGuideBook", true);
   }
+  
 });
