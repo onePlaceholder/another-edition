@@ -1,6 +1,7 @@
 name = "William Wythers' Overhauled Overworld (Datapack)"
 filename = "William Wythers' Overhauled Overworld v2.5.5.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/4pbhwMQz/versions/dBiwUSDa/William%20Wythers%27%20Overhauled%20Overworld%20v2.5.5.zip"

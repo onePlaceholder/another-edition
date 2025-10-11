@@ -1,6 +1,7 @@
 name = "Villages Revamped"
 filename = "Villages revamped 1.21.7-8.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/qtOzkQyw/versions/BbYw4y3C/Villages%20revamped%201.21.7-8.zip"
