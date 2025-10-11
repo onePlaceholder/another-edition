@@ -1,8 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/EndRemastered-NeoForge/Eyes/chocolate_eye.json"
+hash = "8ea07cbfc8fb3009af72390cd81a39bb4e16c505504415859214a9dc71976be8"
+
+[[files]]
+file = "config/EndRemastered-NeoForge/endrem.json"
+hash = "bf31fe6495d7a3fd9f957cad41adb337b311416249d41d97aeded1137820e49c"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "7a2120239c2400cfefdb24bcfa073e686c893050d82f45f4f84f8f56377d4a6a"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen.txt"
+hash = "8959af45d618b48f806b6d6931453e1243c0c11ee241b5591138b1d9c22c20f6"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen.txt"
+hash = "8ff3d3664a72b8a195dbe16fa2cdf925392866a20e447f5271ef66a4868f5774"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "bce354f0e1fc7fe1562473368ab6fc07485bd76caf62c435a3acc5b08c006ca3"
+hash = "790d62d3b8d0bbb2c874469ebb484c124796d2b8a3e1cf5c704bb86d124eb6b3"
 
 [[files]]
 file = "config/iris.properties"
@@ -14,7 +38,7 @@ hash = "ab14cd2d494978bf9796e29e47604250d993a5cc3408595030a818d88d0af6f7"
 
 [[files]]
 file = "config/key_binding_hider.toml"
-hash = "eff76ed53dd673d2d529f99dd9ed6f3dec9ea663c5703c5f6cf0a9d5b97e2865"
+hash = "19c3a5a144cdd73c18d30b9c561983b6d6e7f305c5767532ee53cf8838ea6303"
 
 [[files]]
 file = "config/lootr-common.toml"
@@ -38,18 +62,46 @@ hash = "1638abe6648461f8108a001102920e914cd9d36da011c2f2f6b72f9a2e0e94bf"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped.pw.toml"
-hash = "27a08123f9109c234f3ab244ec16a0b0633be47db21dd2798d078da3ddd55869"
+hash = "2f707eb6de478759d6fd180cc0a5380c1e4e8edb7f2e677ba8b36a644cda9a0e"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/william-wythers-overhauled-overworld-(datapack).pw.toml"
-hash = "fc6aa4383db7badfff28c3a0c93eb1c1d66bffa4c0230ec98747b4de75990554"
+file = "global_packs/required_data/wwoo.pw.toml"
+hash = "c714ff5ab659a89a934a0d90e79a8fe5228ba59c2d7291aebcfff122051a607d"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/vanilla-like-lootr.pw.toml"
 hash = "4788f6bef74a2578bb726d372fa8a925eb6885962aa6b4a0cec1c1722c7a5f9a"
 metafile = true
+
+[[files]]
+file = "kubejs/assets/tph/models/block/nether_catalyst.json"
+hash = "538a9ce22996197756c6c9aedf060ed5195d1037d919fd3a10c7d17f2c920bb9"
+
+[[files]]
+file = "kubejs/assets/tph/textures/block/encased_nether_star.png"
+hash = "eeb55df568a90a59606d2a8fdcc620f91ebb38be8f050617c72f2cc789e3c6e5"
+
+[[files]]
+file = "kubejs/assets/tph/textures/block/glass_cage.png"
+hash = "67d659bf5b35c4c3323e296558704d4e7198fab8fdb3a5b8a7e22946d23d674f"
+
+[[files]]
+file = "kubejs/assets/tph/textures/image/nether_portal.png"
+hash = "7b883ddcb4d957b08af4c85ebf9443973cdef41181fda233d97172dbf9bdcb27"
+
+[[files]]
+file = "kubejs/server_scripts/default_items.js"
+hash = "4434eee6492630865cd7369ff889a19af6b5d424df91b6747bdbae803c130cd6"
+
+[[files]]
+file = "kubejs/server_scripts/gamerules.js"
+hash = "3b28c5d186e33c4a2006e9d91ebb0a0761f6377c343174eb03518be67ce64829"
+
+[[files]]
+file = "kubejs/startup_scripts/blocks.js"
+hash = "34dfb30df05b335756d8bd2305f5eb2a206f42c90c3c2e02dc17455fd5c3685b"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -87,8 +139,18 @@ hash = "8027f1e38b07a509691bccf2a8c2d35aa069530eb1ebb11adbaed50319c05f44"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -104,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
 metafile = true
 
 [[files]]
@@ -124,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
+metafile = true
+
+[[files]]
+file = "mods/hisuis-backpacks.pw.toml"
+hash = "c1924c3c43bbd640b03786394bddd9d5cf3e984694741f6ea273337ae8b0155f"
 metafile = true
 
 [[files]]
@@ -242,6 +314,11 @@ hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
@@ -267,6 +344,11 @@ hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
@@ -288,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "4c5042d019eaa4b4b20fec7e18e9413584266aed5bb04120b7bbcd2464fe8b25"
+hash = "19a5331331b630f39e30d39373b6754d94b2b481c04bbc421f0ff01ff99ef8ce"
 metafile = true
 
 [[files]]
@@ -297,10 +379,32 @@ hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
+metafile = true
+
+[[files]]
+file = "patchouli_books/everything_guide/book.json"
+hash = "2f3902df58c1a91c336a574af2cc567f26abd31f77a23aebbb924db51de1d64b"
+
+[[files]]
+file = "patchouli_books/everything_guide/en_us/categories/01_nether.json"
+hash = "b99ea6155f65e539aeb87a06d7fd0c6e9ea31913a69220621ee262d13b694004"
+
+[[files]]
+file = "patchouli_books/everything_guide/en_us/entries/nether/01_nether_portal.json"
+hash = "81891e956c539d702db9665ea6876ae7ceeed2f0082210fed541486e89f043fd"
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.6.zip.txt"
 hash = "18c80f3ca872c99a7130688c1a4ad992ba21e8518e5fbc89c6f8b34681d0515f"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true

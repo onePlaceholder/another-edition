@@ -23,5 +23,6 @@ KeyBindings = [
     "gui.jei.editMode.description.hide.wild",
     "key.jei.toggleCheatModeConfigButton",
     "key.toastcontrol.clear",
-    "iris.keybind.wireframe"
+    "iris.keybind.wireframe",
+    "key.curios.open.desc"
 ]

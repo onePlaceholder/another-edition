@@ -1,0 +1,13 @@
+name = "Backpacks"
+filename = "backpacks-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eENOU8TV/versions/vTOUnEcb/backpacks-1.0.3.jar"
+hash-format = "sha512"
+hash = "868fd4cd5e1b29a20b70b93c235de372c438c92148f4ace5842cc3a5dc7c704646391d379751e21019c2f2dac15ca07ff11390fa8937a70c37d8302579692b74"
+
+[update]
+[update.modrinth]
+mod-id = "eENOU8TV"
+version = "vTOUnEcb"
