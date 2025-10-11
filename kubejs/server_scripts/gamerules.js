@@ -3,7 +3,5 @@ ServerEvents.loaded(event => {
     event.server.runCommand("gamerule " + gamerule + " " + value);
   }
   
-  console.log("Setting Gamerules")
-  
   setGamerule("announceAdvancements", false);
 });
