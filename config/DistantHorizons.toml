@@ -275,7 +275,7 @@ _version = 3
 [client]
 	#
 	# Should Distant Horizon's config button appear in Minecraft's options screen next to the fov slider?
-	showDhOptionsButtonInMinecraftUi = true
+	showDhOptionsButtonInMinecraftUi = false
 
 	[client.advanced]
 
@@ -287,7 +287,7 @@ _version = 3
 			updateBranch = "AUTO"
 			#
 			# Automatically check for updates on game launch?
-			enableAutoUpdater = true
+			enableAutoUpdater = false
 			#
 			# Should Distant Horizons silently, automatically download and install new versions? 
 			# This setting is force disabled on dedicated servers for stability reasons.
