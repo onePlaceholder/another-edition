@@ -1,4 +1,4 @@
-name = "thePlaceholder's Modpack"
+name = "Another Edition"
 author = "thePlaceholder"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "95a630a006aa95a1aa3da08e034a60a9717a5da84c6699fee9f1d63db0449e17"
+hash = "dddcb489dfa2205e68c86d65b0300ab14f00af1204d29aa14e2291240351a6f9"
 
 [versions]
 minecraft = "1.21.1"
