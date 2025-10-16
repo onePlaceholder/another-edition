@@ -84,6 +84,34 @@ hash = "4788f6bef74a2578bb726d372fa8a925eb6885962aa6b4a0cec1c1722c7a5f9a"
 metafile = true
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "3481f849332d0e12fc14bc4f778bf33271233d42e9235d5c608fecb9ad476ad2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "e59b6ff23b546e4130fbacf2a6238512d7f49383074be98716f84ee5646152fe"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "bb74d2593e920bb1a0a60c2304c7ea1082b1011f75bd05ab85d15dac8bf2466e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "8edee33f96fe5fb97c431d8cf0cab451ae0d83e7e44ef0293fe4d56ac176f3c1"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "565e13cdc84ac1b4aee46b05056cf03d72304dc31421def23809de70b0ad8a7b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "7efdcb37f8d8909a374c6d2bec9c92016846d1b430bd9ca1333f2a4bb6e2f377"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
+hash = "34c562e36f3af5eef5012f0ac3bfd81be8ebaf0ca35232ad6f4f684d46f51194"
+
+[[files]]
 file = "kubejs/assets/tph/models/block/nether_catalyst.json"
 hash = "538a9ce22996197756c6c9aedf060ed5195d1037d919fd3a10c7d17f2c920bb9"
 
@@ -101,7 +129,7 @@ hash = "7b883ddcb4d957b08af4c85ebf9443973cdef41181fda233d97172dbf9bdcb27"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "9ce64a2ae5d6339d1fda303fe24b19e8b87ef1284b03334c8b28f2458124777c"
+hash = "7bc7f7a48eb190790aa0e17b8e4c6763285d879231dee082aab75e3605a5d3ee"
 
 [[files]]
 file = "kubejs/config/web_server.json"
@@ -145,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "fb581f4561eb20004b1f4b3f771d44d1b6761bf96cefa5f5f558538d17218858"
+hash = "e68d01419e507a29e238603aeb78782db118aee24719f12cc46f6838366f7ef8"
 metafile = true
 
 [[files]]
@@ -180,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f4aa70c2315772ec1887668417d3d736664a732e05b39ffb78e7d5bfeffc19c1"
+hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
 metafile = true
 
 [[files]]
@@ -265,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
+hash = "f9f614ed5761830b6302b040068d4ea3c275e3c69d70e617b4fb2b351c0f0c7d"
 metafile = true
 
 [[files]]
@@ -290,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bcdf2b7b2e4648346526c576824ff02f6d519edf406f8fbcf6d6d73fc1de507d"
+hash = "5c9c02c41b58339395d130c67c5d7c9b0f9037ccac99b210dc757e3ca49dd898"
 metafile = true
 
 [[files]]
@@ -360,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "efbf6335f63bbe36976d27d294c9b649ab9102b02957c76bd3680e83f71c5d57"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
@@ -410,12 +438,12 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
+hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5133ba5cebf363ae855574cf9302479f5e28485d3b26789e91fffe63bb291142"
+hash = "284154ae5488e7c4294c7705cbb880c899c660083f283e5a3477642ebefcce5c"
 
 [[files]]
 file = "patchouli_books/everything_guide/book.json"
