@@ -18,10 +18,6 @@ hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "7a2120239c2400cfefdb24bcfa073e686c893050d82f45f4f84f8f56377d4a6a"
-
-[[files]]
-file = "config/fancymenu/customization/customizablemenus.txt"
 hash = "ce0d84b2b57cf5f1f8223fe000ffe065ed91791a27b82411a9028bf2b85d8647"
 
 [[files]]
@@ -38,7 +34,7 @@ hash = "8ff3d3664a72b8a195dbe16fa2cdf925392866a20e447f5271ef66a4868f5774"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "bce354f0e1fc7fe1562473368ab6fc07485bd76caf62c435a3acc5b08c006ca3"
+hash = "790d62d3b8d0bbb2c874469ebb484c124796d2b8a3e1cf5c704bb86d124eb6b3"
 
 [[files]]
 file = "config/fml.toml"
@@ -46,7 +42,7 @@ hash = "0aabc6f687abea84bba292f06f673cd5c5c208a0c084eb95ee3f7359c4cb479d"
 
 [[files]]
 file = "config/iris.properties"
-hash = "3b94a1b2fa451b17f557179232ff672a1cb50c84f204987491e8a5ea52cde9bb"
+hash = "1815e51f159566c8ea532cf328d26d86a6c996da5929b5f0ab8b3129306325c5"
 
 [[files]]
 file = "config/justzoom/config.txt"
@@ -166,6 +162,11 @@ hash = "988828597c64d78a150c3910e0dd5c6d0b81a0bf01c7eb27113868f0466fc4f6"
 [[files]]
 file = "kubejs/startup_scripts/registry/blocks.js"
 hash = "34dfb30df05b335756d8bd2305f5eb2a206f42c90c3c2e02dc17455fd5c3685b"
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "04cb3ee26933b77b5bf87660921801171536ccee2ab16572232b287f86cc2ae8"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -450,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
 metafile = true
 
 [[files]]
