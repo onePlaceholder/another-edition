@@ -5,16 +5,12 @@ file = "config/DistantHorizons.toml"
 hash = "fb804d21af28c433341ceffd2b5b30798b452d366dd48e95133e44b37ece5a05"
 
 [[files]]
-file = "config/EndRemastered-NeoForge/Eyes/chocolate_eye.json"
-hash = "8ea07cbfc8fb3009af72390cd81a39bb4e16c505504415859214a9dc71976be8"
-
-[[files]]
-file = "config/EndRemastered-NeoForge/endrem.json"
-hash = "bf31fe6495d7a3fd9f957cad41adb337b311416249d41d97aeded1137820e49c"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "57c745de0a97732da110f4504ca55186525a48583341c62cc9d59a39741c7881"
+
+[[files]]
+file = "config/biome_replacer.properties"
+hash = "5de4b44b14f28920477c3be5dfb4a35a5866b0fcc3c7b00c534de1b40a7f145b"
 
 [[files]]
 file = "config/create-client.toml"
@@ -23,6 +19,14 @@ hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "7a2120239c2400cfefdb24bcfa073e686c893050d82f45f4f84f8f56377d4a6a"
+
+[[files]]
+file = "config/fancymenu/customization/customizablemenus.txt"
+hash = "ce0d84b2b57cf5f1f8223fe000ffe065ed91791a27b82411a9028bf2b85d8647"
+
+[[files]]
+file = "config/fancymenu/customization/loading_screen.txt"
+hash = "51e2d768a0db0e5df35f2b2e8be0a0928a74b7d4a4d1771cd4a1e2d674526364"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen.txt"
@@ -34,7 +38,11 @@ hash = "8ff3d3664a72b8a195dbe16fa2cdf925392866a20e447f5271ef66a4868f5774"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "790d62d3b8d0bbb2c874469ebb484c124796d2b8a3e1cf5c704bb86d124eb6b3"
+hash = "bce354f0e1fc7fe1562473368ab6fc07485bd76caf62c435a3acc5b08c006ca3"
+
+[[files]]
+file = "config/fml.toml"
+hash = "0aabc6f687abea84bba292f06f673cd5c5c208a0c084eb95ee3f7359c4cb479d"
 
 [[files]]
 file = "config/iris.properties"
@@ -61,8 +69,16 @@ file = "config/netherportalspread.json5"
 hash = "1d4c2aa6cc1da3d270de6f9af7dff9799b84b707aff45677c094b19670395b73"
 
 [[files]]
+file = "config/sodium-options.json"
+hash = "4e64ca54fd14c86297e5cf90646e422c2b87cd2476dec1e3629a379bce3d50e5"
+
+[[files]]
 file = "config/toastcontrol-client.toml"
 hash = "ad75c971753c61026d3b5e067d224615691315fe57fb7562316520a2beefea02"
+
+[[files]]
+file = "config/waila/waila.json5"
+hash = "48c87556c2dfb81bdf724bef031397bbcb9688b2d62c7b42e4d2e70af9044d90"
 
 [[files]]
 file = "emi.json"
@@ -172,13 +188,18 @@ hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
 metafile = true
 
 [[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "0561785b31075a724066e3bbce75dc1e3206e88bfac191e6857de6928a88dc5b"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "e68d01419e507a29e238603aeb78782db118aee24719f12cc46f6838366f7ef8"
+hash = "32a5a9e5119dd825ca236e5e3e9c87d4d547db30a7e8e7343fc8a90e08df0184"
 metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
+hash = "d44dd1813269e939af3389b556e821bd3d98fda2d75891c23ae2404fa8f13e4a"
 metafile = true
 
 [[files]]
@@ -188,12 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8027f1e38b07a509691bccf2a8c2d35aa069530eb1ebb11adbaed50319c05f44"
-metafile = true
-
-[[files]]
-file = "mods/controlling.pw.toml"
-hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+hash = "8414204dec205b55e58b619434a8047c833e6a0eab02e6b4dd78ae98c90fcdbc"
 metafile = true
 
 [[files]]
@@ -208,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
+hash = "3cbc19d527d7f2930d00e18162bea372ab64a341aaa1f6580b56941908d9ed65"
 metafile = true
 
 [[files]]
@@ -217,13 +233,13 @@ hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "9e0bfb309603870b77dfd202f1456c6e96649d47bf3c4628d56be50fd82a5ccf"
 metafile = true
 
 [[files]]
-file = "mods/endrem.pw.toml"
-hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
@@ -263,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+hash = "c39c13b336613add211ecde8e2fac17663faefcadd68fbf47dd5a77c559af93e"
 metafile = true
 
 [[files]]
@@ -318,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5c9c02c41b58339395d130c67c5d7c9b0f9037ccac99b210dc757e3ca49dd898"
+hash = "a0711646572746ad28e5f19e6887fd7b429c24b3b28d188b2bf967ddebef67d6"
 metafile = true
 
 [[files]]
@@ -423,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "19a5331331b630f39e30d39373b6754d94b2b481c04bbc421f0ff01ff99ef8ce"
+hash = "a17fdba55ba266e29215da416e431415d7bd38e4c921bc580029052eb5f63b31"
 metafile = true
 
 [[files]]
