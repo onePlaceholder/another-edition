@@ -10,11 +10,15 @@ hash = "57c745de0a97732da110f4504ca55186525a48583341c62cc9d59a39741c7881"
 
 [[files]]
 file = "config/biome_replacer.properties"
-hash = "5de4b44b14f28920477c3be5dfb4a35a5866b0fcc3c7b00c534de1b40a7f145b"
+hash = "0048c359419c98896a56371bc6d3572f6e9c4131f4e7e4d7cd85e603a4a90300"
 
 [[files]]
 file = "config/create-client.toml"
 hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
+
+[[files]]
+file = "config/emi.css"
+hash = "0f0f03c7287216949f61e1fc7b4a16741ab074f8189d0bf7bb8be8be308b92b4"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -30,7 +34,7 @@ hash = "8959af45d618b48f806b6d6931453e1243c0c11ee241b5591138b1d9c22c20f6"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen.txt"
-hash = "8ff3d3664a72b8a195dbe16fa2cdf925392866a20e447f5271ef66a4868f5774"
+hash = "ab0bd72d0970c6599e4304f7bab8846f51595c1c80b22c6020eba9870f1449bb"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -50,7 +54,7 @@ hash = "ab14cd2d494978bf9796e29e47604250d993a5cc3408595030a818d88d0af6f7"
 
 [[files]]
 file = "config/key_binding_hider.toml"
-hash = "19c3a5a144cdd73c18d30b9c561983b6d6e7f305c5767532ee53cf8838ea6303"
+hash = "3c2ea3d10ac7b6b531729b7d9adbe6c14ea8672c46c2cfb017a008804600e917"
 
 [[files]]
 file = "config/lootr-common.toml"
@@ -62,7 +66,7 @@ hash = "f61867aa5a2231e87f99a55e5e6d710e42865f1e7174409ccbbb61fc0ed8b36c"
 
 [[files]]
 file = "config/netherportalspread.json5"
-hash = "1d4c2aa6cc1da3d270de6f9af7dff9799b84b707aff45677c094b19670395b73"
+hash = "99343947592905d45d37c24bd1f1ea419b4df933a0f7a0a27cb26f08c376584e"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -73,12 +77,13 @@ file = "config/toastcontrol-client.toml"
 hash = "ad75c971753c61026d3b5e067d224615691315fe57fb7562316520a2beefea02"
 
 [[files]]
-file = "config/waila/waila.json5"
-hash = "48c87556c2dfb81bdf724bef031397bbcb9688b2d62c7b42e4d2e70af9044d90"
-
-[[files]]
 file = "emi.json"
 hash = "1638abe6648461f8108a001102920e914cd9d36da011c2f2f6b72f9a2e0e94bf"
+
+[[files]]
+file = "global_packs/required_data/gm4-shapeless-portals.pw.toml"
+hash = "48b551f1f088fcfaf531001abbac01afbd9a624e3ad1a5d82548abd368fe76ee"
+metafile = true
 
 [[files]]
 file = "global_packs/required_data/villages-revamped.pw.toml"
@@ -141,7 +146,7 @@ hash = "7b883ddcb4d957b08af4c85ebf9443973cdef41181fda233d97172dbf9bdcb27"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "7bc7f7a48eb190790aa0e17b8e4c6763285d879231dee082aab75e3605a5d3ee"
+hash = "ff8fb01cb877e09ec825e988a2ce519fc1faedc1143d61f9af9f1ebf4e546451"
 
 [[files]]
 file = "kubejs/config/web_server.json"
@@ -156,12 +161,12 @@ file = "kubejs/server_scripts/player/logged_in.js"
 hash = "285ff05dedc3c9cea0674de5f8d8a4a7bf23571473e1257449f7392c7221df7f"
 
 [[files]]
-file = "kubejs/server_scripts/server/gamerules.js"
-hash = "988828597c64d78a150c3910e0dd5c6d0b81a0bf01c7eb27113868f0466fc4f6"
+file = "kubejs/server_scripts/server/setup.js"
+hash = "255a0aa22c5f7024e6b943194908b390db739ea7bb593afa73baf05f7eb4aff5"
 
 [[files]]
 file = "kubejs/startup_scripts/registry/blocks.js"
-hash = "34dfb30df05b335756d8bd2305f5eb2a206f42c90c3c2e02dc17455fd5c3685b"
+hash = "c48d021390cedba201a8bfe63230dea054f2ae9185dbdb5ded087c1ba419d160"
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
@@ -280,7 +285,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c39c13b336613add211ecde8e2fac17663faefcadd68fbf47dd5a77c559af93e"
+hash = "83b105e359f17feede2f1fe77bf0f41f40877855fd0d55b6b43a1bd4d4775fab"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
 metafile = true
 
 [[files]]
@@ -305,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
+hash = "c997f342a07ed3e4b8cc6c884b03f1b3d143baaa93ba5e08140b2b2b98167db7"
 metafile = true
 
 [[files]]
@@ -335,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a0711646572746ad28e5f19e6887fd7b429c24b3b28d188b2bf967ddebef67d6"
+hash = "64fc5f01ab1b1bc5481281f282cbb5f4ce79647d59711eda5720442c916b04d2"
 metafile = true
 
 [[files]]
@@ -376,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
+file = "mods/oaks-minimap.pw.toml"
+hash = "8a1da4d7e6c759ed9f2561b6973cae5d9bdfcb4d48e0766694f8cb43153deb9d"
 metafile = true
 
 [[files]]
@@ -439,11 +454,6 @@ hash = "d1a14292fecfc03135e8163af5d695ae5838d87b4937d863b5c334693bb0402f"
 metafile = true
 
 [[files]]
-file = "mods/wthit.pw.toml"
-hash = "a17fdba55ba266e29215da416e431415d7bd38e4c921bc580029052eb5f63b31"
-metafile = true
-
-[[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
@@ -454,8 +464,13 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
+hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
 metafile = true
 
 [[files]]
