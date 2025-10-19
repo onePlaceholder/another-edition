@@ -15,7 +15,7 @@
 	"prefixPortalCoordsInMessage": true,
 	// The radius around the portal to which the nether blocks can spread.
 	// min: 1, max: 100
-	"portalSpreadRadius": 30,
+	"portalSpreadRadius": 8,
 	// The delay in ticks in between the spread around the nether portal. 20 ticks = 1 second.
 	// min: 1, max: 72000
 	"spreadDelayTicks": 40,
@@ -23,10 +23,10 @@
 	// min: 0, max: 1000
 	"instantConvertAmount": 50,
 	// When enabled, blocks the spread effect when there are n (defined) prevent-spread-blocks (defined) within the radius.
-	"preventSpreadWithBlock": true,
+	"preventSpreadWithBlock": false,
 	// The amount of prevent-spread-blocks (defined) needed within the radius of the nether portal to prevent spread.
 	// min: 1, max: 100
 	"preventSpreadBlockAmountNeeded": 1,
 	// The block which prevents the nether portal from spreading. By default a coal block (minecraft:coal_block is the namespace ID).
-	"preventSpreadBlockString": "tph:nether_catalyst"
+	"preventSpreadBlockString": "minecraft:air"
 }

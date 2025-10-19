@@ -3,10 +3,10 @@
   "show_tag_names": false,
   "show_components": false,
   "disable_recipe_book": true,
-  "disable_component_count_tooltip": false,
-  "disable_tab_name_tooltip": false,
+  "disable_component_count_tooltip": true,
+  "disable_tab_name_tooltip": true,
   "export_atlases": false,
   "blur_scaled_pack_icon": true,
-  "custom_stack_size_text": true,
-  "shrink_stack_size_text": true
+  "custom_stack_size_text": false,
+  "shrink_stack_size_text": false
 }

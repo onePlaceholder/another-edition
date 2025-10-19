@@ -1,6 +1,7 @@
 name = "Kotlin for Forge"
 filename = "kotlinforforge-5.10.0-all.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ordsPcFz/versions/pp2cY80Q/kotlinforforge-5.10.0-all.jar"

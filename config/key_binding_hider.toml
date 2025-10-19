@@ -7,8 +7,8 @@ SetKeyBindingToUnknown = true
 KeyBindings = [
     "key.advancements", 
     "key.modernfix.config",
-    "key.waila.config",
-    "key.waila.toggle_liquid",
+    "key.jade.narrate",
+    "key.jade.config",
     "placebo.toggleTrails",
     "placebo.toggleWings",
     "key.kubejs.kubedex",
