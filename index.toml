@@ -389,11 +389,6 @@ hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
-file = "mods/oaks-minimap.pw.toml"
-hash = "8a1da4d7e6c759ed9f2561b6973cae5d9bdfcb4d48e0766694f8cb43153deb9d"
-metafile = true
-
-[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
 metafile = true
