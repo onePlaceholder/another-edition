@@ -1,16 +1,16 @@
 name = "Another Edition"
 author = "thePlaceholder"
-version = "0.1.1"
+version = "0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b7eac263632ba032182d853d4fb3703d6c83aead55b6643c8c496006b6c8815c"
+hash = "7866cc5c01110f9871a3ab2a6585a98bd57f7791a240bb4a8180610c6da25fd1"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.210"
+neoforge = "21.1.211"
 
 [options]
 datapack-folder = "global_packs/required_data"
