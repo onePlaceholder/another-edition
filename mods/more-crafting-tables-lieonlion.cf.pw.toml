@@ -1,0 +1,13 @@
+name = "More Crafting Tables (MCT)"
+filename = "MoreCraftingTables-1.2.9+1.21-Neo.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fe5d1d7001710ee3eba0b8c4efaab75b31615bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5520190
+project-id = 913586

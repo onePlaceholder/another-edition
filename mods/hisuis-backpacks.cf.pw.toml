@@ -1,0 +1,13 @@
+name = "hisui's Backpacks"
+filename = "backpacks-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c97946baf43c28894115c9f9de7d5ebc3779b6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6906238
+project-id = 1244085

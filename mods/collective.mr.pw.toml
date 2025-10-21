@@ -1,0 +1,14 @@
+MetaFile = "mods/collective.pw.toml"
+name = "Collective"
+filename = "collective-1.21.1-8.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/VgvgzdVi/collective-1.21.1-8.11.jar"
+hash-format = "sha512"
+hash = "e4ff1f316142883de0591eaa61b66ccf923eb9665143835c99a7ed74c91ca0ba601abc95fa43f29278138dd39daef37add684c02cf1ecac54f33bdd9e42f72fc"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "VgvgzdVi"

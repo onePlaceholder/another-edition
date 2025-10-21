@@ -1,0 +1,10 @@
+{
+    "name": "The Nether Portal",
+    "icon": "minecraft:obsidian",
+    "sortnum": 1,
+    "category": "patchouli:the_nether",
+    "read_by_default": true,
+    "pages": [
+        "$(l)The Nether Portal$() functions like it does in vanilla, except that it spreads corruption to its surroundings... And also can be made into Any Shape or Size and even with Crying Obsidian !"
+    ]
+}

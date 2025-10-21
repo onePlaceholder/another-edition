@@ -18,11 +18,12 @@ KeyBindings = [
     "key.jei.cheatItemStack",
     "key.jei.cheatItemStack2",
     "key.jei.copy.recipe.id",
-    "gui.jei.editMode.description",
-    "gui.jei.editMode.description.hide",
-    "gui.jei.editMode.description.hide.wild",
+    "key.jei.toggleEditMode",
+    "key.jei.toggleWildcardHideIngredient",
+    "key.jei.toggleEditMode",
     "key.jei.toggleCheatModeConfigButton",
     "key.toastcontrol.clear",
     "iris.keybind.wireframe",
-    "key.curios.open.desc"
+    "key.curios.open.desc",
+    "key.jade.show_overlay"
 ]
