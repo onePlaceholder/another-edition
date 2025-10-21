@@ -33,7 +33,7 @@ layout_action_executable_blocks {
 
 element {
   interactable = true
-  source = Minecraft - 1.21.1: Another Edition - 0.1.2
+  source = Minecraft - 1.21.1: Another Edition - 0.1.3
   source_mode = direct
   shadow = true
   scale = 1.0

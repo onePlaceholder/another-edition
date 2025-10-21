@@ -1,2 +1,4 @@
-build/another_edition-*.mrpack
-build/another_edition-*.zip
+another_edition-*.mrpack
+another_edition-*.zip
+mods/another_edition_core-*.jar
+build/
