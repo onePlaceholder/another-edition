@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "build_modpack.sh"
+hash = "f34ee84a9cd3b400b706a45e573ac32fdc92d18cdd6bf94583c71a60e437612d"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "fb804d21af28c433341ceffd2b5b30798b452d366dd48e95133e44b37ece5a05"
 
@@ -403,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.cf.pw.toml"
-hash = "09aa1696771e699feee5311e5bd62d0bc66027abfb0b18fd89ae80489f6b8766"
+hash = "2d78a7ac22493764ee9ebd2cfff89f264a65f84c21b679fc25124f4ff4e5c1a4"
 metafile = true
 
 [[files]]
@@ -653,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/sawmill.mr.pw.toml"
-hash = "d1a14292fecfc03135e8163af5d695ae5838d87b4937d863b5c334693bb0402f"
+hash = "c41f6ccffb66b9095efabea4eda10dd61bdb375cbeccbab638b3c139c1b00161"
 metafile = true
 
 [[files]]
