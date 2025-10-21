@@ -337,11 +337,6 @@ hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "f407238ae37effcd669f828b80a7246e805bc099b4848cd550b1d2d428fea78b"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.cf.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
@@ -537,13 +532,18 @@ hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.cf.pw.toml"
+hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.mr.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+file = "mods/my-nethers-delight.cf.pw.toml"
+hash = "0311de96add459a26f7411925de34327312a04f1efda04d3b94c1a87bd7ebd9d"
 metafile = true
 
 [[files]]
@@ -552,8 +552,8 @@ hash = "2f6c9613ab64a27f2ba7ab55ed6d7557ffd06dff2d9db7a7e92b2d526e96a466"
 metafile = true
 
 [[files]]
-file = "mods/my-nethers-delight.pw.toml"
-hash = "0311de96add459a26f7411925de34327312a04f1efda04d3b94c1a87bd7ebd9d"
+file = "mods/nether-portal-spread.cf.pw.toml"
+hash = "be3f2aa8a8b7e14f2ce3d047e2e52de6d4590fdf3e019a248b8756c36a45b8a7"
 metafile = true
 
 [[files]]
@@ -562,8 +562,8 @@ hash = "0c4506fcb8826fd33f5df4d06aed30241ab66c1753387bd913d30cbdd43f262e"
 metafile = true
 
 [[files]]
-file = "mods/nether-portal-spread.pw.toml"
-hash = "be3f2aa8a8b7e14f2ce3d047e2e52de6d4590fdf3e019a248b8756c36a45b8a7"
+file = "mods/no-chat-reports.cf.pw.toml"
+hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
 
 [[files]]
@@ -572,8 +572,8 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
+file = "mods/noisium.cf.pw.toml"
+hash = "c39f473bc613a79aaf8717ced14f9e081451118cd53521ac5d6e6cdd469a3f59"
 metafile = true
 
 [[files]]
@@ -582,8 +582,8 @@ hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "c39f473bc613a79aaf8717ced14f9e081451118cd53521ac5d6e6cdd469a3f59"
+file = "mods/notenoughrecipebook.cf.pw.toml"
+hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
 metafile = true
 
 [[files]]
@@ -592,8 +592,8 @@ hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
+file = "mods/octo-lib.cf.pw.toml"
+hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
 metafile = true
 
 [[files]]
@@ -602,18 +602,13 @@ hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
 metafile = true
 
 [[files]]
-file = "mods/octo-lib.pw.toml"
-hash = "32f8d722b8e90a4ded120d3cbc7d6718d7bc2ea57a292af725978117710a6490"
+file = "mods/patchouli.cf.pw.toml"
+hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.mr.pw.toml"
 hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
 
 [[files]]
@@ -632,13 +627,13 @@ hash = "92e1e5d22e071ae1d5b17984905eae081809bd946ecf48614ff8312aa8308b69"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.mr.pw.toml"
-hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+file = "mods/reeses-sodium-options.cf.pw.toml"
+hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+file = "mods/reeses-sodium-options.mr.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
@@ -652,8 +647,18 @@ hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
-file = "mods/sawmill.pw.toml"
+file = "mods/sawmill.cf.pw.toml"
 hash = "3ee01a32b6309256f083a8c67fc458e6745fc730c8abd86faa4a304333520064"
+metafile = true
+
+[[files]]
+file = "mods/sawmill.mr.pw.toml"
+hash = "d1a14292fecfc03135e8163af5d695ae5838d87b4937d863b5c334693bb0402f"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.cf.pw.toml"
+hash = "030c615d6b35ec70f4fbe8cb782512deb05362378ab6ca838874b4490343bc7b"
 metafile = true
 
 [[files]]
@@ -662,18 +667,13 @@ hash = "2c1661e65d47c2942d2c3e926698d0762672224f1925c7f25105b964ce25b093"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "030c615d6b35ec70f4fbe8cb782512deb05362378ab6ca838874b4490343bc7b"
+file = "mods/searchables.cf.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
 file = "mods/searchables.mr.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
-metafile = true
-
-[[files]]
-file = "mods/searchables.pw.toml"
-hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]
@@ -702,8 +702,8 @@ hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
-file = "mods/universal-sawmill.mr.pw.toml"
-hash = "d1a14292fecfc03135e8163af5d695ae5838d87b4937d863b5c334693bb0402f"
+file = "mods/yeetus-experimentus.cf.pw.toml"
+hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
 metafile = true
 
 [[files]]
@@ -712,8 +712,8 @@ hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
 
 [[files]]
-file = "mods/yeetusexperimentus.pw.toml"
-hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+file = "mods/yungs-api.cf.pw.toml"
+hash = "6d6e832992f8af3bfd90232e3582e4e11eb42901d16a747a81eea5b811489be3"
 metafile = true
 
 [[files]]
@@ -722,18 +722,18 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "6d6e832992f8af3bfd90232e3582e4e11eb42901d16a747a81eea5b811489be3"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-mineshafts-forge.pw.toml"
+file = "mods/yungs-better-mineshafts.cf.pw.toml"
 hash = "0a786416dcef1b24033a9c652e1e0fc6c97b77cfdfab3b65d4f3cd87377d3a69"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.mr.pw.toml"
-hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
+hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.cf.pw.toml"
+hash = "e5c942089bd840a39aa6f2ab80bb7e555d2733efc119d59e4e2286ab00a4b8a0"
 metafile = true
 
 [[files]]
@@ -742,18 +742,13 @@ hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "e5c942089bd840a39aa6f2ab80bb7e555d2733efc119d59e4e2286ab00a4b8a0"
+file = "mods/yungs-better-strongholds.cf.pw.toml"
+hash = "3c30c032674bfd22ef88cf87dcfd4445c7dbc86bf05dc7f14df584c30315aee0"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.mr.pw.toml"
 hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-hash = "3c30c032674bfd22ef88cf87dcfd4445c7dbc86bf05dc7f14df584c30315aee0"
 metafile = true
 
 [[files]]
