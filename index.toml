@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "build_coremod.sh"
+hash = "8abb21176a3fd592cde804c6ef97217f4d3720d4e742e514e43cd2b64a5ad0c9"
+
+[[files]]
 file = "build_modpack.sh"
-hash = "f34ee84a9cd3b400b706a45e573ac32fdc92d18cdd6bf94583c71a60e437612d"
+hash = "75c249f4ba0366457911b4c48246b7f45ed32ace513cd7a971f17cf023e26ffc"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -38,7 +42,7 @@ hash = "8959af45d618b48f806b6d6931453e1243c0c11ee241b5591138b1d9c22c20f6"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen.txt"
-hash = "fb5a845103043e15d1c42c7e7c6b9e52a49915af27772c862e02e4ed9c4e5721"
+hash = "2fb7ea700d325de8fac054e53b3ab92eb05feb56e059e307d2a71248f52fd080"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -83,6 +87,886 @@ hash = "4e64ca54fd14c86297e5cf90646e422c2b87cd2476dec1e3629a379bce3d50e5"
 [[files]]
 file = "config/toastcontrol-client.toml"
 hash = "ad75c971753c61026d3b5e067d224615691315fe57fb7562316520a2beefea02"
+
+[[files]]
+file = "coremod/.gradle/8.14/checksums/checksums.lock"
+hash = "73b6b031db58b619b824257df0f7b78c9744176df2189b2775fb5da45fb5ec2e"
+
+[[files]]
+file = "coremod/.gradle/8.14/checksums/md5-checksums.bin"
+hash = "22082ac3ea823ad394d05c25269efec6a34381bfd094dcc1f8c01ded0518ba99"
+
+[[files]]
+file = "coremod/.gradle/8.14/checksums/sha1-checksums.bin"
+hash = "8e84e596dbdcd57bfe8af8b4bd0d242b5279eab22d1f8f9fe69c0a413dca11e3"
+
+[[files]]
+file = "coremod/.gradle/8.14/executionHistory/executionHistory.bin"
+hash = "3d2b6d6f4ddd0eb23aafe72c36fb2edf1eb14732ba4b5db0bc542b114e75c110"
+
+[[files]]
+file = "coremod/.gradle/8.14/executionHistory/executionHistory.lock"
+hash = "78d67332abfe4884627fb66a51a2d5825f46376a9c9b876881b1b174f8271f49"
+
+[[files]]
+file = "coremod/.gradle/8.14/fileChanges/last-build.bin"
+hash = "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d"
+
+[[files]]
+file = "coremod/.gradle/8.14/fileHashes/fileHashes.bin"
+hash = "b2170881583ccd385492b41ef486b3fbc8cd2583e918b76ea9000dfb735ce45c"
+
+[[files]]
+file = "coremod/.gradle/8.14/fileHashes/fileHashes.lock"
+hash = "fe74693cae8bb62b5210f604205408497ee2f9013d4cc6a6bcec4144b289f240"
+
+[[files]]
+file = "coremod/.gradle/8.14/fileHashes/resourceHashesCache.bin"
+hash = "58ef206e78af5866853dc180b345a616b63ec8d45b8b703c5d184d891264b4ed"
+
+[[files]]
+file = "coremod/.gradle/8.14/gc.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "coremod/.gradle/buildOutputCleanup/buildOutputCleanup.lock"
+hash = "9d55359ceea015b543841b62598e4364ff6643c862b2b28436dd403e54b0ae4f"
+
+[[files]]
+file = "coremod/.gradle/buildOutputCleanup/cache.properties"
+hash = "a787b88e5cf782a6490c517b647bad44d0f2258d5c011fc119ffde6ab86642b0"
+
+[[files]]
+file = "coremod/.gradle/buildOutputCleanup/outputFiles.bin"
+hash = "1896f5fb88614a29ec4f81965574954f6ffd1971c38dace30c5e96ed91d257a6"
+
+[[files]]
+file = "coremod/.gradle/file-system.probe"
+hash = "07531218409a7b15e8931a1ebde609b95a33fa6f2967c4acb83196676f7ea0bd"
+
+[[files]]
+file = "coremod/.gradle/loom-cache/forge_minecraft_classpath.txt"
+hash = "b0d367da49c4215977b4035943551ffa5ca2ec5b763c4b613128b2df9515e2b5"
+
+[[files]]
+file = "coremod/.gradle/loom-cache/launch.cfg"
+hash = "f93d044ad20a0d6f7b15456b14c113f11a48bfa03684e4fcc4211f4500ef878f"
+
+[[files]]
+file = "coremod/.gradle/loom-cache/log4j.xml"
+hash = "d16ae0695f8f8184deb97bbe59cd79b73c742602eec15c621734fdeeb33b231c"
+
+[[files]]
+file = "coremod/.gradle/loom-cache/remapClasspath.txt"
+hash = "3053404c5d3c8a664be732ae135dc7f94e107d54b40c8621df87f07998223474"
+
+[[files]]
+file = "coremod/.gradle/loom-cache/remapped_mods/remapped/me/shedaniel/cloth/cloth-config-neoforge-ded1f90c/15.0.140/cloth-config-neoforge-ded1f90c-15.0.140-neoforge.jar"
+hash = "810bbf8818d4babb82d0f90f4466aecff6d3f7193954cb685ac5a9a95bb2fe99"
+
+[[files]]
+file = "coremod/.gradle/loom-cache/remapped_mods/remapped/me/shedaniel/cloth/cloth-config-neoforge-ded1f90c/15.0.140/cloth-config-neoforge-ded1f90c-15.0.140.pom"
+hash = "627f8cb1aae88290ea533da83e14bfe50d45721174130f6f81f740cf9798f524"
+
+[[files]]
+file = "coremod/.gradle/vcs-1/gc.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "coremod/.idea/copilot.data.migration.agent.xml"
+hash = "886d95200ad50988cfc7ba619ddefc37bc7a6846549be7419067a1e98031052d"
+
+[[files]]
+file = "coremod/.idea/copilot.data.migration.ask.xml"
+hash = "ede6f02401dc955de2f26e34d0a8d3b19c5fbb46d3cb6e040b6f5e98e8baec5f"
+
+[[files]]
+file = "coremod/.idea/copilot.data.migration.ask2agent.xml"
+hash = "a54a58d75027951936c93693c172df40382ec0bdffb82fd556980f0f3a95d38c"
+
+[[files]]
+file = "coremod/.idea/copilot.data.migration.edit.xml"
+hash = "90e4bb28ca641808400b6dc78e87ee655fc9f7f6a35d24f04636f5aaae5d6b6c"
+
+[[files]]
+file = "coremod/.idea/gradle.xml"
+hash = "b12476fd46617d65652aeba8030603dfb10867d50a649699e4025944ce898a8a"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_electronwill_night_config_core_3_8_3.xml"
+hash = "e7d2e261c80a7e23e563425899aeba50521b77a5ec1acbeedc49763a3fd8c1e4"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_electronwill_night_config_toml_3_8_3.xml"
+hash = "4da0858d1035afe3efda331e658fad5527c89b2c21c1c235b504385cf24abac9"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_github_oshi_oshi_core_6_4_10.xml"
+hash = "b0c0ca22915674f03c267f975d11a8130a99ccffc1f23362bc6afd00a422d901"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml"
+hash = "8c120946c09155a0104e269ac36ec6db485d39f01b50ff88e53227483e7b8e14"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_google_code_gson_gson_2_10_1.xml"
+hash = "3786207da6d3dff67f28a84ef9e9510286760f14dc0f1d70f227554088c96283"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_18_0.xml"
+hash = "7be0dbe85099ccef1c210a69c213e95a9cd8260e114273fc693fb52d3754be0c"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1.xml"
+hash = "351c63f3475d3c5b0a3c8f9e8c131a495770e4de051d8f5125c9adf5e2bf7f2a"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_google_guava_guava_32_1_2_jre.xml"
+hash = "2dc6dd92d70dbd766d0b3ed2ea1d599dc63a12b0543447139eb61edfdf265cfc"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml"
+hash = "5d5b91ed996965a68b8517a4ffb50e4e03cf23d71da4eb1844d66af67a74f867"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_2_8.xml"
+hash = "00335c9e09e0653173da7817c798a507001087dcd78ba48ede0f2e15d2ab4ed9"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_ibm_icu_icu4j_73_2.xml"
+hash = "681a85601f5f9f3694db29dedd4e7931c65d59037589dd7a0a0b7dafc6e16f3d"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_machinezoo_noexception_noexception_1_7_1.xml"
+hash = "4613d0913efb2df36b9f9949b09f4d79c5002c699ba3011236f38c9dc63923e4"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_mojang_authlib_6_0_54.xml"
+hash = "3d8790eb633b22ca1678cd28ed841018289d125930d1c7b0364b9f3122e8275b"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_mojang_blocklist_1_0_10.xml"
+hash = "5a51efe5eee5e97a6a3513ab7779f46904bc610ae96e80ab78f06beaa08e2d85"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_mojang_brigadier_1_3_10.xml"
+hash = "2f075be12c5c473160051508759b5095cf7ef8f6c587f8cf40d798972d6ce0ca"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_mojang_datafixerupper_8_0_16.xml"
+hash = "3605593b35fc961626b899eea1e2f16f2f004ac74b421894114059536f58b327"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_mojang_logging_1_2_7.xml"
+hash = "b7cca8d51d2f82788a6de27da6bdee538c8874ad73383af0463adc464dfb6254"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_mojang_patchy_2_2_10.xml"
+hash = "a212952798755cdfa6e269f28cb7cd874235163f42e6d259d8860d2ab210e9bf"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__com_mojang_text2speech_1_17_9.xml"
+hash = "bb615074cc37194cce800bf4ebea02211f341ae0f97f1d41b425a6c80e43f3ee"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__commons_codec_commons_codec_1_16_0.xml"
+hash = "19d52c8e0b434bccfed50799fc78111809830fbf161bf81365548d7ea5ed2fcf"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__commons_io_commons_io_2_15_1.xml"
+hash = "7e53fffc3dd93cf2f063be97283155599fa4bfbad9462662c82b3f21378c0e05"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml"
+hash = "6b59c95d1ec26388ee12930672c59c8e5d35522d8d5fd79e7cf48f4f4e2fc54b"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__cpw_mods_bootstraplauncher_2_0_2.xml"
+hash = "eedcd106ede88a3105511a7008bc461845d7899eb3cc19f4d78c3b51aa2c8baf"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__cpw_mods_modlauncher_11_0_5.xml"
+hash = "7d631e833ef9d87cd768cad5364add077e521e38d5d75bd5fe22d1954560ad9f"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__cpw_mods_securejarhandler_3_0_8.xml"
+hash = "35631d5dc25a282a1506bed72d5df3148bb2640dbcc219bb185755df94fcf980"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_github_juuxel_unprotect_2_0_1.xml"
+hash = "248c3a5eafc08045ef53f5f9ef562782f7748c43daaed15b966f48704914ce1a"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_github_juuxel_unprotect_modlauncher_2_0_1.xml"
+hash = "a29af9dc150b158c8ffe93f9d23de8691ef158c318ac69376760a1ec7d084157"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_github_llamalad7_mixinextras_neoforge_0_5_0.xml"
+hash = "a22378de9a84bc1023c94f1f1e6d4913216fb7e80c7068f7b330b9abf3c6f244"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_netty_netty_buffer_4_1_97_Final.xml"
+hash = "6292d82b3f54994d94263571752d344137f073fe581ac15c79b974b769f58c11"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_netty_netty_codec_4_1_97_Final.xml"
+hash = "cadf7a9935c45ce6ee342d9110fce9d07ac0eaf29dda11d84375c27d6f00fa19"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_netty_netty_common_4_1_97_Final.xml"
+hash = "99196a943f611c62c39cdafb2fdfeebcb67685023a01a6b1975a9de5f4aed3b4"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_netty_netty_handler_4_1_97_Final.xml"
+hash = "365364a422a1999a533ac0491a2d54b5332f606a516e0659191b649ebc11df68"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_netty_netty_resolver_4_1_97_Final.xml"
+hash = "3cdbfdacd1073fac7e4d6e8df20c54330a7d9ce65140c87d32a4ba7bb3200508"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_netty_netty_transport_4_1_97_Final.xml"
+hash = "d556e35ee71cdee42baaddc4d0be9d679ac0212167a3472519085ac96af4e618"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_netty_netty_transport_classes_epoll_4_1_97_Final.xml"
+hash = "dc70fff25b0c50f52dd9e1f01140b11d0c0ea710347e07ed100eeb1959c54666"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_netty_netty_transport_native_epoll_linux_aarch_64_4_1_97_Final.xml"
+hash = "90866d0a28e0a0ba6a979414fb784a4cc6d49bcf6eed8d4b0e8f41a984e82676"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_97_Final.xml"
+hash = "9d0f7de014436c1de5c306a69374d46145b9c91f062549583b275c77d6b653d3"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__io_netty_netty_transport_native_unix_common_4_1_97_Final.xml"
+hash = "ee30bc1f187c353d878d039724efa347aa640a63ade9bfd76ef0c21d8d902129"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__it_unimi_dsi_fastutil_8_5_12.xml"
+hash = "e90205de90694385e74a20815edb6ee54c978fad968752bb72e4491c189155f4"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_fabricmc_dev_launch_injector_0_2_1_build_8.xml"
+hash = "55600c79624203a1b911f78f331d60d62730cd63b8eae7d0895791f48f522d44"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_fabricmc_sponge_mixin_0_15_2_mixin_0_8_7.xml"
+hash = "123e1815b232bd22a4cead807e55007f2a826e1e957b59b54e6841dc1b59c867"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_java_dev_jna_jna_5_14_0.xml"
+hash = "41890c41094d1248a419485bdfbf8aa563d9afc6c7e3deb6a85ef96c3a397b61"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_java_dev_jna_jna_platform_5_14_0.xml"
+hash = "95216b1e54d0606a1830ec5974dcad07824e89164a7caceb91f7f17757c2539d"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_jodah_typetools_0_6_3.xml"
+hash = "ecd107b553aa01c20746576d06a7203dd142fce1cfd44f6dc65e35917c410be0"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_minecraft_neoforge_21_1_209_minecraft_merged_1_21_1_loom_mappings_1_21_1_layered_hash_477322616_v2_neoforge_21_1_209.xml"
+hash = "b2b77544ad1e3ab41cf04105cb14d6d0ed6e0e8673f70ce61e59b928afd27b55"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_minecraftforge_srgutils_0_4_15.xml"
+hash = "d31e45588e699c3a27cbf75099530a03df20c703664a1370181bed2134d3d0db"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_minecrell_terminalconsoleappender_1_3_0.xml"
+hash = "3593dd0e0e59fd96e9b7d2f549a7ba20d66136fec24405d6817bda13674b8505"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_neoforged_JarJarFileSystems_0_4_1.xml"
+hash = "bc7c82959b60ccc5f0c2072e69ef4feda34730a219fd52867e016be651e6ddae"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_neoforged_JarJarMetadata_0_4_1.xml"
+hash = "735cb8682b92c204828c5dd080c5d8c34e9218b253954ca1d61c4eb3ddc146b9"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_neoforged_JarJarSelector_0_4_1.xml"
+hash = "d350a3a96fac55a7427ff77c9359e5b4801030e557f7943c733b49b483f9a6b2"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_neoforged_accesstransformers_10_0_1.xml"
+hash = "8154bceb8af38810a0850c185e9248af4ec25963395e160aa30b42b09b97a32a"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_neoforged_accesstransformers_at_modlauncher_10_0_1.xml"
+hash = "7aaf5d02be88e2a9c0962afc8ec85d4d56d4838301b5da214dd1328c56d8234b"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_neoforged_bus_8_0_5.xml"
+hash = "b4d4f2fbae805cf757fb8c3af8a8464f60c1f6421daa9a4435bb147f8b0db3b7"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_neoforged_coremods_7_0_3.xml"
+hash = "dfe3383f09f91727222eac2d73511c77b9959502b1d7989975ef8a87808faa54"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_neoforged_fancymodloader_a093380e4013bd99578eb14b59c25de22fd4843c4fa88623f16afeda3d5ac5a0_loader_4_0_41.xml"
+hash = "fc52797dca8b6ee98372a7d788637134931b741d11608ff862940fa9e84fb649"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_neoforged_fancymodloader_earlydisplay_4_0_41.xml"
+hash = "7e26e4e64f1232e42b5fc98467bc4ccf9fdc475cf01b4ac837cae901f6fe265c"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_neoforged_mergetool_api_2_0_0.xml"
+hash = "8415befe314596b2c4b4c1dd9b4eb430157a0601df65844d4e29543d3493254f"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__net_sf_jopt_simple_jopt_simple_5_0_4.xml"
+hash = "ba7784d97dcbb6118eebd5f7acfca5e15ee74b839b16ca21960a077200db3ae5"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_antlr_antlr4_runtime_4_13_1.xml"
+hash = "5820617a605c1bfe865dd98ac3cdb98213e47d632f1db395ecb01c17d0ebe1b3"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_apache_commons_commons_compress_1_26_0.xml"
+hash = "1a09417b3ef6df1f00ff00133185b9a7d12ae6ab42fc4a340fc6608cc51f6da1"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_14_0.xml"
+hash = "9c19aa764e8563cd1e168201535f3fefca7eb0d1dbed3e1a6f45e35d115221b0"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_13.xml"
+hash = "ea7c4995a56df1a710220409295c7d58cf2d2e2f7dfe3405bdd67772ab663a3f"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_16.xml"
+hash = "ff0cd9ba79fbd2dbe2a6904d54140c3902b92f214a22be403b3f5ab5b085bd45"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_22_1.xml"
+hash = "3592e9a54b832a80e58af5458b9dea648f597e0d9bd21af0c4e027ba4a0970f8"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_core_2_22_1.xml"
+hash = "4dc4afd715ad662f5b01c60abfe5e46a233305ffa9561f167244d5c3bdff0379"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_slf4j2_impl_2_22_1.xml"
+hash = "d78346898fa08c6fb3ba75d66f8f7ccfd0395dedbcf675367b946a534ff774a6"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_apache_maven_maven_artifact_3_8_5.xml"
+hash = "0a12b8bb1612569fc5c70ee853cb0bc0fdf50a54cf2e293652df7c245267005a"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_checkerframework_checker_qual_3_33_0.xml"
+hash = "8bd97c8d34aa37ee673c4672b06e19b0c250ae25b9baf8dd0a25189561fe10f7"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_codehaus_plexus_plexus_utils_3_3_0.xml"
+hash = "db99fe191a9b330e6400b0163a782443f980f03f4c041a5f8e232bc0f8ecb27d"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_jcraft_jorbis_0_0_17.xml"
+hash = "ad6309ff2c4fb6594a401e8496c17ebc868e26021c3b9499114d4e13e4809c32"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_jetbrains_annotations_26_0_2.xml"
+hash = "71105bd9c129fa49a64709f58f2cb53a8fff54bac93748fbd9e489e587e4e34c"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_jline_jline_reader_3_20_0.xml"
+hash = "c785501dbeb039d1319c3ceb8d6458a6be14eec93c3e508e399dabbad718777c"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_jline_jline_terminal_3_20_0.xml"
+hash = "5e18a84eea99db7243ebed03b8d5920ba2462bb2909bf29e604bdbdfaa67d5cf"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_joml_joml_1_10_5.xml"
+hash = "54f623ebda4059a375c76629109ccbfe3145b5d2f9aec6d32c4626b90a74446f"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_3_3_3.xml"
+hash = "705eff45b9f5963b0c6520e1eac1cdf1c31e22231ef03022fbd8b2fc84c7c97a"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_freetype_3_3_3.xml"
+hash = "02c7e321e262c98db476b8ec180506ed991f6f1adef7bf66b98622a724916a34"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_freetype_natives_linux_3_3_3.xml"
+hash = "2792a7f93187a172d65025f77c3b3da2bf62065e473dd94d570800c62b6b1556"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_glfw_3_3_3.xml"
+hash = "813e53c0a467cccbcd4601d760ad55819e5bbe8619fc31478db32112dbf3d677"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_glfw_natives_linux_3_3_3.xml"
+hash = "528ded4b55616429a3320fff0beb32ec9e19179d6e67413855793eb6efe7f8cb"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_jemalloc_3_3_3.xml"
+hash = "4bd75e83d6b446de6431166938fa8258a5af0445882314a5f44cec3923a49b7c"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_jemalloc_natives_linux_3_3_3.xml"
+hash = "93f8db3151e92e7566aeb7e89901562595bd9cfe192b470b24feed45bc719e51"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_natives_linux_3_3_3.xml"
+hash = "1db3cc9d4769e56f8065d9661d5e85c904e179dbddf9cdd6c8031c365a4631cd"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_openal_3_3_3.xml"
+hash = "f035f08b5f84588b15e70e516ba3afb62e671385d3a262aab9d394d39bfdb000"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_openal_natives_linux_3_3_3.xml"
+hash = "f0a20cbf647d9a9392fd2fcad15f856e2ba33235aaf9563f31967d286f8d5f4a"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_opengl_3_3_3.xml"
+hash = "60369a3a4d14710714da35ec1a181eba05a5aaa47129ed913b8016574e4ea786"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_opengl_natives_linux_3_3_3.xml"
+hash = "f06d06d991a06c7fdff0884c42ef3a0d5d99f434e38509f3448b08f1e407530e"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_stb_3_3_3.xml"
+hash = "c0f128ae7f25401ccc851aa9dbdd098e1c02e206c69a8802582ee4e0aed050ca"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_stb_natives_linux_3_3_3.xml"
+hash = "85a3b7b9f5f3715f7b502e4e563ab5ddefbf5ced300e845f5bfb2090f2ae3c61"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_tinyfd_3_3_3.xml"
+hash = "2a0c0914380ef09148fe6c876b884bc84ec1b4eeadb8b4288169644ec765cb65"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lwjgl_lwjgl_tinyfd_natives_linux_3_3_3.xml"
+hash = "5f92fbd1ee1c7d24b4915ca5c330e7302c9cf0aebbcf06703a935d6666803bc9"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_lz4_lz4_java_1_8_0.xml"
+hash = "c906282ec171a72718111d221090dccd73dad57eb72f39223e3239209554038b"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_openjdk_nashorn_nashorn_core_15_4.xml"
+hash = "3a0ebe59604d442dc091d48b93d3a7f2c251919de3cafd90a013bd7963291836"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_ow2_asm_asm_9_8.xml"
+hash = "7e3ba0dec041f2eeba1a4f0887423d0d67d94126760c12b81236d2342a78dcd4"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_ow2_asm_asm_analysis_9_8.xml"
+hash = "72eebb8b1800462d4237810e3c44890d9ead59471fc56ce866bb381579bb95f5"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_ow2_asm_asm_commons_9_8.xml"
+hash = "87df17007332b63f1b0c967b3b7104d003b1e48ff4ef177dcbdfc24a44dfc502"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_ow2_asm_asm_tree_9_8.xml"
+hash = "6a8007285b8b32f897eac7cde8cadd6be45229d80994ecabc2d17a86ae6925b8"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_ow2_asm_asm_util_9_8.xml"
+hash = "a7441495bf5cf5b64af29c9d1c2da03fa1455fc19e68b27687f35c8c4e6d5611"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__org_slf4j_slf4j_api_2_0_9.xml"
+hash = "6bd02ef9c7f97fbbcd5976a193f0619f91630acd49fdf9cb46658a271190f977"
+
+[[files]]
+file = "coremod/.idea/libraries/Gradle__remapped_me_shedaniel_cloth_cloth_config_neoforge_ded1f90c_neoforge_15_0_140.xml"
+hash = "a36928ae8b246e91672e34bb831d24cbe093bd8e33db2dfbf992c9e142cf3d75"
+
+[[files]]
+file = "coremod/.idea/misc.xml"
+hash = "c5021776b9f0a90cfb073b6159e5a0c1d11ab23d74a76a38071348bd2c0f08ba"
+
+[[files]]
+file = "coremod/.idea/modules.xml"
+hash = "3aeabb9f904d1c511cc41ce48a88f8f899a40372caef0c2ebee6d8248c6ae163"
+
+[[files]]
+file = "coremod/.idea/modules/another_edition.iml"
+hash = "042a8545665ef6354db6c083a57e13241120c66dcd16bf7c1af459b23c71b662"
+
+[[files]]
+file = "coremod/.idea/modules/another_edition.main.iml"
+hash = "5588e1e8cbe380e306ef82e3527ce711005bcaf9b40bfb6fb00267581f39cfe4"
+
+[[files]]
+file = "coremod/.idea/modules/another_edition.test.iml"
+hash = "cb901f72328da3ce0ce1c560dfb68ee25f81a890cc16c559e0a701ad27a27def"
+
+[[files]]
+file = "coremod/.idea/vcs.xml"
+hash = "269064f5ba7307dcd31a03b5c690698b3442c0f0024c1358361542f49f5509ae"
+
+[[files]]
+file = "coremod/.idea/workspace.xml"
+hash = "fcc793cc234dd611adea2838ced307073d58b49fefa3177a3da8f7c287fc9619"
+
+[[files]]
+file = "coremod/build.gradle"
+hash = "4e636a51b9c149d66e8d0c12e402df7480b52e927d494034286bf4e8e793b2cf"
+
+[[files]]
+file = "coremod/gradle.properties"
+hash = "e38a67fc54dd5622870376ed188a23d314a8e2540f14dbd92dcae5ae51d90f97"
+
+[[files]]
+file = "coremod/gradle/wrapper/gradle-wrapper.jar"
+hash = "cb0da6751c2b753a16ac168bb354870ebb1e162e9083f116729cec9c781156b8"
+
+[[files]]
+file = "coremod/gradle/wrapper/gradle-wrapper.properties"
+hash = "cc8f5de098161b3918f157ad271c4dea78ce1ab79b855f34a6e47cbd8c6cc11c"
+
+[[files]]
+file = "coremod/gradlew"
+hash = "d8231d345ab33433ab7b2c0720d5beb416c8d5c6789dbc01ad122b63bc2cae0d"
+
+[[files]]
+file = "coremod/gradlew.bat"
+hash = "bdecf875b6868cbcbd36a1f85eedf0832f358ff28092c5797ed645f7edce77d9"
+
+[[files]]
+file = "coremod/run/command_history.txt"
+hash = "62b01339929f15e116ae3c4bf56b5c6b0bef4a2bb80bb26a46990f050703b064"
+
+[[files]]
+file = "coremod/run/config/another_edition.json5"
+hash = "f3bd2603fb2d107533e7b655858eb1a2865737bcce49c5005f43fbe9de917454"
+
+[[files]]
+file = "coremod/run/config/fml.toml"
+hash = "cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5"
+
+[[files]]
+file = "coremod/run/config/neoforge-client.toml"
+hash = "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d"
+
+[[files]]
+file = "coremod/run/config/neoforge-common.toml"
+hash = "e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399"
+
+[[files]]
+file = "coremod/run/config/neoforge-server.toml"
+hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
+
+[[files]]
+file = "coremod/run/crash-reports/crash-2025-10-22_22.07.21-fml.txt"
+hash = "6420d17f51fca587b6097d56380f57d5a19e1b5a67ea7900069e61863d5c321f"
+
+[[files]]
+file = "coremod/run/crash-reports/crash-2025-10-22_22.43.38-fml.txt"
+hash = "69cd6deb274a40c4d732a0d8f1fb3dc8899726f00fa1473391af9e719f19bb9c"
+
+[[files]]
+file = "coremod/run/downloads/log.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "coremod/run/logs/2025-10-22-1.log.gz"
+hash = "7d138fe3bb7e0b991d2a4830b12d88bc7165d61f0d2b91d4c8b5aa1df2e34b5e"
+
+[[files]]
+file = "coremod/run/logs/2025-10-22-2.log.gz"
+hash = "65b29203c451216b200623128de9df5cc9a2c48ecd373c1110176d283a796650"
+
+[[files]]
+file = "coremod/run/logs/2025-10-22-3.log.gz"
+hash = "f2083d9343852a8fcda2f577332ffcdf4deb390a2bed88f4e595512fbe83fffa"
+
+[[files]]
+file = "coremod/run/logs/2025-10-22-4.log.gz"
+hash = "61f7ee019d8aba27dd63e7e936a34f88be68011d989cbacb906f938803e40161"
+
+[[files]]
+file = "coremod/run/logs/2025-10-22-5.log.gz"
+hash = "ca258ea47bcaefcb4705491864d7cfee86de83379ff32911e93305061cae0778"
+
+[[files]]
+file = "coremod/run/logs/2025-10-22-6.log.gz"
+hash = "78d363ced4cb63b7f04c85ccc72b0b4f605a6a9191b500293f7b1a3a3aae131b"
+
+[[files]]
+file = "coremod/run/logs/2025-10-22-7.log.gz"
+hash = "de160f99442ba6761f32d6d5d0d2f8630e2e3927f1e35378308b3aac98d1ba76"
+
+[[files]]
+file = "coremod/run/logs/debug-1.log.gz"
+hash = "b997439234118cc3d88b1b7af4a4e290b2f9959a789104f7f645fbaf00f3dde3"
+
+[[files]]
+file = "coremod/run/logs/debug-2.log.gz"
+hash = "00304b173f4740f6d22a5a1b96c1e988b3804a25f1a79872bf6fed7e47084b74"
+
+[[files]]
+file = "coremod/run/logs/debug-3.log.gz"
+hash = "c7d9a167c7d0a1facd490d7a131d38553fe0af24cfe717f0a75e671a64199616"
+
+[[files]]
+file = "coremod/run/logs/debug-4.log.gz"
+hash = "d780a5380b1e8886537fb1f5aee06f5474bb8505fd3a5deb234a19721336b96d"
+
+[[files]]
+file = "coremod/run/logs/debug-5.log.gz"
+hash = "bac5b9abfa2bcfadda91286d36863f62ded5a84430ff2b21df1c5fe5d6c539ac"
+
+[[files]]
+file = "coremod/run/logs/debug.log"
+hash = "da02c270757cbca63ee163d9a4858e99fe0fe515a7e2fa71cbf9e13043afeda5"
+
+[[files]]
+file = "coremod/run/logs/latest.log"
+hash = "6ec78b0c6a387a1e9a00a86bdd25049adad833db5f01a6ffa349e1c41b38c6cf"
+
+[[files]]
+file = "coremod/run/options.txt"
+hash = "816aafb0aebe2cb9f6480bd74ee25d7039017b298cf958cf1af31f9cbaf9f8ef"
+
+[[files]]
+file = "coremod/run/saves/New World/DIM-1/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "coremod/run/saves/New World/DIM-1/data/raids.dat"
+hash = "a6c5235f4863bd1752f8ecd63b181962af01a556a99f9dd69daabfb439ac4275"
+
+[[files]]
+file = "coremod/run/saves/New World/DIM1/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "coremod/run/saves/New World/DIM1/data/raids_end.dat"
+hash = "a6c5235f4863bd1752f8ecd63b181962af01a556a99f9dd69daabfb439ac4275"
+
+[[files]]
+file = "coremod/run/saves/New World/advancements/380df991-f603-344c-a090-369bad2a924a.json"
+hash = "8d7f578e428db2c049523d509371dee3844ca4ffb69a8c7f49a748f45fc79422"
+
+[[files]]
+file = "coremod/run/saves/New World/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "coremod/run/saves/New World/data/raids.dat"
+hash = "a6c5235f4863bd1752f8ecd63b181962af01a556a99f9dd69daabfb439ac4275"
+
+[[files]]
+file = "coremod/run/saves/New World/data/random_sequences.dat"
+hash = "576bc596a248d9b2c0a76d59f7b0006d8bc47b90b55d3a18117c338c7e214ab1"
+
+[[files]]
+file = "coremod/run/saves/New World/entities/r.-1.-1.mca"
+hash = "e017a6484746d947d4e0f7a7df4590f3102e680f42625d77333a2ecc24a5b4b6"
+
+[[files]]
+file = "coremod/run/saves/New World/entities/r.-1.0.mca"
+hash = "49c2062a2f7690c67993305381ea3172ce9fd76b860bd4ef5b7b2a77372278dd"
+
+[[files]]
+file = "coremod/run/saves/New World/entities/r.0.-1.mca"
+hash = "f391353d3017c1480d8e19574e9723252fd277f85934a80333a3c8fa0d518806"
+
+[[files]]
+file = "coremod/run/saves/New World/entities/r.0.0.mca"
+hash = "670dcebbbb442487c7e963964c648fca7d826bad8aab8a023d6a044be734a92f"
+
+[[files]]
+file = "coremod/run/saves/New World/icon.png"
+hash = "7c5129d19effe62343aaefbde750586b69427c5d7411092a4193b3467fe9bd82"
+
+[[files]]
+file = "coremod/run/saves/New World/level.dat"
+hash = "b5f90fabc1d2d404c653694a830b8c4f206b2805c62f501c64e65499d958a26a"
+
+[[files]]
+file = "coremod/run/saves/New World/level.dat_old"
+hash = "14efda31b65f3a78da2795328eea6e7d0f10aabd189023154315109a18bad11b"
+
+[[files]]
+file = "coremod/run/saves/New World/playerdata/380df991-f603-344c-a090-369bad2a924a.dat"
+hash = "82c5e196ab4bc4a4c9b9cc2d525bfda5eec32f0244c4295c1451f691e6795cbb"
+
+[[files]]
+file = "coremod/run/saves/New World/playerdata/380df991-f603-344c-a090-369bad2a924a.dat_old"
+hash = "dff1e40854971540eaf12088f4b434ae9074435c9a3ba29344e8f9255893c196"
+
+[[files]]
+file = "coremod/run/saves/New World/poi/r.-1.-1.mca"
+hash = "6a075c44af4ca2f27578f99488723591c06b36809cbf69e5d285b36f0f75d352"
+
+[[files]]
+file = "coremod/run/saves/New World/poi/r.-1.0.mca"
+hash = "3932e561f5bce45a6f4a5c50065c06a9a18b8805e101b963a2be6ba7629c7f04"
+
+[[files]]
+file = "coremod/run/saves/New World/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "coremod/run/saves/New World/poi/r.0.0.mca"
+hash = "8505d79cb68c2443589b3c9fdda66a210a213af242a8eb18a18720cd06994a5c"
+
+[[files]]
+file = "coremod/run/saves/New World/region/r.-1.-1.mca"
+hash = "041a083a9f2e9d2ca80d4b4e4868121e0a81839733ce7959515ad81148257ab0"
+
+[[files]]
+file = "coremod/run/saves/New World/region/r.-1.0.mca"
+hash = "34023ea675848ea0269d7e078db9eecb99b6b8446777d52a519cac81c62b527a"
+
+[[files]]
+file = "coremod/run/saves/New World/region/r.0.-1.mca"
+hash = "9968b00d2e759a51d5e9aaeba5848580ec99187a9b3cd60dcce2e6f5660cece3"
+
+[[files]]
+file = "coremod/run/saves/New World/region/r.0.0.mca"
+hash = "a8b685be252c8512d2af55ea0037af89d05e5f30debfaaa53eb0de26df29bec7"
+
+[[files]]
+file = "coremod/run/saves/New World/serverconfig/readme.txt"
+hash = "b1022ab932f8f0ea0cf78d9f312e95b85a4f96f59ca430e63f9a435e512d1186"
+
+[[files]]
+file = "coremod/run/saves/New World/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "coremod/run/saves/New World/stats/380df991-f603-344c-a090-369bad2a924a.json"
+hash = "a7317db835e9a21ab7405b7cb95005aa42ada2a9271945f4b9553e4233a7a0fb"
+
+[[files]]
+file = "coremod/run/usercache.json"
+hash = "2319e67d562404eb9e371395cc552b79c9c57713bee90ee9e5d9a8ec2cef5451"
+
+[[files]]
+file = "coremod/run/usernamecache.json"
+hash = "4573accdd1c6ca24d4a35e0edc97fa46484e409866e5921a40c2f0402d2b46c8"
+
+[[files]]
+file = "coremod/settings.gradle"
+hash = "0ff4ec87a368d5a7579094cdd2dad5148d50c41b2c659c36da178e0d5f0d8e39"
+
+[[files]]
+file = "coremod/src/main/java/org/theplaceholder/anotheredition/AnotherEdition.java"
+hash = "c2e30e19dfcf971cfb66b7d4468524373815776a20fbf71dca58c4f5e51b1a59"
+
+[[files]]
+file = "coremod/src/main/java/org/theplaceholder/anotheredition/block/AnotherEditionBlocks.java"
+hash = "fb45313045c4fb8bcbbf42ee1bdcbf05f730a9b01738ae1bcf8f6fc3c2ccaa59"
+
+[[files]]
+file = "coremod/src/main/java/org/theplaceholder/anotheredition/client/AnotherEditionClient.java"
+hash = "368db95c550e1aebfc6a211882bf8c4785db7a61a9d442feb26e974952e9da79"
+
+[[files]]
+file = "coremod/src/main/java/org/theplaceholder/anotheredition/config/AnotherEditionConfig.java"
+hash = "8c8b0f26351e958b3cdd5cbed946d31142f321d5988b179f42cd06ac494c1e2c"
+
+[[files]]
+file = "coremod/src/main/java/org/theplaceholder/anotheredition/event/PortalEventHandler.java"
+hash = "ae5d5ff17ef93abb3ff9e5f6de829badbc6c2603dcc750cc3549de0e14f79c6a"
+
+[[files]]
+file = "coremod/src/main/java/org/theplaceholder/anotheredition/item/AnotherEditionItems.java"
+hash = "b9cfd4d1ecb28d51da4c2791ec708eab22e68c5d72334f5a86558e28b1c14dad"
+
+[[files]]
+file = "coremod/src/main/java/org/theplaceholder/anotheredition/item/NetherIgniterItem.java"
+hash = "958303fea84a6598888d2a0f63b9961f499ac395570e39befb3210ca58ed41cb"
+
+[[files]]
+file = "coremod/src/main/java/org/theplaceholder/anotheredition/mixin/IBlockExtensionMixin.java"
+hash = "2f54473657d97d7084fc40a5cc9231a1bd799bb5a2928eaacd4f2f2c6cb564e2"
+
+[[files]]
+file = "coremod/src/main/java/org/theplaceholder/anotheredition/mixin/accessor/FireBlockAccessor.java"
+hash = "70e370dee4ed29e1ed642b4900bec696ca660ed2aff531efc06d8d3105ee54bd"
+
+[[files]]
+file = "coremod/src/main/resources/META-INF/neoforge.mods.toml"
+hash = "ae460c9ef837dd7d714920fe639d4b845afcbf92282c02f64c37c50e124e930c"
+
+[[files]]
+file = "coremod/src/main/resources/another_edition.mixins.json"
+hash = "e7b845ecbededc42c61ff4a4b74eef13ec19eaac51f13015933016b03c05440d"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/blockstates/ignited_fire.json"
+hash = "36666f020077ce0b7323325c07305376a409066f34dd55295ed3e0e7980979d3"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/models/block/ignited_fire_floor0.json"
+hash = "50037291cf341db6797d84e4655fc803f533f009775753a7eebc3ea3191da039"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/models/block/ignited_fire_floor1.json"
+hash = "2c9d46e39bf744f43f062612fea010f65acb4f0819b0543dca49380a15ae3ec4"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/models/block/ignited_fire_side0.json"
+hash = "d7627469c56eacac4310b5b7e654d600579986f17bb63ca46ef5ae7403cda3e2"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/models/block/ignited_fire_side1.json"
+hash = "1640d5cc18bb1cdac240f6fefe18862b5e25d64aa126a66bb14c3c3aeb64c820"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/models/block/ignited_fire_side_alt0.json"
+hash = "48390c76a04d3799e233a65a646698f21bd98140b846319601872c7ff48bdf9e"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/models/block/ignited_fire_side_alt1.json"
+hash = "082c17f4e214fcc8c9c28b858de93f6cc57776f11fa09f6bb93928097bbeda33"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/models/block/ignited_fire_up0.json"
+hash = "b36ca9f59a014942fdf94b99f19fe59031ebcd3a8b697ed27812881dc50ad91b"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/models/block/ignited_fire_up1.json"
+hash = "130911309545204ee589544172412b49cf580948c450310b7901bbbec332ba22"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/models/block/ignited_fire_up_alt0.json"
+hash = "d18eb9c42c22e6c7a663961f53f57e6b6be60107d52493cdf7e6639492b70ad6"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/models/block/ignited_fire_up_alt1.json"
+hash = "2b28f6f1702c01794a51aa358b8b4c496cee2a1ab3eb4d5ef68dc76dcfe0dae4"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/textures/block/ignited_fire_0.png"
+hash = "c085f8605c93a325507b5f02bc99d4014b32f671e13617d24a0fda5ded54ef19"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/textures/block/ignited_fire_0.png.mcmeta"
+hash = "658d67c1b3206e23a401d04ec196512b72702b7b8c6fa0200c6c66250529bbbb"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/textures/block/ignited_fire_1.png"
+hash = "2c01be7fdb4c507ed9d34a1dfcc0ac61344870d18398711bb7291d16e8c91bc4"
+
+[[files]]
+file = "coremod/src/main/resources/assets/another_edition/textures/block/ignited_fire_1.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "coremod/src/main/resources/data/minecraft/tags/block/fire.json"
+hash = "6c4a5e72a736b2eb1de5650eb721f05493170e7416e6573682937d164b098c79"
 
 [[files]]
 file = "emi.json"
@@ -138,7 +1022,7 @@ hash = "34c562e36f3af5eef5012f0ac3bfd81be8ebaf0ca35232ad6f4f684d46f51194"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "72346da9839c00490ee408e16c1424a13646437b7d27b305add1680c62551513"
+hash = "bd30226f7a5318f7e191105af6354f17ca930e9b4eba7e377f0d5613ac3a4497"
 
 [[files]]
 file = "kubejs/config/web_server.json"
@@ -169,6 +1053,10 @@ metafile = true
 file = "mods/amplified-nether.mr.pw.toml"
 hash = "04cb3ee26933b77b5bf87660921801171536ccee2ab16572232b287f86cc2ae8"
 metafile = true
+
+[[files]]
+file = "mods/another_edition_core-1.0.0.jar"
+hash = "ef4293eb20c4a4f19d8e895c8773f2c698de99e1c704bf1424f6708d00b582e2"
 
 [[files]]
 file = "mods/architectury-api.cf.pw.toml"

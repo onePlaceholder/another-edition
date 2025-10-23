@@ -6,6 +6,8 @@
   "client": [
   ],
   "mixins": [
+    "IBlockExtensionMixin",
+    "accessor.FireBlockAccessor"
   ],
   "injectors": {
     "defaultRequire": 1

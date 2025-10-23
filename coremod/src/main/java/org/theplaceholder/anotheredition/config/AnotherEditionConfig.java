@@ -4,55 +4,34 @@ import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.ConfigData;
 import me.shedaniel.autoconfig.annotation.Config;
 import me.shedaniel.autoconfig.serializer.JanksonConfigSerializer;
-import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.Block;
-import org.theplaceholder.utils.PlaceholderUtils;
+import net.minecraft.block.Block;
+import net.minecraft.registry.Registries;
+import net.minecraft.util.Identifier;
+import org.theplaceholder.anotheredition.AnotherEdition;
 
 import java.util.HashSet;
 import java.util.Set;
 
-@Config(name = PlaceholderUtils.MODID)
+@Config(name = AnotherEdition.MOD_ID)
 public class AnotherEditionConfig implements ConfigData {
-    private NetherPortalConfig netherPortal = new NetherPortalConfig();
+    private final String[] netherPortalFrameBlocks = new String[] {
+            "minecraft:obsidian",
+            "minecraft:crying_obsidian"
+    };
 
-    public NetherPortalConfig getNetherPortal() {
-        return this.netherPortal;
-    }
-
-    public static class NetherPortalConfig {
-        private boolean enabled = false;
-        private String[] ignitingItems = new String[] {
-                "minecraft:flint_and_steel",
-                "minecraft:fire_charge"
-        };
-        private String[] allowedFrameBlocks = new String[] {
-                "minecraft:obsidian"
-        };
-
-        public boolean isEnabled() {
-            return this.enabled;
-        }
-
-        public Set<Item> getIgnitingItems() {
-            Set<Item> items = new HashSet<>();
-            for (String ignitingItem : this.ignitingItems) {
-                items.add(BuiltInRegistries.ITEM.get(ResourceLocation.parse(ignitingItem)));
-            }
-            return items;
-        }
-
-        public Set<Block> getAllowedFrameBlocks() {
+    private transient Set<Block> cachedNetherPortalFrameBlocks = null;
+    public Set<Block> getNetherPortalFrameBlocks() {
+        if (this.cachedNetherPortalFrameBlocks == null) {
             Set<Block> blocks = new HashSet<>();
-            for (String allowedFrameBlock : this.allowedFrameBlocks) {
-                blocks.add(BuiltInRegistries.BLOCK.get(ResourceLocation.parse(allowedFrameBlock)));
+            for (String allowedFrameBlock : this.netherPortalFrameBlocks) {
+                blocks.add(Registries.BLOCK.get(Identifier.of(allowedFrameBlock)));
             }
-            return blocks;
+            this.cachedNetherPortalFrameBlocks = blocks;
         }
+        return this.cachedNetherPortalFrameBlocks;
     }
 
-    public static void register() {
-        AutoConfig.register(PlaceholderUtilsConfig.class, JanksonConfigSerializer::new);
+    public static AnotherEditionConfig register() {
+        return AutoConfig.register(AnotherEditionConfig.class, JanksonConfigSerializer::new).getConfig();
     }
 }

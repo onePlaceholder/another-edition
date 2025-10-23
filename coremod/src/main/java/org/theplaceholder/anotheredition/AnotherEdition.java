@@ -1,14 +1,29 @@
 package org.theplaceholder.anotheredition;
 
+import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
+import net.neoforged.neoforge.common.NeoForge;
+import org.theplaceholder.anotheredition.block.AnotherEditionBlocks;
+import org.theplaceholder.anotheredition.config.AnotherEditionConfig;
+import org.theplaceholder.anotheredition.event.PortalEventHandler;
+import org.theplaceholder.anotheredition.item.AnotherEditionItems;
 
 @Mod(AnotherEdition.MOD_ID)
 public final class AnotherEdition {
     public static final String MOD_ID = "another_edition";
 
-    public AnotherEdition() {
-        // This code runs as soon as Minecraft is in a mod-load-ready state.
-        // However, some things (like registries and resources) may still be uninitialized.
-        // Proceed with mild caution.
+    private static AnotherEditionConfig CONFIG;
+
+    public AnotherEdition(IEventBus modEventBus) {
+        CONFIG = AnotherEditionConfig.register();
+
+        AnotherEditionItems.register(modEventBus);
+        AnotherEditionBlocks.register(modEventBus);
+
+        NeoForge.EVENT_BUS.register(PortalEventHandler.class);
+    }
+
+    public static AnotherEditionConfig getConfig() {
+        return CONFIG;
     }
 }
