@@ -26,5 +26,12 @@ versionRange = "[1.21.1,)"
 ordering = "NONE"
 side = "BOTH"
 
+[[dependencies.another_edition]]
+modId = "cloth_config"
+type = "required"
+versionRange = "[15.0.140,)"
+ordering = "NONE"
+side = "BOTH"
+
 [[mixins]]
 config = "another_edition.mixins.json"

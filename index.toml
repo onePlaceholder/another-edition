@@ -1,20 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "build_coremod.sh"
-hash = "8abb21176a3fd592cde804c6ef97217f4d3720d4e742e514e43cd2b64a5ad0c9"
-
-[[files]]
-file = "build_modpack.sh"
-hash = "75c249f4ba0366457911b4c48246b7f45ed32ace513cd7a971f17cf023e26ffc"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "fb804d21af28c433341ceffd2b5b30798b452d366dd48e95133e44b37ece5a05"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "57c745de0a97732da110f4504ca55186525a48583341c62cc9d59a39741c7881"
+
+[[files]]
+file = "config/another_edition.json5"
+hash = "921c21f485e4990c8a985135e6641578c12c06cb4d88452e5d511d9db3dbe75b"
 
 [[files]]
 file = "config/biome_replacer.properties"
@@ -27,26 +23,6 @@ hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
 [[files]]
 file = "config/emi.css"
 hash = "0f0f03c7287216949f61e1fc7b4a16741ab074f8189d0bf7bb8be8be308b92b4"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "ce0d84b2b57cf5f1f8223fe000ffe065ed91791a27b82411a9028bf2b85d8647"
-
-[[files]]
-file = "config/fancymenu/customization/loading_screen.txt"
-hash = "51e2d768a0db0e5df35f2b2e8be0a0928a74b7d4a4d1771cd4a1e2d674526364"
-
-[[files]]
-file = "config/fancymenu/customization/pause_screen.txt"
-hash = "8959af45d618b48f806b6d6931453e1243c0c11ee241b5591138b1d9c22c20f6"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen.txt"
-hash = "2fb7ea700d325de8fac054e53b3ab92eb05feb56e059e307d2a71248f52fd080"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "790d62d3b8d0bbb2c874469ebb484c124796d2b8a3e1cf5c704bb86d124eb6b3"
 
 [[files]]
 file = "config/fml.toml"
@@ -65,12 +41,12 @@ file = "config/justzoom/config.txt"
 hash = "ab14cd2d494978bf9796e29e47604250d993a5cc3408595030a818d88d0af6f7"
 
 [[files]]
-file = "config/key_binding_hider.toml"
-hash = "debfca353e7e2a8190c2e86a724725c430ef68d12f088a2997b46d35641ae9ab"
-
-[[files]]
 file = "config/lootr-common.toml"
 hash = "572cf6dd20559c2e70ac6e2bb75474cfc22206169f897b0c0084e8885fed9df7"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "945eb7e99d98738b83084d830071a0b495de83192bbdb19dad07f1bf7882353b"
 
 [[files]]
 file = "config/nerb/general.yaml"
@@ -119,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/another_edition_core-0.1.0.jar"
-hash = "a4d487451b82d8a38982a1a557d399a8b51ebd77a692a400c541cd3b6d882931"
+hash = "ec7e89a17c6f6df6061644a43b5adcfeb477d35e03afb929f3de316ddf34d878"
 
 [[files]]
 file = "mods/architectury-api.cf.pw.toml"
@@ -212,6 +188,16 @@ hash = "c0dd0b78c99f133535949ba7e7d22603cf1c95b1d5b0c1da95c830d7cd511354"
 metafile = true
 
 [[files]]
+file = "mods/controlling.cf.pw.toml"
+hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+metafile = true
+
+[[files]]
+file = "mods/controlling.mr.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/create.cf.pw.toml"
 hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
 metafile = true
@@ -252,16 +238,6 @@ hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.cf.pw.toml"
-hash = "13993bb08feca6d6663580880ea07570f4e754154c68911e6be61180d334624d"
-metafile = true
-
-[[files]]
-file = "mods/drippy-loading-screen.mr.pw.toml"
-hash = "9e0bfb309603870b77dfd202f1456c6e96649d47bf3c4628d56be50fd82a5ccf"
-metafile = true
-
-[[files]]
 file = "mods/emi.cf.pw.toml"
 hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
 metafile = true
@@ -269,16 +245,6 @@ metafile = true
 [[files]]
 file = "mods/emi.mr.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.cf.pw.toml"
-hash = "2021c2bcca844f06ca6b38418ae1a88701f15c9bdc24dc671eeec04268c6eacc"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.mr.pw.toml"
-hash = "3e381c462223da437f386a6f368e734131395f400b24a8cc0406f6e49c84418f"
 metafile = true
 
 [[files]]
@@ -377,16 +343,6 @@ hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
 metafile = true
 
 [[files]]
-file = "mods/keybinding-hider.cf.pw.toml"
-hash = "ae599c384e1f975fa826947159cd587747cd0384c26b509e9250aea913531328"
-metafile = true
-
-[[files]]
-file = "mods/keybinding-hider.mr.pw.toml"
-hash = "be07ff8dfdeb0521d166784ef1177ccdb67e3f4f41fe9756072fa26ca6f19d61"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.cf.pw.toml"
 hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
 metafile = true
@@ -424,16 +380,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.mr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
-metafile = true
-
-[[files]]
-file = "mods/melody.cf.pw.toml"
-hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
-metafile = true
-
-[[files]]
-file = "mods/melody.mr.pw.toml"
-hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
@@ -582,16 +528,6 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
-file = "mods/rhino.cf.pw.toml"
-hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
-metafile = true
-
-[[files]]
-file = "mods/rhino.mr.pw.toml"
-hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
-metafile = true
-
-[[files]]
 file = "mods/sawmill.cf.pw.toml"
 hash = "3ee01a32b6309256f083a8c67fc458e6745fc730c8abd86faa4a304333520064"
 metafile = true
@@ -658,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.cf.pw.toml"
-hash = "6d6e832992f8af3bfd90232e3582e4e11eb42901d16a747a81eea5b811489be3"
+hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
 metafile = true
 
 [[files]]
@@ -668,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.cf.pw.toml"
-hash = "0a786416dcef1b24033a9c652e1e0fc6c97b77cfdfab3b65d4f3cd87377d3a69"
+hash = "c2053af07ae41f932040eaa078a7d22438cbb0bf16ebcf0926740dd8777f9498"
 metafile = true
 
 [[files]]
@@ -678,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.cf.pw.toml"
-hash = "e5c942089bd840a39aa6f2ab80bb7e555d2733efc119d59e4e2286ab00a4b8a0"
+hash = "66100a73e80ebb36aa78789dbcd49b2485459e834b75f7b2e893cc11c06f9a3f"
 metafile = true
 
 [[files]]
@@ -688,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.cf.pw.toml"
-hash = "3c30c032674bfd22ef88cf87dcfd4445c7dbc86bf05dc7f14df584c30315aee0"
+hash = "0a47325379d60e0886ab96a8c247ae8820bcb1a4a8ae53d855a50a99f6cab4ca"
 metafile = true
 
 [[files]]
@@ -699,18 +635,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "284154ae5488e7c4294c7705cbb880c899c660083f283e5a3477642ebefcce5c"
-
-[[files]]
-file = "patchouli_books/everything_guide/book.json"
-hash = "a2b6d35cd5f56f3c834488b8238d46f97864ac2929497698134792f285ed3eb7"
-
-[[files]]
-file = "patchouli_books/everything_guide/en_us/categories/the_nether.json"
-hash = "d75a9b40b7639a78c997db11a927c96f01b6a6248d6b09bfa252ae010dd7ff6c"
-
-[[files]]
-file = "patchouli_books/everything_guide/en_us/entries/the_nether/nether_portal.json"
-hash = "fba1ddd45a3a886a7d245026aac8a5a5f63d0b2aac5ecf492ed6b8960c3e4f9e"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
