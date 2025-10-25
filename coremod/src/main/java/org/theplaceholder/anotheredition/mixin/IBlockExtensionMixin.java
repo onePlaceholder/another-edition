@@ -1,5 +1,6 @@
 package org.theplaceholder.anotheredition.mixin;
 
+import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.BlockView;
@@ -14,6 +15,6 @@ import org.theplaceholder.anotheredition.AnotherEdition;
 public interface IBlockExtensionMixin {
     @Inject(at = @At("RETURN"), method = "isPortalFrame", cancellable = true)
     private void isPortalFrame(BlockState state, BlockView level, BlockPos pos, CallbackInfoReturnable<Boolean> cir) {
-        cir.setReturnValue(AnotherEdition.getConfig().getNetherPortalFrameBlocks().contains(this));
+        cir.setReturnValue(AnotherEdition.getConfig().getNetherPortalFrameBlocks().contains((Block) this));
     }
 }
