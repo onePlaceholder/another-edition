@@ -2,5 +2,5 @@ build.sh
 LICENSE.txt
 another_edition-*.mrpack
 another_edition-*.zip
-core_mod/
+coremod/
 build/
