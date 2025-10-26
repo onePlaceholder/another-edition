@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "another_edition:item/nether_igniter"
+    "layer0": "another_edition:item/encyclopedia_universalis"
   }
 }

@@ -33,5 +33,26 @@ versionRange = "[15.0.140,)"
 ordering = "NONE"
 side = "BOTH"
 
+[[dependencies.another_edition]]
+modId = "patchouli"
+type = "required"
+versionRange = "[1.21.1-92-NEOFORGE,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.another_edition]]
+modId = "curios"
+type = "required"
+versionRange = "[9.5.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.another_edition]]
+modId = "jade"
+type = "required"
+versionRange = "[15.10.3,)"
+ordering = "NONE"
+side = "CLIENT"
+
 [[mixins]]
 config = "another_edition.mixins.json"

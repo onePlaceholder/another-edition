@@ -1,4 +1,7 @@
 {
   "item.another_edition.nether_igniter": "Nether Igniter",
-  "block.another_edition.ignited_fire": "Ignited Fire"
+  "block.another_edition.ignited_fire": "Ignited Fire",
+  "curios.identifier.encyclopedia_universalis": "Encyclopedia Universalis",
+  "item.another_edition.encyclopedia_universalis": "Encyclopedia Universalis",
+  "curios.identifier.spyglass": "Spyglass"
 }
