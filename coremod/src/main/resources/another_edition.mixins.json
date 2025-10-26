@@ -6,12 +6,17 @@
   "client": [
     "client.GameMenuScreenMixin",
     "client.GameOptionsMixin",
+    "client.LoadingDisplayMixin",
     "client.MinecraftClientMixin",
-    "client.TitleScreenMixin"
+    "client.TitleScreenMixin",
+    "client.curios.ClientEventHandlerMixin",
+    "client.jade.ClientProxyMixin",
+    "client.justzoom.ZoomHandlerMixin"
   ],
   "mixins": [
     "GameRulesMixin",
     "IBlockExtensionMixin",
+    "SpyglassItemMixin",
     "accessor.FireBlockAccessor"
   ],
   "injectors": {

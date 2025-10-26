@@ -3,10 +3,11 @@ package org.theplaceholder.anotheredition.config;
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.ConfigData;
 import me.shedaniel.autoconfig.annotation.Config;
-import me.shedaniel.autoconfig.serializer.JanksonConfigSerializer;
+import me.shedaniel.autoconfig.serializer.GsonConfigSerializer;
 import net.minecraft.block.Block;
 import net.minecraft.registry.Registries;
 import net.minecraft.util.Identifier;
+import net.minecraft.util.math.ColorHelper;
 import net.minecraft.world.GameRules;
 import org.theplaceholder.anotheredition.AnotherEdition;
 
@@ -14,10 +15,11 @@ import java.util.*;
 
 @Config(name = AnotherEdition.MOD_ID)
 public class AnotherEditionConfig implements ConfigData {
-    private final List<String> netherPortalFrameBlocks = new ArrayList<>(List.of(new String[]{"minecraft:obsidian", "minecraft:crying_obsidian"}));
-    private final Map<String, Object> defaultGameRules = new HashMap<>(Map.of("announceAdvancements", false, "reducedDebugInfo", true));
-    private final String modpackVersion = "0.1.0";
-    private final List<String> disabledKeybinds = new ArrayList<>(List.of(new String[]{"key.advancements"}));
+    private List<String> netherPortalFrameBlocks = new ArrayList<>(List.of(new String[]{"minecraft:obsidian", "minecraft:crying_obsidian"}));
+    private Map<String, Object> defaultGameRules = new HashMap<>(Map.of("announceAdvancements", false, "reducedDebugInfo", true));
+    private String modpackVersion = "0.1.0";
+    private List<String> disabledKeybinds = new ArrayList<>(List.of(new String[]{"key.advancements"}));
+    private int[] loadingColor = new int[]{255, 255, 255};
 
     private transient Set<Block> cachedNetherPortalFrameBlocks = null;
     public Set<Block> getNetherPortalFrameBlocks() {
@@ -50,6 +52,10 @@ public class AnotherEditionConfig implements ConfigData {
     }
 
     public static AnotherEditionConfig register() {
-        return AutoConfig.register(AnotherEditionConfig.class, JanksonConfigSerializer::new).getConfig();
+        return AutoConfig.register(AnotherEditionConfig.class, GsonConfigSerializer::new).getConfig();
+    }
+
+    public int getLoadingColor() {
+        return ColorHelper.Argb.getArgb(255, this.loadingColor[0], this.loadingColor[1], this.loadingColor[2]);
     }
 }

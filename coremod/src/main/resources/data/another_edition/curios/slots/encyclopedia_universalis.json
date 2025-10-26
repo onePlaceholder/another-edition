@@ -1,6 +1,3 @@
 {
-  "order": 20,
-  "size": 1,
-  "icon": "another_edition:slot/empty_spyglass_slot",
-  "add_cosmetic": true
+  "icon": "another_edition:slot/encyclopedia_universalis"
 }

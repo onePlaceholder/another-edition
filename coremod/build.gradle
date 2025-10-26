@@ -18,6 +18,10 @@ repositories {
     maven {
         url = "https://maven.shedaniel.me/"
     }
+    maven {
+        name = "Modrinth"
+        url = "https://api.modrinth.com/maven"
+    }
 }
 
 dependencies {
@@ -29,6 +33,12 @@ dependencies {
     neoForge "net.neoforged:neoforge:$project.neoforge_version"
 
     modImplementation "me.shedaniel.cloth:cloth-config-neoforge:${project.cloth_config_version}"
+    modImplementation "maven.modrinth:jade:$project.jade_version_id"
+    modImplementation "maven.modrinth:curios:$project.curios_version_id"
+    modImplementation "maven.modrinth:just-zoom:$project.justzoom_version_id"
+    modImplementation "maven.modrinth:konkrete:$project.konkrete_version_id"
+
+    modRuntimeOnly "maven.modrinth:patchouli:$project.patchouli_version_id"
 }
 
 processResources {
@@ -40,9 +50,6 @@ processResources {
 }
 
 java {
-    // Loom will automatically attach sourcesJar to a RemapSourcesJar task and to the "build" task
-    // if it is present.
-    // If you remove this line, sources will not be generated.
     withSourcesJar()
 
     sourceCompatibility = JavaVersion.VERSION_21

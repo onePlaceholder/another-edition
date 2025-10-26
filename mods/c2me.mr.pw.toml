@@ -1,13 +1,13 @@
 name = "Concurrent Chunk Management Engine (NeoForge)"
-filename = "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.83.jar"
+filename = "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.85.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/COlSi5iR/versions/qX4ZvncH/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.83.jar"
+url = "https://cdn.modrinth.com/data/COlSi5iR/versions/edJXcdBD/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.85.jar"
 hash-format = "sha512"
-hash = "3a7ed5110adc244afceb40381516c33415d1ca21b372b7ce7251f167b215905c169b89019261a5a697adb9120ff860c56741b670cc993bde39a98d72dec3c1ea"
+hash = "facb123677fe9db181251b6cf1c141d58a09affb60cea599f2b1f744ee8421981c0b1f7bd9e1bea920febb328613eee46f00e4bdbad2620b9e4cb27ff3689eac"
 
 [update]
 [update.modrinth]
 mod-id = "COlSi5iR"
-version = "qX4ZvncH"
+version = "edJXcdBD"

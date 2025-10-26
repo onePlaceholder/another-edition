@@ -1,12 +1,12 @@
 name = "Another Edition"
 author = "thePlaceholder"
-version = "0.2"
+version = "0.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "328df7fa08c85a4ed1f51724dbd489ceac8c4d6421732de5d9ca18b48a732dd2"
+hash = "d83aceebc8892ee5ac5d3b30c5b28a46c02079b6add2785e735081ed4661651a"
 
 [versions]
 minecraft = "1.21.1"

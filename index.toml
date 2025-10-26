@@ -9,8 +9,8 @@ file = "config/NoChatReports/NCR-Client.json"
 hash = "57c745de0a97732da110f4504ca55186525a48583341c62cc9d59a39741c7881"
 
 [[files]]
-file = "config/another_edition.json5"
-hash = "921c21f485e4990c8a985135e6641578c12c06cb4d88452e5d511d9db3dbe75b"
+file = "config/another_edition.json"
+hash = "e6ce8f31a85f210bc8102e510fbd4fc2ed19c7941c6ae2eab069e943d743570a"
 
 [[files]]
 file = "config/biome_replacer.properties"
@@ -94,8 +94,8 @@ hash = "04cb3ee26933b77b5bf87660921801171536ccee2ab16572232b287f86cc2ae8"
 metafile = true
 
 [[files]]
-file = "mods/another_edition_core-0.1.0.jar"
-hash = "ec7e89a17c6f6df6061644a43b5adcfeb477d35e03afb929f3de316ddf34d878"
+file = "mods/another_edition_core-0.1.1.jar"
+hash = "b341c10ea5de8d064759835ff55333e9a033cdee70c2a297f39c1e6bd610aa8d"
 
 [[files]]
 file = "mods/architectury-api.cf.pw.toml"
@@ -149,12 +149,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.cf.pw.toml"
-hash = "c2aa70b19687d6e1964ad349e8fbf2d68b8c144faa770e6b3e5a2b3e904102e5"
+hash = "020c67fc485c7afe5611694120da4498316c49c82bdee44e66221daf1b11368a"
 metafile = true
 
 [[files]]
 file = "mods/c2me.mr.pw.toml"
-hash = "f2ad51a833a7a7434602fd197fadc3ecdd10766dc88c315e09d087134e23bc05"
+hash = "df38bd557d9d549bd4db699c3efec071ca24017541ce6359a96d0385b7463b22"
 metafile = true
 
 [[files]]
@@ -179,12 +179,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.cf.pw.toml"
-hash = "614e76a5e249acf1959f5cae88f9b3045327982608f441dc8eb1684882207c72"
+hash = "42c658ecafe98b802924b2a8a10bfc995d743efdc2cf7a1965274d302380f1e7"
 metafile = true
 
 [[files]]
 file = "mods/collective.mr.pw.toml"
-hash = "c0dd0b78c99f133535949ba7e7d22603cf1c95b1d5b0c1da95c830d7cd511354"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
@@ -199,12 +199,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.cf.pw.toml"
-hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
+hash = "462bf1560d05ef3b0573deb1a9024bd415ddd7471c7d5409825d12bbd0bfbcfc"
 metafile = true
 
 [[files]]
 file = "mods/create.mr.pw.toml"
-hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+hash = "f36d13fe08a755712437ae38d4a339af7a73003152a8d3638984a11964fd83ae"
 metafile = true
 
 [[files]]
@@ -634,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "284154ae5488e7c4294c7705cbb880c899c660083f283e5a3477642ebefcce5c"
+hash = "5c16e7977b81ed9fb2e7bbb98763c4471c2567ef2a2cfa77c1f2e16fb5eada7f"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
