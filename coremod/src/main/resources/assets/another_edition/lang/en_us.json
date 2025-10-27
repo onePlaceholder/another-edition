@@ -3,5 +3,7 @@
   "block.another_edition.ignited_fire": "Ignited Fire",
   "curios.identifier.encyclopedia_universalis": "Encyclopedia Universalis",
   "item.another_edition.encyclopedia_universalis": "Encyclopedia Universalis",
-  "curios.identifier.spyglass": "Spyglass"
+  "curios.identifier.spyglass": "Spyglass",
+  "itemGroup.another_edition.main": "Another Edition",
+  "item.another_edition.ender_compass": "Ender Compass"
 }

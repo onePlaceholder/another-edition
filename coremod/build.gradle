@@ -37,6 +37,7 @@ dependencies {
     modImplementation "maven.modrinth:curios:$project.curios_version_id"
     modImplementation "maven.modrinth:just-zoom:$project.justzoom_version_id"
     modImplementation "maven.modrinth:konkrete:$project.konkrete_version_id"
+    modImplementation "maven.modrinth:coordinateshud:$project.coordinateshud_version_id"
 
     modRuntimeOnly "maven.modrinth:patchouli:$project.patchouli_version_id"
 }

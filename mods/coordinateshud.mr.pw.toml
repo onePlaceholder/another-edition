@@ -1,0 +1,13 @@
+name = "Coordinates HUD"
+filename = "coordhud-neoforge-1.21.5-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2J7hetpv/versions/NBymtDvQ/coordhud-neoforge-1.21.5-1.0.0.jar"
+hash-format = "sha512"
+hash = "d273d5dc55ee07ee0ddf112ed20d4aeb78ec901b64493acc0d01fc80655c4dc0c425566200cccefe6c8faa733ab1c2d35abc19efce97d7056980dcbcd936a026"
+
+[update]
+[update.modrinth]
+mod-id = "2J7hetpv"
+version = "NBymtDvQ"

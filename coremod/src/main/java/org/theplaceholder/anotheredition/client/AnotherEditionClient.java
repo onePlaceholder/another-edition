@@ -19,7 +19,7 @@ public class AnotherEditionClient {
 
     private static boolean hasItemInSlot(String slot, Item item) {
         Optional<ICuriosItemHandler> handler = CuriosApi.getCuriosInventory(MinecraftClient.getInstance().player);
-        return handler.isPresent() && handler.get().getCurios().get(slot).getStacks().getStackInSlot(0).isOf(item);
+        return handler.isPresent() && handler.get().getCurios().containsKey(slot) && handler.get().getCurios().get(slot).getStacks().getStackInSlot(0).isOf(item);
     }
 
     public static boolean hasJadeOverlay() {
@@ -28,5 +28,15 @@ public class AnotherEditionClient {
 
     public static boolean hasZoom() {
         return hasItemInSlot("spyglass", Items.SPYGLASS);
+    }
+
+    public static CoordStatue getCoordStatus() {
+        CoordStatue result = CoordStatue.NONE;
+        if (hasItemInSlot("compass", Items.COMPASS)) {
+            result = CoordStatue.LIMITED;
+        } else if (hasItemInSlot("compass", AnotherEditionItems.ENDER_COMPASS.get())) {
+            result = CoordStatue.FULL;
+        }
+        return result;
     }
 }

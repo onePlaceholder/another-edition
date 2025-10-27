@@ -11,7 +11,9 @@
     "client.TitleScreenMixin",
     "client.curios.ClientEventHandlerMixin",
     "client.jade.ClientProxyMixin",
-    "client.justzoom.ZoomHandlerMixin"
+    "client.justzoom.ZoomHandlerMixin",
+    "client.coordhud.HUDRendererMixin",
+    "client.coordhud.KeyBindingsMixin"
   ],
   "mixins": [
     "GameRulesMixin",
