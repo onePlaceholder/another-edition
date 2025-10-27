@@ -25,7 +25,7 @@ public class GameOptionsMixin {
         List<KeyBinding> newKeys = new ArrayList<>();
 
         for (KeyBinding keymapping : this.allKeys) {
-            if (disableKeybinds.contains(keymapping.getTranslationKey())){
+            if (disableKeybinds.contains(keymapping.getTranslationKey())) {
                 keymapping.setKeyModifierAndCode(KeyModifier.NONE, InputUtil.UNKNOWN_KEY);
             } else {
                 newKeys.add(keymapping);

@@ -33,6 +33,10 @@ file = "config/iris.properties"
 hash = "1815e51f159566c8ea532cf328d26d86a6c996da5929b5f0ab8b3129306325c5"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "29b836da544a2daacd165f02e4e25e02fedfd16939ec21ed7461479e05a2015b"
+
+[[files]]
 file = "config/jade/plugins.json"
 hash = "db7cdc8bab4b6eaba96cda23e0e2713aaaa4c1278fe032546bf0000cdf6a16df"
 
@@ -65,6 +69,10 @@ file = "config/toastcontrol-client.toml"
 hash = "ad75c971753c61026d3b5e067d224615691315fe57fb7562316520a2beefea02"
 
 [[files]]
+file = "coordhud-config.json"
+hash = "88a27c702a3f2d5f49e8feeeacef00b08aad282a18134920812b3843ea17fe3f"
+
+[[files]]
 file = "emi.json"
 hash = "1638abe6648461f8108a001102920e914cd9d36da011c2f2f6b72f9a2e0e94bf"
 
@@ -95,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/another_edition_core-0.1.1.jar"
-hash = "b341c10ea5de8d064759835ff55333e9a033cdee70c2a297f39c1e6bd610aa8d"
+hash = "e91d05877fcfa3c83e524568276fe9472d55c6137dcc5503742813d75d3d51f6"
 
 [[files]]
 file = "mods/architectury-api.cf.pw.toml"
@@ -195,6 +203,16 @@ metafile = true
 [[files]]
 file = "mods/controlling.mr.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/coordinateshud.cf.pw.toml"
+hash = "0cca0a9a6359d3cd5f1ffbdfc772555a7ecb38d2670c2312e1762a7b89d34434"
+metafile = true
+
+[[files]]
+file = "mods/coordinateshud.mr.pw.toml"
+hash = "c555ead5e7144c7e9325b2726f0078b3bf772bddb24d7195e5c3acf56e1c87dc"
 metafile = true
 
 [[files]]
@@ -394,12 +412,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.cf.pw.toml"
-hash = "7d310f8487081902818e19e301ffd7954765f7a1db3aeebcbd97fcf414ea9cda"
+hash = "17c9ece9ddd4303a323526b0f98e997c38e7a07797954ac81d3e48b169122695"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.mr.pw.toml"
-hash = "de40420d2d28944b97b84100a15c9f9afba561c1e8805dfbd2d1f84cbaa9fc22"
+hash = "1aacabeaeae215e2ce6ba51a1c087460152cefa1fe32070fb80fbe1fa1360b05"
 metafile = true
 
 [[files]]

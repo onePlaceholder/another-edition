@@ -1,0 +1,13 @@
+name = "Coordinates HUD"
+filename = "CoordHUD-forge-1.21.5-1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "da9cf66b7c9896d2799c3ec910c847158a7a19e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6650636
+project-id = 1286549
