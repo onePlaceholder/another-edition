@@ -22,6 +22,8 @@ repositories {
         name = "Modrinth"
         url = "https://api.modrinth.com/maven"
     }
+    maven { url = "https://maven.createmod.net" }
+    maven { url = "https://maven.ithundxr.dev/snapshots" }
 }
 
 dependencies {
@@ -38,8 +40,13 @@ dependencies {
     modImplementation "maven.modrinth:just-zoom:$project.justzoom_version_id"
     modImplementation "maven.modrinth:konkrete:$project.konkrete_version_id"
     modImplementation "maven.modrinth:coordinateshud:$project.coordinateshud_version_id"
+    modImplementation "maven.modrinth:patchouli:$project.patchouli_version_id"
 
-    modRuntimeOnly "maven.modrinth:patchouli:$project.patchouli_version_id"
+    modImplementation("com.simibubi.create:create-${minecraft_version}:${create_version}") { transitive = false }
+    modImplementation("net.createmod.ponder:Ponder-NeoForge-${minecraft_version}:${ponder_version}")
+    modImplementation("dev.engine-room.flywheel:flywheel-neoforge-${minecraft_version}:${flywheel_version}")
+    implementation("com.tterrag.registrate:Registrate:${registrate_version}")
+
 }
 
 processResources {

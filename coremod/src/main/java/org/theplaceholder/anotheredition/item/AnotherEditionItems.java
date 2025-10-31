@@ -17,6 +17,12 @@ public class AnotherEditionItems {
     public static final Supplier<NetherIgniterItem> NETHER_IGNITER = register(() -> new NetherIgniterItem(new Item.Settings().maxCount(1).maxDamage(4)), "nether_igniter");
     public static final Supplier<Item> ENCYCLOPEDIA_UNIVERSALIS = register(new Item.Settings().maxCount(1).rarity(Rarity.UNCOMMON), "encyclopedia_universalis");
     public static final Supplier<Item> ENDER_COMPASS = register(new Item.Settings().maxCount(1), "ender_compass");
+    public static final Supplier<Item> ANDESITE_MIX = register("andesite_mix");
+
+
+    private static Supplier<Item> register(String id) {
+        return register(() -> new Item(new Item.Settings()), id);
+    }
 
     private static Supplier<Item> register(Item.Settings settings, String id) {
         return register(() -> new Item(settings), id);

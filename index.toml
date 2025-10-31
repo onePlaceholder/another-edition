@@ -10,7 +10,7 @@ hash = "57c745de0a97732da110f4504ca55186525a48583341c62cc9d59a39741c7881"
 
 [[files]]
 file = "config/another_edition.json"
-hash = "e6ce8f31a85f210bc8102e510fbd4fc2ed19c7941c6ae2eab069e943d743570a"
+hash = "591b0c417dae5bd725406c2fa1268484d169d22fcac370689cf30d877e20463d"
 
 [[files]]
 file = "config/biome_replacer.properties"
@@ -22,7 +22,7 @@ hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
 
 [[files]]
 file = "config/emi.css"
-hash = "0f0f03c7287216949f61e1fc7b4a16741ab074f8189d0bf7bb8be8be308b92b4"
+hash = "c35810fed6e6ed13fc997b29bc80dfd1b65efdcc49e6ddbdcedce2f3b4567746"
 
 [[files]]
 file = "config/fml.toml"
@@ -70,7 +70,7 @@ hash = "ad75c971753c61026d3b5e067d224615691315fe57fb7562316520a2beefea02"
 
 [[files]]
 file = "coordhud-config.json"
-hash = "88a27c702a3f2d5f49e8feeeacef00b08aad282a18134920812b3843ea17fe3f"
+hash = "baa2478a8feea21963e815aa00240b99cde7bb5dd6431611f4bbc38e7ed6e544"
 
 [[files]]
 file = "emi.json"
@@ -102,8 +102,8 @@ hash = "04cb3ee26933b77b5bf87660921801171536ccee2ab16572232b287f86cc2ae8"
 metafile = true
 
 [[files]]
-file = "mods/another_edition_core-0.1.1.jar"
-hash = "e91d05877fcfa3c83e524568276fe9472d55c6137dcc5503742813d75d3d51f6"
+file = "mods/another_edition_core-0.1.3.jar"
+hash = "55ec5aedc336d5f3cde17b56f594e8f5faa70bb4c8ea5148668040a20c3ae7d0"
 
 [[files]]
 file = "mods/architectury-api.cf.pw.toml"
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.cf.pw.toml"
-hash = "020c67fc485c7afe5611694120da4498316c49c82bdee44e66221daf1b11368a"
+hash = "3216e804eacb34555f80d50ee3f36f8c9865109558e601baf4d4658d85101ecc"
 metafile = true
 
 [[files]]
@@ -412,12 +412,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.cf.pw.toml"
-hash = "17c9ece9ddd4303a323526b0f98e997c38e7a07797954ac81d3e48b169122695"
+hash = "dbea6c8c7db56125763c0e203d11720416b27da14fa28644f93427d7e9c62e2d"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.mr.pw.toml"
-hash = "1aacabeaeae215e2ce6ba51a1c087460152cefa1fe32070fb80fbe1fa1360b05"
+hash = "f8080690eb60f050db45b1f3a1400c2b0ff5614912344a1ab9e8b80d3d2fa4dd"
 metafile = true
 
 [[files]]

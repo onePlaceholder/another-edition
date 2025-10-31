@@ -5,5 +5,7 @@
   "item.another_edition.encyclopedia_universalis": "Encyclopedia Universalis",
   "curios.identifier.spyglass": "Spyglass",
   "itemGroup.another_edition.main": "Another Edition",
-  "item.another_edition.ender_compass": "Ender Compass"
+  "item.another_edition.ender_compass": "Ender Compass",
+  "curios.identifier.compass": "Compass",
+  "item.another_edition.andesite_mix": "Andesite Mix"
 }
