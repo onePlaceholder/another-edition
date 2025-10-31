@@ -9,15 +9,16 @@
     "client.LoadingDisplayMixin",
     "client.MinecraftClientMixin",
     "client.TitleScreenMixin",
+    "client.coordhud.HUDRendererMixin",
+    "client.coordhud.KeyBindingsMixin",
     "client.curios.ClientEventHandlerMixin",
     "client.jade.ClientProxyMixin",
-    "client.justzoom.ZoomHandlerMixin",
-    "client.coordhud.HUDRendererMixin",
-    "client.coordhud.KeyBindingsMixin"
+    "client.justzoom.ZoomHandlerMixin"
   ],
   "mixins": [
     "GameRulesMixin",
     "IBlockExtensionMixin",
+    "LifecycledResourceManagerImplMixin",
     "SpyglassItemMixin",
     "accessor.FireBlockAccessor"
   ],

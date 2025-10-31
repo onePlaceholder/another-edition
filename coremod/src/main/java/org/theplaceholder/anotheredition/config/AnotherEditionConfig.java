@@ -20,6 +20,8 @@ public class AnotherEditionConfig implements ConfigData {
     private String modpackVersion = "0.1.0";
     private List<String> disabledKeybinds = new ArrayList<>(List.of(new String[]{"key.advancements"}));
     private int[] loadingColor = new int[]{255, 255, 255};
+    private List<String> disabledResources = new ArrayList<>();
+    private Map<String, Map<String, String>> replacedBlocks = new HashMap<>();
 
     private transient Set<Block> cachedNetherPortalFrameBlocks = null;
     public Set<Block> getNetherPortalFrameBlocks() {
@@ -57,5 +59,13 @@ public class AnotherEditionConfig implements ConfigData {
 
     public int getLoadingColor() {
         return ColorHelper.Argb.getArgb(255, this.loadingColor[0], this.loadingColor[1], this.loadingColor[2]);
+    }
+
+    public List<String> getDisabledResources() {
+        return this.disabledResources;
+    }
+
+    public Map<String, Map<String, String>> getReplacedBlocks() {
+        return this.replacedBlocks;
     }
 }

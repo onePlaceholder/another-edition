@@ -1,0 +1,10 @@
+{
+  "name": "Coordinates and Facing",
+  "icon": "minecraft:compass",
+  "sortnum": 1,
+  "category": "another_edition:main",
+  "read_by_default": true,
+  "pages": [
+    "To be able to see the $(thing)Coordinates$() and $(thing)Facing$() requires a $(item)Compass$() to be placed in the right $(thing)Compass Slot$(), the $(item)Ender Compass$() can also be used in other dimensions."
+  ]
+}

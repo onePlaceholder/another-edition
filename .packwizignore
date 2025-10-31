@@ -4,5 +4,6 @@ another_edition-*.mrpack
 another_edition-*.zip
 coremod/
 build/
-build_coremod.sh
+packardry_build.sh
 build_modpack.sh
+README.md

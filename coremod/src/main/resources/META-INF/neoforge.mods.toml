@@ -54,5 +54,12 @@ versionRange = "[15.10.3,)"
 ordering = "NONE"
 side = "CLIENT"
 
+[[dependencies.another_edition]]
+modId="create"
+type="required"
+versionRange="[6.0.7,6.1.0)"
+ordering="NONE"
+side="BOTH"
+
 [[mixins]]
 config = "another_edition.mixins.json"

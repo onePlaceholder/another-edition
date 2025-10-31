@@ -7,7 +7,7 @@
 		"reducedDebugInfo": true,
 		"announceAdvancements": false
 	},
-	"modpackVersion": "0.2.2",
+	"modpackVersion": "0.2.3",
 	"disabledKeybinds": [
 		"key.advancements", 
 		"key.modernfix.config",
@@ -16,7 +16,7 @@
 		"placebo.toggleTrails",
 		"placebo.toggleWings",
 		"key.jei.toggleCheatMode",
-		"key.jei.cheatOneItem",
+		"key.jei.cheatOneItem", 
 		"key.jei.cheatOneItem2",
 		"key.jei.cheatItemStack",
 		"key.jei.cheatItemStack2",
@@ -30,5 +30,9 @@
 		"key.curios.open.desc",
 		"key.jade.show_overlay"
 	],
-	"loadingColor": [100, 50, 150]
+	"loadingColor": [100, 50, 150],
+	"disabledResources": [
+		"create:recipe/crafting/materials/andesite_alloy.json",
+		"create:recipe/crafting/materials/andesite_alloy_from_zinc.json"
+	]
 }

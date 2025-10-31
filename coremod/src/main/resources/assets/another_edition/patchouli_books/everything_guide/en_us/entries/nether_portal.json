@@ -1,0 +1,10 @@
+{
+    "name": "The Nether Portal",
+    "icon": "minecraft:crying_obsidian",
+    "sortnum": 1,
+    "category": "another_edition:main",
+    "read_by_default": true,
+    "pages": [
+        "The $(thing)Nether Portal$() functions like it does in vanilla, except that it spreads corruption to its surroundings and must be opened with a $(item)Nether Igniter$()... And also can be made with $(item)Crying Obsidian$() !"
+    ]
+}
