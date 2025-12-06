@@ -7,6 +7,7 @@ import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 import org.theplaceholder.anotheredition.AnotherEdition;
+import org.theplaceholder.anotheredition.client.data.CoordStatue;
 import org.theplaceholder.anotheredition.item.AnotherEditionItems;
 import top.theillusivec4.curios.api.CuriosApi;
 import top.theillusivec4.curios.api.type.capability.ICuriosItemHandler;
