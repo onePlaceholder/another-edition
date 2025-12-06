@@ -1,7 +1,6 @@
 package org.theplaceholder.anotheredition.item;
 
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
+import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.text.Text;
 import net.minecraft.util.Rarity;
@@ -18,7 +17,8 @@ public class AnotherEditionItems {
     public static final Supplier<Item> ENCYCLOPEDIA_UNIVERSALIS = register(new Item.Settings().maxCount(1).rarity(Rarity.UNCOMMON), "encyclopedia_universalis");
     public static final Supplier<Item> ENDER_COMPASS = register(new Item.Settings().maxCount(1), "ender_compass");
     public static final Supplier<Item> ANDESITE_MIX = register("andesite_mix");
-
+    public static final Supplier<Item> RAW_DIAMOND = register("raw_diamond");
+    public static final Supplier<PickaxeItem> REINFORCED_IRON_PICKAXE = register(() -> new PickaxeItem(ToolMaterials.IRON, new Item.Settings().attributeModifiers(PickaxeItem.createAttributeModifiers(ToolMaterials.IRON, 1.0F, -2.8F)).maxDamage(750)), "reinforced_iron_pickaxe");
 
     private static Supplier<Item> register(String id) {
         return register(() -> new Item(new Item.Settings()), id);

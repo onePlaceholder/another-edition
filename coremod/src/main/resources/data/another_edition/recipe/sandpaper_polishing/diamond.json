@@ -2,12 +2,12 @@
   "type": "create:sandpaper_polishing",
   "ingredients": [
     {
-      "item": "create:rose_quartz"
+      "item": "another_edition:raw_diamond"
     }
   ],
   "results": [
     {
-      "id": "create:polished_rose_quartz"
+      "id": "minecraft:diamond"
     }
   ]
 }

@@ -9,7 +9,7 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;
 import org.theplaceholder.anotheredition.client.AnotherEditionClient;
-import org.theplaceholder.anotheredition.client.CoordStatue;
+import org.theplaceholder.anotheredition.client.data.CoordStatue;
 
 import java.util.List;
 

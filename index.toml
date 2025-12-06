@@ -10,7 +10,7 @@ hash = "57c745de0a97732da110f4504ca55186525a48583341c62cc9d59a39741c7881"
 
 [[files]]
 file = "config/another_edition.json"
-hash = "591b0c417dae5bd725406c2fa1268484d169d22fcac370689cf30d877e20463d"
+hash = "e361cc489dfc24b85c8bdcfb598fd38ffd7177080275b56adff0f7d00577532b"
 
 [[files]]
 file = "config/biome_replacer.properties"
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/another_edition_core-0.1.3.jar"
-hash = "55ec5aedc336d5f3cde17b56f594e8f5faa70bb4c8ea5148668040a20c3ae7d0"
+hash = "5b0b480e9319e6cff43e2c43077539dbe0a01353d5b68a2f4806cadd2193e238"
 
 [[files]]
 file = "mods/architectury-api.cf.pw.toml"
@@ -117,12 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.cf.pw.toml"
-hash = "a0f1109d5eb2247833ca9df71db0da802b36709f8431fecaf7b40bf0a98d2fdf"
+hash = "004aa46b68560131a4644928de6f312ef9c7ae73a180cfb53aa0f971a6d15172"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.mr.pw.toml"
-hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
+hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
 metafile = true
 
 [[files]]
@@ -147,22 +147,22 @@ metafile = true
 
 [[files]]
 file = "mods/biome-replacer.cf.pw.toml"
-hash = "bfb1227484111d812fab9adf18ed26ee204198ccbc7fd9ae746f93389f2d6831"
+hash = "8151187d99b56b283b00386999570365e1b2526a52d49d2688b8c550e9925775"
 metafile = true
 
 [[files]]
 file = "mods/biome-replacer.mr.pw.toml"
-hash = "0561785b31075a724066e3bbce75dc1e3206e88bfac191e6857de6928a88dc5b"
+hash = "7170c3cce8959cf23812283df3449750547e1cbc76ec118f1d78299ae78efa29"
 metafile = true
 
 [[files]]
 file = "mods/c2me.cf.pw.toml"
-hash = "3216e804eacb34555f80d50ee3f36f8c9865109558e601baf4d4658d85101ecc"
+hash = "03ed171e9783a6a2f7d7543951476d23829e7e9c226318dbb006a4b4c2fb7a29"
 metafile = true
 
 [[files]]
 file = "mods/c2me.mr.pw.toml"
-hash = "df38bd557d9d549bd4db699c3efec071ca24017541ce6359a96d0385b7463b22"
+hash = "8e4abfea25c864a1a1bd31948f95020b3486370e53d2f53bcc4f869ad95c4536"
 metafile = true
 
 [[files]]
@@ -217,12 +217,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.cf.pw.toml"
-hash = "462bf1560d05ef3b0573deb1a9024bd415ddd7471c7d5409825d12bbd0bfbcfc"
+hash = "eb7b4a7b28d4806c7bb7a0cf84f4dca90fc5d62317573e9100542bc484a48750"
 metafile = true
 
 [[files]]
 file = "mods/create.mr.pw.toml"
-hash = "f36d13fe08a755712437ae38d4a339af7a73003152a8d3638984a11964fd83ae"
+hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
 
 [[files]]
@@ -342,12 +342,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.cf.pw.toml"
-hash = "2d78a7ac22493764ee9ebd2cfff89f264a65f84c21b679fc25124f4ff4e5c1a4"
+hash = "540706ab9db0907199fcc08ac62c8f0b291f7ce5b01a90e426f0b6c76c76b51c"
 metafile = true
 
 [[files]]
 file = "mods/jei.mr.pw.toml"
-hash = "edcbf947e9a3f0185e921ccd1ee0d28d4590bdff5ab3b4e0aaecca262ac16b36"
+hash = "27af2f251af4cb0fee230499676de2c8d4cd72337dcc10cedddbae5d599007e2"
 metafile = true
 
 [[files]]
@@ -382,42 +382,42 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.cf.pw.toml"
-hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
+hash = "3ac8c76f4cb2f1200d60fa2e74108d9cb9355346ddb8a4a735134dfac7b77136"
 metafile = true
 
 [[files]]
 file = "mods/lithium.mr.pw.toml"
-hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
 
 [[files]]
 file = "mods/lootr.cf.pw.toml"
-hash = "20084e6c096135548dbceb71e6adb7ed2cdaa66dc4e3e2e3bc2055091e109bbe"
+hash = "680d268128db6813ccccd5ca946c35e74c5591b366ba45314f64a827b87c0bd3"
 metafile = true
 
 [[files]]
 file = "mods/lootr.mr.pw.toml"
-hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+hash = "1e2e7ad3381209e538e57139fd6e952869b409f841a4559d160763cbf3052cca"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.cf.pw.toml"
-hash = "252659cbaad2f31f723bf31d8ede250dc4b9c821c469f47b77d74e23864b4b45"
+hash = "97521b85e74dfbc642b9102a46be0cdda07b9cfe36aba027a3878054f93ccfcb"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.mr.pw.toml"
-hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
+hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.cf.pw.toml"
-hash = "dbea6c8c7db56125763c0e203d11720416b27da14fa28644f93427d7e9c62e2d"
+hash = "897eb0608109b72f855db05163f8d67f97ba197a41952f57673be49f961ab4b2"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.mr.pw.toml"
-hash = "f8080690eb60f050db45b1f3a1400c2b0ff5614912344a1ab9e8b80d3d2fa4dd"
+hash = "b2062526afe3f3c55ad508247fc25246f0b3087ac21890ff29fea2b521e289cd"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ hash = "5c16e7977b81ed9fb2e7bbb98763c4471c2567ef2a2cfa77c1f2e16fb5eada7f"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
-hash = "18c80f3ca872c99a7130688c1a4ad992ba21e8518e5fbc89c6f8b34681d0515f"
+hash = "af6d9c1e1e57074aea8a758723bf6f3c4ee3e6b77290cc2e54e0540e0352f893"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.mr.pw.toml"

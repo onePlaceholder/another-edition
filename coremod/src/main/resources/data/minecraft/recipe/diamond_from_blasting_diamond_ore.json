@@ -8,6 +8,6 @@
     "item": "minecraft:diamond_ore"
   },
   "result": {
-    "id": "minecraft:diamond"
+    "id": "another_edition:raw_diamond"
   }
 }

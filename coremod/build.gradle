@@ -24,6 +24,23 @@ repositories {
     }
     maven { url = "https://maven.createmod.net" }
     maven { url = "https://maven.ithundxr.dev/snapshots" }
+    maven {
+        url = "https://nexus.terrestris.de/repository/public/"
+    }
+    mavenCentral()
+    exclusiveContent {
+        forRepository {
+            maven {
+                url 'https://raw.githubusercontent.com/DFKI-MLT/Maven-Repository/main'
+            }
+        }
+        filter {
+            includeGroup 'de.dfki.lt.jtok'
+        }
+    }
+    maven {
+        url = "https://nrgxnat.jfrog.io/artifactory/libs-release/"
+    }
 }
 
 dependencies {
