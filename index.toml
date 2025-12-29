@@ -93,17 +93,17 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.cf.pw.toml"
-hash = "7944698b26f0af043c9be56bb6978be745cab21dc7e16cac020f20ff67cab63d"
+hash = "3a75037856d0d60ab74de3b090d4be92574c1f49b6f3b8aa853fad49a03c9c33"
 metafile = true
 
 [[files]]
 file = "mods/amplified-nether.mr.pw.toml"
-hash = "04cb3ee26933b77b5bf87660921801171536ccee2ab16572232b287f86cc2ae8"
+hash = "a1524e5a45200daf351ac7d013db62086bb249b57632f29088d46dd7e10defc5"
 metafile = true
 
 [[files]]
 file = "mods/another_edition_core-0.1.3.jar"
-hash = "5b0b480e9319e6cff43e2c43077539dbe0a01353d5b68a2f4806cadd2193e238"
+hash = "21e385dc962563b29d2c225cd7e4e471dc0a8ca40bd08e994d7f4866d8745824"
 
 [[files]]
 file = "mods/architectury-api.cf.pw.toml"
@@ -117,12 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.cf.pw.toml"
-hash = "004aa46b68560131a4644928de6f312ef9c7ae73a180cfb53aa0f971a6d15172"
+hash = "e2f2a6f6ff38054ce8d91a43a20b79ea7b4e84cb924142fb7d2bcfdd95fe5b57"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.mr.pw.toml"
-hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
 
 [[files]]
@@ -237,12 +237,12 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.cf.pw.toml"
-hash = "f3be2083a20a777236b6a54cab14498b59e30dffcc23940f4ae93a4d37898776"
+hash = "8d6d4c01d045bc7cd2fc209f69ed2737bf863b2d43fbe4c3be5ceae13838d573"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.mr.pw.toml"
-hash = "3cbc19d527d7f2930d00e18162bea372ab64a341aaa1f6580b56941908d9ed65"
+hash = "79ed7adbabde88ccc7fde8933f830a5bb095afaa61f45a669afe14db4f80865f"
 metafile = true
 
 [[files]]
@@ -312,12 +312,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.cf.pw.toml"
-hash = "070867dc8ae93744959610974b246cbac214141299710cf7f6e961adb165310a"
+hash = "6c275f621e7c3895ed34ee0e5bf847916a4285ac0f6452982ad6dccd5dd59851"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.mr.pw.toml"
-hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
+hash = "5f1dc2d965a2764f1d9fa02d34932898593de140a4243d83f2e43f4663f2ed7e"
 metafile = true
 
 [[files]]
@@ -342,12 +342,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.cf.pw.toml"
-hash = "540706ab9db0907199fcc08ac62c8f0b291f7ce5b01a90e426f0b6c76c76b51c"
+hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
 metafile = true
 
 [[files]]
 file = "mods/jei.mr.pw.toml"
-hash = "27af2f251af4cb0fee230499676de2c8d4cd72337dcc10cedddbae5d599007e2"
+hash = "992643f689b795f93101536fa45670a126269c21a9012904918a73a99a69af22"
 metafile = true
 
 [[files]]
@@ -392,12 +392,12 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.cf.pw.toml"
-hash = "680d268128db6813ccccd5ca946c35e74c5591b366ba45314f64a827b87c0bd3"
+hash = "76dcf556902d3107887cfd00943dbee6e201eb39ac864af22a2d03bdeb943622"
 metafile = true
 
 [[files]]
 file = "mods/lootr.mr.pw.toml"
-hash = "1e2e7ad3381209e538e57139fd6e952869b409f841a4559d160763cbf3052cca"
+hash = "a3c67467489ca71d172cfad9647458698c7124b84c2b4db86b02d2ba211d206f"
 metafile = true
 
 [[files]]
@@ -412,12 +412,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.cf.pw.toml"
-hash = "897eb0608109b72f855db05163f8d67f97ba197a41952f57673be49f961ab4b2"
+hash = "5a4a0576a1ae05ed6bbf110be1eaff7736815f2746e1f50c14cc87d6a1f566d1"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.mr.pw.toml"
-hash = "b2062526afe3f3c55ad508247fc25246f0b3087ac21890ff29fea2b521e289cd"
+hash = "b8ae85ec32b0515f7089f1a97655615e965cb3cfb79b51ed598480bbad9a1a39"
 metafile = true
 
 [[files]]
