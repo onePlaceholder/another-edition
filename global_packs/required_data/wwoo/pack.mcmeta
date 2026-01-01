@@ -1,0 +1,39 @@
+{
+    "pack": {
+        "pack_format": 81,
+        "supported_formats": [
+            26,
+            81
+        ],
+        "description": [
+            {
+                "text": "Created by "
+            },
+            {
+                "text": "William Wythers"
+            },
+            "\n",
+            {
+                "text": "Your Adventure Starts Here"
+            }
+        ]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": [
+            41,
+            81
+        ],
+                "directory": "1-20-5-overlay"
+            },
+            {
+                "formats": [
+            48,
+            81
+        ],
+                "directory": "1-21-overlay"
+            }
+        ]
+    }
+}
