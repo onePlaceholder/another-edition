@@ -7,7 +7,7 @@ import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 import org.theplaceholder.anotheredition.AnotherEdition;
-import org.theplaceholder.anotheredition.client.data.CoordStatue;
+import org.theplaceholder.anotheredition.client.data.CoordStatus;
 import org.theplaceholder.anotheredition.item.AnotherEditionItems;
 import top.theillusivec4.curios.api.CuriosApi;
 import top.theillusivec4.curios.api.type.capability.ICuriosItemHandler;
@@ -31,12 +31,12 @@ public class AnotherEditionClient {
         return hasItemInSlot("spyglass", Items.SPYGLASS);
     }
 
-    public static CoordStatue getCoordStatus() {
-        CoordStatue result = CoordStatue.NONE;
+    public static CoordStatus getCoordStatus() {
+        CoordStatus result = CoordStatus.NONE;
         if (hasItemInSlot("compass", Items.COMPASS)) {
-            result = CoordStatue.LIMITED;
+            result = CoordStatus.LIMITED;
         } else if (hasItemInSlot("compass", AnotherEditionItems.ENDER_COMPASS.get())) {
-            result = CoordStatue.FULL;
+            result = CoordStatus.FULL;
         }
         return result;
     }
