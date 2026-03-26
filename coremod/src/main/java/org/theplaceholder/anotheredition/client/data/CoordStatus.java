@@ -1,6 +1,6 @@
 package org.theplaceholder.anotheredition.client.data;
 
-public enum CoordStatue {
+public enum CoordStatus {
     FULL,
     LIMITED,
     NONE;

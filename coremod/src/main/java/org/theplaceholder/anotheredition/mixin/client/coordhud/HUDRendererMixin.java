@@ -9,7 +9,7 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;
 import org.theplaceholder.anotheredition.client.AnotherEditionClient;
-import org.theplaceholder.anotheredition.client.data.CoordStatue;
+import org.theplaceholder.anotheredition.client.data.CoordStatus;
 
 import java.util.List;
 
@@ -17,9 +17,9 @@ import java.util.List;
 public class HUDRendererMixin {
     @Redirect(method = "buildDisplayLines", at = @At(value = "INVOKE", target = "Ljava/util/List;add(Ljava/lang/Object;)Z", ordinal = 0))
     private static boolean showCoordinates(List<Object> list, Object string) {
-        CoordStatue statue = AnotherEditionClient.getCoordStatus();
-        if (statue != CoordStatue.NONE) {
-            if (statue == CoordStatue.FULL) {
+        CoordStatus statue = AnotherEditionClient.getCoordStatus();
+        if (statue != CoordStatus.NONE) {
+            if (statue == CoordStatus.FULL) {
                 list.add(string);
             } else {
                 ClientPlayerEntity player = MinecraftClient.getInstance().player;
@@ -39,9 +39,9 @@ public class HUDRendererMixin {
 
     @Redirect(method = "buildDisplayLines", at = @At(value = "INVOKE", target = "Ljava/util/List;add(Ljava/lang/Object;)Z", ordinal = 2))
     private static boolean showDirection(List<Object> list, Object string) {
-        CoordStatue statue = AnotherEditionClient.getCoordStatus();
-        if (statue != CoordStatue.NONE) {
-            if (statue == CoordStatue.FULL) {
+        CoordStatus statue = AnotherEditionClient.getCoordStatus();
+        if (statue != CoordStatus.NONE) {
+            if (statue == CoordStatus.FULL) {
                 list.add(string);
             } else {
                 ClientPlayerEntity player = MinecraftClient.getInstance().player;
