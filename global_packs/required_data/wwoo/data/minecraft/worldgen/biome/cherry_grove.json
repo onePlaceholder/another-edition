@@ -8,7 +8,7 @@
     "water_color": 4445678,
     "water_fog_color": 270131,
     "grass_color": 11983713,
-    "foliage_color": 11012890,
+    "foliage_color": 11983713,
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000,
@@ -190,7 +190,6 @@
       "minecraft:spring_lava"
     ],
     [
-      "wythers:decor/floating_lanterns_cherry",
       "minecraft:glow_lichen",
       "wythers:farm/paddy_cane",
       "wythers:vegetation/local/patch/flower_peony",

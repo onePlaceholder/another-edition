@@ -20,11 +20,7 @@
             "block": "minecraft:magma_block"
           },
           "state": {
-            "Name": "minecraft:blackstone_slab",
-            "Properties": {
-              "type": "double",
-              "waterlogged": "false"
-            }
+              "Name": "minecraft:blackstone"
           }
         },
         {
@@ -33,11 +29,7 @@
             "block": "minecraft:lava"
           },
           "state": {
-            "Name": "minecraft:blackstone_slab",
-            "Properties": {
-              "type": "double",
-              "waterlogged": "false"
-            }
+              "Name": "minecraft:blackstone"
           }
         },
         {

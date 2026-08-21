@@ -53,8 +53,7 @@
             ],
             "blocks": [
               "minecraft:air",
-              "minecraft:dead_bush",
-              "minecraft:stone_button"
+              "minecraft:dead_bush"
             ]
           },
           {

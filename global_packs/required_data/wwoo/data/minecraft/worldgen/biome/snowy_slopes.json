@@ -8,7 +8,6 @@
     "water_color": 10217203,
     "water_fog_color": 270131,
     "grass_color": 16765810,
-    "foliage_color": 11012890,
     "additions_sound": {
       "sound": "minecraft:ambient.soul_sand_valley.additions",
       "tick_chance": 0.0111

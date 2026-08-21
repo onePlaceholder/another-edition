@@ -17,6 +17,18 @@ file = "config/biome_replacer.properties"
 hash = "5de4b44b14f28920477c3be5dfb4a35a5866b0fcc3c7b00c534de1b40a7f145b"
 
 [[files]]
+file = "config/biomeswevegone/mob_spawn.json"
+hash = "ba6da2fc87f03e7b2796c9528780e71c4d3f1592c7189f4ec1cc54950ffd2c87"
+
+[[files]]
+file = "config/biomeswevegone/trades.json"
+hash = "776c17c445215cddd78b1eef51e324d81dc6561fbd7aeaab9af092d2aa8b2cad"
+
+[[files]]
+file = "config/biomeswevegone/world_generation.json"
+hash = "3675ee391359f7665cf4164154d00a8c9254c6aebcf08e9ed6c5e46f4a5296c4"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "df7ce62647f75fb1fc75a0edff62469baf60fed420005862e1026816166b6da4"
 
@@ -1842,7 +1854,7 @@ hash = "3f069d984708e2e7f3f61ddf9c7cf16934d26dfcf596a1c6cbf1b76e6cb1bf3e"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-20-5-overlay/data/wythers/worldgen/configured_feature/vegetation/tree/aspen.json"
-hash = "0438423558d3abaecde53a722732731938eca6e8267ca4596fd993c94bf6d702"
+hash = "2dbf48075e72267ef875f2bae996cc68866d168cf1840b36308bc68b51dd280d"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-20-5-overlay/data/wythers/worldgen/configured_feature/vegetation/tree/azalea_conifer.json"
@@ -2898,11 +2910,11 @@ hash = "0883f38ac8b3a93e21404829fee2b2114fa484ca3cea7dd950ac36c58b75d39f"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-20-5-overlay/data/wythers/worldgen/placed_feature/terrain/local/grass_spread.json"
-hash = "1477be0746757decbdecac45552c6235e2c117e97c49b89670ea2fbfd19afcbd"
+hash = "b8fa486ef7880da8c00729392c0fef5a70286f8d8e8d79ccc810800e22366e94"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-20-5-overlay/data/wythers/worldgen/placed_feature/terrain/local/grass_spread_badlands.json"
-hash = "4d25199561c62d2ecb9708c80631ccdd1e5c4435aca46b5f4f33b70760afbffc"
+hash = "46ab41ec0ce976e66edec5ad55e3fc016416ae33fc51a2fee95516cdfb945c87"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-20-5-overlay/data/wythers/worldgen/placed_feature/terrain/local/grove_cliffs.json"
@@ -3182,7 +3194,7 @@ hash = "a9e243ceb0207e1a1454e6d510eb63f259c55d0940c314e2dd4c95d3cf95ab72"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/minecraft/worldgen/biome/bamboo_jungle.json"
-hash = "871b7881318e8c3d7bf8ba9bc6d0f57e7824e2058a1fcbf467809796577ce6ee"
+hash = "bc7ce49565cffb573b75cde839c1a8e0b12c19b305cf9ecff9b30fd4ffa78c6d"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/minecraft/worldgen/biome/dark_forest.json"
@@ -3226,7 +3238,7 @@ hash = "6455d972d114ff3d81826259c2f698a56b901ce02839de47e0c60c7c955abf15"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/tags/block/air_and_plants.json"
-hash = "37330aed6127f37fba83c88eba4e369dfa53940db98ab8739eb42f82fc55d123"
+hash = "b18feb44b7b2d17195b7d2d043a3bac7d04b1937d7203f41c234dcd435338024"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/tags/block/blue_ice.json"
@@ -3258,7 +3270,7 @@ hash = "a80d816aa1ea2f55d193cf36c85eef51f2e77b60aa549adf36463f3dbfb92729"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/tags/block/palm_tree_replaceable.json"
-hash = "2fee83a630b8dfc63870789c4ab4ab48d3af4bde3898c1cf86582595229bbc62"
+hash = "2249fdb57e3809c43cbed5251672e76a3bfbe13fd187cd20980a3ec9e9d3f257"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/tags/block/river_carver_replaceables.json"
@@ -3406,7 +3418,7 @@ hash = "3f069d984708e2e7f3f61ddf9c7cf16934d26dfcf596a1c6cbf1b76e6cb1bf3e"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/worldgen/configured_feature/vegetation/tree/aspen.json"
-hash = "0438423558d3abaecde53a722732731938eca6e8267ca4596fd993c94bf6d702"
+hash = "2dbf48075e72267ef875f2bae996cc68866d168cf1840b36308bc68b51dd280d"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/worldgen/configured_feature/vegetation/tree/azalea_conifer.json"
@@ -4474,11 +4486,11 @@ hash = "0883f38ac8b3a93e21404829fee2b2114fa484ca3cea7dd950ac36c58b75d39f"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/worldgen/placed_feature/terrain/local/grass_spread.json"
-hash = "1477be0746757decbdecac45552c6235e2c117e97c49b89670ea2fbfd19afcbd"
+hash = "50bd3a5acdbcce14b50cddb2f313888013d80b8b8b57caaa8badc31c9e19dbb8"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/worldgen/placed_feature/terrain/local/grass_spread_badlands.json"
-hash = "4d25199561c62d2ecb9708c80631ccdd1e5c4435aca46b5f4f33b70760afbffc"
+hash = "46ab41ec0ce976e66edec5ad55e3fc016416ae33fc51a2fee95516cdfb945c87"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/worldgen/placed_feature/terrain/local/grove_cliffs.json"
@@ -4706,7 +4718,7 @@ hash = "a38cd908f4f3f5299358f9b12f0496af4c5dbe45faf0ee0350f26c5c52d33e8c"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/worldgen/placed_feature/vegetation/local/trees/cherry_maple.json"
-hash = "4a22e5ce8a33402de4c8bf008a949cc0927d3b8e07b3a3a79b05c8fe0c436be6"
+hash = "8a49f5738ed400420442bf679d269ff8d78a84c21b5212f82683e60225b05818"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-21-overlay/data/wythers/worldgen/placed_feature/vegetation/local/trees/ogt_giant_redwood_woods.json"
@@ -4770,7 +4782,7 @@ hash = "b85efacdad69723f43e55e6181b85f83e06a4c37c0a2b839e492417badcfd0be"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/bamboo_jungle.json"
-hash = "e8bf2529e3202c4153847903e30b682820522a5eb569a19c06589c354714dc88"
+hash = "7eb5e10efe3a67ba942d343da508896e44dc4bea2704c7e7df2f3723f1521b5c"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/beach.json"
@@ -4782,7 +4794,7 @@ hash = "e5559b9bf18c9c230c762c2be7963f79dc1be6c07f3469b7e2de746478f34275"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/cherry_grove.json"
-hash = "41c1f0016e45770e12b072286314f99523f91c9366c3cd970ae6dfec458299ca"
+hash = "56c457a503971951ef09631b6d1959e4d7efb8aacb8eb1b85bf3c43038220840"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/cold_ocean.json"
@@ -4838,7 +4850,7 @@ hash = "10283e3b9f220aa61bef174a93807d8bb826debcf2ba83859849ea2a73e66883"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/frozen_peaks.json"
-hash = "d87b051350f5b4d4a45037dabaf7a94636864811ba10e4e401272e0f51405160"
+hash = "e61a09878afdda40f02a144fbc21d6299b8a0531d30ce5bd3d60b9a57bb8dfa3"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/frozen_river.json"
@@ -4918,7 +4930,7 @@ hash = "557331409ad582cc4ae73460cb4bc673e0eb121ebd7e568132c4b6dae3e92323"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/snowy_slopes.json"
-hash = "38d1f1b145b44566788615377a44c29818ef62c730a079253cab8753da8db77f"
+hash = "b499b33e8f65c088f222a840a731ce73b0de28fa39d2bef4f142f0403b0dbfe5"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/snowy_taiga.json"
@@ -4946,7 +4958,7 @@ hash = "5aa761b9d11f88d2bede7bf6ac8d0d3d835f5703d5ed32d07285b21f3adcb1a4"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/taiga.json"
-hash = "8f9b720f4995bd5b144aab5a88ea88a345727d106a216a82dec7b1e01f5861ce"
+hash = "9020f69e71748dba343f1dd13d1a4ee33ed3c22145560e9a9ff307a55b4d7cc5"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/warm_ocean.json"
@@ -5250,7 +5262,7 @@ hash = "e7b8d349e247e92167e182a2fc482e1c697efa76ea0256a36c8a82c26c7f5ac6"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/tags/blocks/air_and_plants.json"
-hash = "37330aed6127f37fba83c88eba4e369dfa53940db98ab8739eb42f82fc55d123"
+hash = "b18feb44b7b2d17195b7d2d043a3bac7d04b1937d7203f41c234dcd435338024"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/tags/blocks/blue_ice.json"
@@ -5305,14 +5317,6 @@ file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature
 hash = "7f50defbe14b3765f08db05e6215fecb6294882f6765f1404f3fda27debf5137"
 
 [[files]]
-file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/decor/floating_lantern.json"
-hash = "f192ed1b9dffbcbc9aacae253f6931f99b91d730cd8878a7f48e8a777deebcad"
-
-[[files]]
-file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/decor/patch_floating_lanterns.json"
-hash = "b6648baafae490dfc3e332a1fbeb1c09997a9eecc244723bc8f4a20ae08da72f"
-
-[[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/decor/scarecrow.json"
 hash = "2f0b9521fc140bd45363095fc2498237e1a90dd6c5ab331bbd3002bedb649151"
 
@@ -5322,7 +5326,7 @@ hash = "ff8f08d5cb7a86d689d2c441aca6b7df4d88083b9f10b76e95f29ffb28f2ce11"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/decor/stone_buttons.json"
-hash = "cbc0bb19f58451827863fba7721ba157d54102c6afa53cbf92631bb78082d39f"
+hash = "1296398d0dc7676b7671b7ba38474761817e9feba599c3cdf36064bb8ab0e0e5"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/decor/stumps.json"
@@ -5890,7 +5894,7 @@ hash = "46850c6eef78ed7a123898d94f431038710aeb7489de30885327308c66c16898"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/vegetation/tree/aspen.json"
-hash = "216db364361d0863616c857c2db33aac372da71d946a4748b27cfc8aca58adf2"
+hash = "918149f7cede3ce3ca25027c1afc826ed10fbc638d7797f85410193214bc4fa4"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/vegetation/tree/azalea_conifer.json"
@@ -6745,14 +6749,6 @@ file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/dec
 hash = "60e1a7a46df780216cc05e4b3596d091f5efd7ea0fe99ed53e4bf1a8d47b49e9"
 
 [[files]]
-file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/decor/floating_lanterns.json"
-hash = "562b4ffbbbca2d7e5d26c441c6570345aa590f4ff08cf59db1116e66b65a69e5"
-
-[[files]]
-file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/decor/floating_lanterns_cherry.json"
-hash = "9da8c1ff66925a274219515a0c1488cbcaccb70c0315483c539afdf0fbc7e6c5"
-
-[[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/decor/sparse_steam.json"
 hash = "68633506b1db005cf5e93e0672e41b118575fc4c8a13d5962533622bf8540851"
 
@@ -6846,7 +6842,7 @@ hash = "e7144e5022f5407a8d45ff44362c859fa28aafbeccc924428cf71daba594ecc0"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/road/andesite.json"
-hash = "bb0e5ab3a85ed36468a50e5164f23bf0510e6f92b17a881150de4058ede66518"
+hash = "56b201a8b4493e80257e87414186bb795ca77b4c8f22c77914c17c9e0cc4b932"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/road/bamboo_jungle.json"
@@ -6898,7 +6894,7 @@ hash = "b163a9e5ea54f3b64f783430cd2466a7b3b4e5fc01dffb3af39cdf06b838fe70"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/road/sunflower_plains.json"
-hash = "5cd60e2da7f1ccf97f0507490da763846f91b13b3537284862976bbdc917219e"
+hash = "fdeddb5e7bbc494ef8262afcbde16179dbbfbf50be211c3dcd57dea95d166bed"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/carver/ocean.json"
@@ -7062,7 +7058,7 @@ hash = "9493406a73d6d932fb2031cc8cebabdb98626aa56c13af2548593c02d5ded8fe"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/extended/replace_basalt_to_deepslate.json"
-hash = "37501151742fe684ad147f219f5225726cbf2e23a7535b3d4490c2ebf95b18f4"
+hash = "3a88347541f6b1a69bda09b0e2caa0921bd7c64a8d40fa11468be5606de4a230"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/extended/replace_diorite_and_calcite_to_smooth_sandstone.json"
@@ -7122,7 +7118,7 @@ hash = "dd76774b65b75216e06dc3afee5d1088bec457264029ad4a811cf305914d572b"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/extended/volcanic_extinction.json"
-hash = "2e8f259dff7a914d3095851f00a224215c36ce38bfd58670457622d47ed81165"
+hash = "8cf120947b4e4adc90a6ff66b14928f8dd51a7488562e1be2898927cfd03e555"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/extended/volcanic_fallout.json"
@@ -7554,11 +7550,11 @@ hash = "99e3d77f31ef25f3ab82dc3ef11581bd1a835a233a228b84706485569aa08aec"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/grass_spread.json"
-hash = "2955557af184390917da007f4fb1d3be939ded4fb69673e6a053fa65cf6ada62"
+hash = "e6958afb40961084603fca9dbf01d64d7f475e0c8fa5ce2767207d131e183804"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/grass_spread_badlands.json"
-hash = "3647eb78432fe5102f9d97e3a14a7f88566b3603e09fb8cb83ca421d9d1ee9fc"
+hash = "a170be9048bd1a29e1befaca63dfef800e10f93e4f53e00ef3a017e3ab7b99b1"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/grove_cliffs.json"
@@ -7646,11 +7642,11 @@ hash = "79f0163e7e2e26f3d9a4f2f68110623ea143113bf9486d8574b71a31cc8bff7c"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/replace_basalt_to_deepslate.json"
-hash = "06bce99694fa9811b1301727d25d59b79fb70f9a89d94e053515661a9399f4d7"
+hash = "cae0a3e0b50751b41201eb04acfe318e4b10c7591ac87075ec7cd33c97f9c99f"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/replace_basalt_to_tuff.json"
-hash = "857a5cce2ecd1e5c8f44050df3602fcc5e2914ce325a41f5cc7031f66605ab85"
+hash = "3e045da26f388e1cf2ea4511210ac201d9c856168533d56e17fd042ca72d7712"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/replace_calcite_to_stone.json"
@@ -8358,7 +8354,7 @@ hash = "95af87fffb434a3224d397df07237bfbc4ff2b1541b384f82b85a606cf33081e"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/trees/cherry_maple.json"
-hash = "f35732fa8067aee71528adb233e9c6bf012e59cb653b4f2989beedb07edad0ab"
+hash = "911b732d2b4c9dc7ea1ee30d3170d15dc84c83589437d8a97afe96e4e1e2f4eb"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/trees/cherry_pools.json"
@@ -8849,13 +8845,18 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
-file = "mods/coordinateshud.cf.pw.toml"
-hash = "0cca0a9a6359d3cd5f1ffbdfc772555a7ecb38d2670c2312e1762a7b89d34434"
+file = "mods/coordinateshud.pw.toml"
+hash = "21b4ea73b6663f708dbef355691658dec8872084bc74646500a0988f242d46fc"
 metafile = true
 
 [[files]]
-file = "mods/coordinateshud.mr.pw.toml"
-hash = "c555ead5e7144c7e9325b2726f0078b3bf772bddb24d7195e5c3acf56e1c87dc"
+file = "mods/corgilib.cf.pw.toml"
+hash = "5c0fb5558f40b2eadcda6d7035961f48fa4c7ff24b0b440e59ba505edff97930"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.mr.pw.toml"
+hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
 metafile = true
 
 [[files]]
@@ -8936,6 +8937,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.mr.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.cf.pw.toml"
+hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.mr.pw.toml"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
@@ -9184,6 +9195,26 @@ hash = "26986313fbb6a911f1885ee37841cdee4b98584fef8fa5a16768a54a7c6a1d25"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-weve-gone.cf.pw.toml"
+hash = "a1d2f413c7810edc5d7df5cba9c6893b5c7c17887012c4a264f8cee8be40bed6"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.mr.pw.toml"
+hash = "fdaa22d49ee4987c2d0c012e24c7b44d50a653519767d18371e8d778c188f184"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.cf.pw.toml"
+hash = "966dde29551f96d0cdec76c659bdec9b5a16c4a102ed053cb5a6e1e36860c75a"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.mr.pw.toml"
+hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.cf.pw.toml"
 hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
@@ -9266,6 +9297,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.mr.pw.toml"
 hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.cf.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.mr.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
