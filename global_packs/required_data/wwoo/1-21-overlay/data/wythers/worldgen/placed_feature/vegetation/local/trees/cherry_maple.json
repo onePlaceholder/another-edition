@@ -19,7 +19,7 @@
             "trunk_provider": {
                 "type": "minecraft:simple_state_provider",
                 "state": {
-                    "Name": "minecraft:mangrove_log",
+                    "Name": "biomeswevegone:zelkova_log",
                     "Properties": {
                         "axis": "y"
                     }
@@ -28,7 +28,7 @@
             "foliage_provider": {
                 "type": "minecraft:simple_state_provider",
                 "state": {
-                    "Name": "minecraft:oak_leaves",
+                    "Name": "biomeswevegone:zelkova_leaves",
                     "Properties": {
                         "distance": "7",
                         "persistent": "false",

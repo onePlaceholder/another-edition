@@ -31,7 +31,6 @@
     [
       "wythers:terrain/extended/base_jungle",
       "wythers:terrain/extended/replace_gravel_to_mud",
-      "wythers:decor/floating_lanterns",
       "wythers:farm/paddy_water",
       "wythers:road/bamboo_jungle",
       "wythers:road/bamboo_jungle_old_1",

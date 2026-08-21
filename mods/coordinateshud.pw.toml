@@ -1,0 +1,8 @@
+name = "coordinateshud"
+filename = "coordhud-neoforge-1.21.5-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2J7hetpv/versions/NBymtDvQ/coordhud-neoforge-1.21.5-1.0.0.jar"
+hash-format = "sha256"
+hash = "32df50f9647ddd33006d7c78c2f37f3133582195e57b148c0962e8450095e976"

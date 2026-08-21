@@ -27,11 +27,7 @@
           "target": {
             "predicate_type": "minecraft:blockstate_match",
             "block_state": {
-              "Name": "minecraft:blackstone_slab",
-              "Properties": {
-                "type": "double",
-                "waterlogged": "false"
-              }
+              "Name": "minecraft:blackstone"
             }
           },
           "state": {
