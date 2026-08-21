@@ -21,7 +21,7 @@
 	"spreadDelayTicks": 40,
 	// The amount of blocks that are instantly converted to a nether block around a portal when it is detected. If there are existing nether blocks within the radius, their count is substracted from this number.
 	// min: 0, max: 1000
-	"instantConvertAmount": 50,
+	"instantConvertAmount": 0,
 	// When enabled, blocks the spread effect when there are n (defined) prevent-spread-blocks (defined) within the radius.
 	"preventSpreadWithBlock": false,
 	// The amount of prevent-spread-blocks (defined) needed within the radius of the nether portal to prevent spread.

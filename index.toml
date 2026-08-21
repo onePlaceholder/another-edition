@@ -62,7 +62,7 @@ hash = "f61867aa5a2231e87f99a55e5e6d710e42865f1e7174409ccbbb61fc0ed8b36c"
 
 [[files]]
 file = "config/netherportalspread.json5"
-hash = "24b49514285530712daba44197f32fd107b696f8d604f88093817541bf053e0e"
+hash = "2b2018ec2d7666a18bdfc65186a6f97a14b75666da9040890bbec700e6af50b9"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -81,9 +81,1640 @@ file = "emi.json"
 hash = "1638abe6648461f8108a001102920e914cd9d36da011c2f2f6b72f9a2e0e94bf"
 
 [[files]]
-file = "global_packs/required_data/villages-revamped.pw.toml"
-hash = "2f707eb6de478759d6fd180cc0a5380c1e4e8edb7f2e677ba8b36a644cda9a0e"
-metafile = true
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_1.nbt"
+hash = "8040fdc92b105d7b39285823c4103b3b710fb205f175de1c6a78404c37834444"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_10.nbt"
+hash = "b7b74381294f459b7dd0f5091fe67ef810c027f116f0e566edb4fa381932cd7d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_2.nbt"
+hash = "70d2067288d3314f7af9fad5741588cac7e787c07fe7a9aac7f1ca6c2eb16a64"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_3.nbt"
+hash = "52f3c1d3e0a3cc97ff5401bd679bee6802ade6f02154a509789b937cc12b5df2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_4.nbt"
+hash = "594008dc1f30c9aa0fc0b5c63a33394ab4c34628bff1f2d0259fd222e93f154f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_5.nbt"
+hash = "12414d89f5353ffd7d523afd5ded4b33a9b0f77737d4092c9119a92f2ec8be7e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_6.nbt"
+hash = "ce64d00fa3cabdc18a89375a9b618cefc4563e3eff57d96e723246d4a3d1106f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_7.nbt"
+hash = "14aaf96eacb515994a3b38e73b0e5fec3d9880738a68b3638ac1901a0335b10c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_8.nbt"
+hash = "75969e6370303a0578801da5702ab66aa84e65952f8d7e1c627f72f348d011e5"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_9.nbt"
+hash = "0a0c649eca9a5e84727df4df5fae00519b4733e0b0fcb6d8534b60745801387b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_empty_decor.nbt"
+hash = "86240e55d71a8842169120a807ae58a2b6ece606fc2285b96972c1478ddc3d18"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_armorer.nbt"
+hash = "39cd6566bdb473250c4d8ab95b25eab7f2b3af5eee31f53514528813fa34243b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_big_house.nbt"
+hash = "22a9b2e795ea1025823e71aa761bcc56a03f34c9b678db779711204b8f0e9fda"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_butcher.nbt"
+hash = "93962653acdd95ccb9a8a1438e4bd55f6ed0815679e4ab1dc9bfeffd4e18b2c0"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_cartographer.nbt"
+hash = "aac46bca4d189b56f2c866bc8fd639f201e60b7d4c152c64b83dcc6ecd15a918"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_farm_1.nbt"
+hash = "cbe36b82c162bd4751813583032e5620be879e40607b19804930cec91d149ff2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_farm_2.nbt"
+hash = "b4a542e29d55e751173cdf4da832bf884f619fff09735a997f217b87de35b9f1"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_fisher.nbt"
+hash = "a92524b9e782b4222877e23e0f1f59562cdfb64bbeb7335bfd4a1b7ab5beb1c6"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_fletcher.nbt"
+hash = "1386d694617199da01ed14ab2ed05448fa59b443553a12985905cd98ae55d0e4"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_library.nbt"
+hash = "8ea4a96c207a910879220ca8deac0d65f77a296fde78870694bbfe2da000e8ef"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_mason.nbt"
+hash = "7e68ebed4e76a35123fdd52080d237f4b6859deb8f6ccffb9f2a6b8b26348995"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_medium_house.nbt"
+hash = "9422c71565c90a6e1f514f2c118b082f5f2bb0f05df9f46bb6898f7af2c9a914"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_pagoda.nbt"
+hash = "e7eee67b7e8a387d4e39bca7c2e9a4da65f1bdaa1d01217583c0bfedfe09256b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_shepherd.nbt"
+hash = "423535acc48bc86c54bc7553bf3323a3c20e5711dd808b3d161e7fa8189e157a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_small_house_1.nbt"
+hash = "73a6967fe1924428741bf4e701d551a3a803102a7a97ce41025974667deda4f2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_small_house_2.nbt"
+hash = "4c3fc603f69230143fdc922a04d3bc9244a977be5d8c3068c74faa877a258a0f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_small_house_3.nbt"
+hash = "5f107e6f9f3efa71d4058e0bc5a4258e7f7b4b363bcfa54129dae6695fbf33e9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_small_house_4.nbt"
+hash = "336d21133a4b5f7b9a1fbe0d50ef70589442dac4c3003b905d9ecd8d159e176e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_tannery.nbt"
+hash = "2c6a65e8dec65322ccb4313aab2f3dca957816834f75f7c2e7065f1433754eba"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_toolsmith.nbt"
+hash = "cc2c3c0355d667015c6de2f384c418dfb73459a79e520cff4954b631b00436ed"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_weaponsmith.nbt"
+hash = "3e5e9bf12dde35c27153dfd809391c8d12da6f450a9ab9353c813c2e954632ec"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/streets/cherry_crossroad_1.nbt"
+hash = "ea79cc5e5668ac2962abed415e651675a30285e565c46c9c0e2ae0d9054c2525"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/streets/cherry_crossroad_2.nbt"
+hash = "7d7a9454b1276aef56b0ebb812d173156f3eb116302857cd3099e89e4bf1c587"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/streets/cherry_crossroad_3.nbt"
+hash = "406b346eec42bdb417b2621a4bba28e96445db9d094c4e54f7bd63b1b6126d2c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/streets/cherry_curve_1.nbt"
+hash = "9f7ab7f7aabb9f057b73f56e5a3a25e4bf98849b92139894d31b0c4e2e9aaea6"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/streets/cherry_curve_2.nbt"
+hash = "a32a218bf601b0724f443848007f00c5a2bdaaf011d40a4d422c7730b5130e5c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/streets/cherry_straight_1.nbt"
+hash = "0d3bd9676200307533e7e2e7895c4de8eeb382c01202e486c755412c46546147"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/streets/cherry_straight_2.nbt"
+hash = "fd77654970e33a28513f8258861144c071cdc640b00e92bd9800c5cb2714a155"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/terminators/cherry_terminator_1.nbt"
+hash = "ec5f9a97de83888ee08bace9d15942f8fb4e343dbbac05b7f3c20905d77ebea6"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/terminators/cherry_terminator_2.nbt"
+hash = "dc8db529279dd421c8764685447ba9a17ca3e74d4ce2bd6b3d76b6d1b47cd2f8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/terminators/cherry_terminator_3.nbt"
+hash = "8d4509aefff9897ac36c98a5be38dc314d10395b0a70f7a3ed506b9a946be855"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/town_centers/cherry_meeting_point_1.nbt"
+hash = "3e46176303741981676660606cc56a0ed8717f3e67990cae43f55905b0d34059"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/town_centers/cherry_meeting_point_2.nbt"
+hash = "f06b10c746b29ef26e9f83aedb9bfe4334fa9037e7803d2323b1fa4c32fa4417"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/town_centers/cherry_meeting_point_3.nbt"
+hash = "f1eed3f54a009f227854d6c14cf014502e6d0dcbeffa6ea393765ff8be30ed3f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/villagers/unemployed_plains.nbt"
+hash = "c9b968c87fd34293f04814ef2dcebc6be4aafb305e1266ca4ba8980731018970"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/decor/swamp_decor_1.nbt"
+hash = "a862b34142c1c837a3bee88db6096949871dc31aff72604bae6afe313ee081d7"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/decor/swamp_decor_2.nbt"
+hash = "2da1d038d67deb8e4e65b0a59260d08ecc955fed9004dab551d1f36b94287ac4"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/decor/swamp_decor_3.nbt"
+hash = "423dcfd4e277d9173f53b5ed00e9a41f2ab0a3270ff095412b16548fb2aa5e97"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/decor/swamp_decor_4.nbt"
+hash = "462fdf4fbf58ba5c5b4a2c5ee38207f78e9eeb964527046ce49e8c6a0d8a2b39"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/decor/swamp_decor_5.nbt"
+hash = "5d1f10bf11ddf48e3b056ba17c76f5880af1593dac913526beaa1055860777bd"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/decor/swamp_decor_6.nbt"
+hash = "b6d8dad1df650b80b821bfad933c7d559d5c02bd6ce0a96250221e0bc6c44a09"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_armorer.nbt"
+hash = "7e82d08ffa60279d4a3a78dc07b8ccaf621c00aa5c0e075301bfbd7d3884a785"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_big_house.nbt"
+hash = "80a367e56eb58fb760ec476ccbad61d9c6bf7bb08c672119adc02ac3e58c0056"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_butcher.nbt"
+hash = "be7992009af4308ae1437a7a27363f207ba91347ee0631720275b34766ac7613"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_cartographer.nbt"
+hash = "3bbc596166131a131d34a00a7e643aa440f923c4713b0dc225cf39629591db62"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_church.nbt"
+hash = "3c2b7ddf7ebf49f3c2bf414dbd43088f01b0786c636ce66196f3b88937f09093"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_farm1.nbt"
+hash = "5f25e7fd293ca1872c722bf74270625c5e410fbc29afffda28cf92d070411108"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_farm2.nbt"
+hash = "c16f7d96cc9a2849965c690f8030684fb7af630d8a99b092bd43829e1b11c60c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_fisher.nbt"
+hash = "a65eebd850852dccfc365c29eb967dfcc8292ad6c499339a4a5bfcfbb298c2b3"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_fletcher.nbt"
+hash = "6a7572a492d500ef8a8f29ffe347fd8dd516d4ad95d170f7a0f770c878d740ce"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_library.nbt"
+hash = "d1315efbdd81bdeccc1cecd8d08db299ec114fe82add4709747414ef784bae05"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_mason.nbt"
+hash = "b749bd0339000a456a8ece4063f1ab5241f73ae7d9f6755bd5c44e080369d15d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_medium_house_1.nbt"
+hash = "be3c1c114d0b5f976766600b7b0de4d1fe5e2827e096b8311d7b475d3c709fa1"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_medium_house_2.nbt"
+hash = "7ddb887f3d570b9ca8dc3cfbc45565df154718a5d27dc5d02f9faaf5c54bc2c9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_shepherd.nbt"
+hash = "56c81d5d710baf20e4ccfb2a972b23117cdd7e4497a3fdcbec189289a06fcd4f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_small_house_1.nbt"
+hash = "d09c143da3334153d0a70f3b58550c5de3e30a9b28c7f125dfcdf885a2be080e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_small_house_2.nbt"
+hash = "87dd461a2e4df9f8223f7c8220269784a03a01a8a091ab0ea5178942c63185bd"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_small_house_3.nbt"
+hash = "9712c8cf54bd94c68d99b12a601e6fd3ecd9325d33a612a510b8302bcd7e9b61"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_small_house_4.nbt"
+hash = "9283a6d7ee7ededb2c11babf092f41f38f899fd237cb14838a18d35cf888a7c8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_small_house_5.nbt"
+hash = "bc71cd4dc45d3163a62547181e58b142ea5a55bc218a79499fd5532c779bba4a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_tannery.nbt"
+hash = "bde3d9f2ac2a4b46caecb7a642bee723513c8ee064ab13bbda3d087fc284d307"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_toolsmith.nbt"
+hash = "fdac635a35535c825c2769118ad97a36b1f4c4bac22d7b4d09214991c6b7734f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_weaponsmith.nbt"
+hash = "ffe2f2cc17c27c4774dac6e3a858479b140f5ca041b479f84ffba736f0fe70d3"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/streets/swamp_crossroad_1.nbt"
+hash = "f1166e0d002d90b665f71c689f6fa74237422568bc37fcb2c5e5d218855db2f9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/streets/swamp_crossroad_2.nbt"
+hash = "ec25ecd148dd74ae4bff62b3bc4f4c80ab98b0f406c21e4e433f7b21dd0753d1"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/streets/swamp_crossroad_3.nbt"
+hash = "2a1f39fa2c49f74b1ff1345625ba95d6dcc8bf3cf4392a96ba01e44a15631f79"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/streets/swamp_curve.nbt"
+hash = "c5b0b2d32b6669fdfc53058c57fd38d489168cee2b8e5b92ee0d70d6df4cfabe"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/streets/swamp_deadend.nbt"
+hash = "3e3d2551cece96951ffc71fee7994ef026bca631dddbf304ac417934ba728c52"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/streets/swamp_straight.nbt"
+hash = "6b5d1e25d7ea16be6ca7208d2aad412b2933bcff911b3901a4d4cd198d81f5be"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/streets/swamp_straight2.nbt"
+hash = "d67b257bc60a2e89304afc04439e219113a2c736ae3e332131d1e55683974d90"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/terminators/swamp_terminator_1.nbt"
+hash = "cdb2c93143726ab5139c937603c3d0c360adbfdf22cefb1682401513e0adc475"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/terminators/swamp_terminator_2.nbt"
+hash = "78f4f8f369fe20471662830d8f0fc12fc94f92f51e6d2e66563aa82aba9440a9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/terminators/swamp_terminator_3.nbt"
+hash = "c229646be70ad02d815f844f7d5624cea45236fe5b100bce855193fddc01fe8c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/town_centers/swamp_meeting_point_1.nbt"
+hash = "b6b840e53c3cdfe384708ec9e75d58bdf3243316e965ac4b6104ee551d3b6007"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/town_centers/swamp_meeting_point_2.nbt"
+hash = "6eaa2369fd2c103fa4645b5efd48253bf816a251ce71c946e94831fff8432d67"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/town_centers/swamp_meeting_point_3.nbt"
+hash = "606a7808dda3d0003e86584d39dc390665b5d16f3b24abf539a62f170bdea7d0"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/villagers/unemployed_swamp.nbt"
+hash = "2bfaea84d32a7d8adcc21e822e41f524ac87e1fe9d21d1f8f7b7580eea727e71"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/cherry/decor.json"
+hash = "395faed7514a936b0009e2d528d6999d8880d6d06c963ac80c875f7c9f3790e4"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/cherry/houses.json"
+hash = "ee2cfa0e24cbbf5c8687de2815ba662ef7dca4edc1587ad77784705178e5207d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/cherry/streets.json"
+hash = "30ceecf8d4e03d2c1d277cc5ce0762cc19cfee07cfc7f54f53dba47f944118ff"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/cherry/terminators.json"
+hash = "d39f1ad1b0badba006cb66e6451398637ec4bd2965ea4050aeea002c95ff9fe3"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/cherry/town_centers.json"
+hash = "aa85286a2d8ef0c3d40fe4fd224f631712121dc4077272e22471bd7d0c3dea17"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/cherry/villagers.json"
+hash = "761ffb6a7f9e3f712e264fbe958429b2a5501b50408ef68465918d7ca86fceb7"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/swamp/decor.json"
+hash = "cfbd9d0b81581484f3ab3949764106b77133446506c738b3ed6cdf3dcf56ea0c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/swamp/houses.json"
+hash = "8d9129cf5ee1b9a3f36e80a1c4486192dda9fdb1a0459af20d4e6a1e3f47f2b4"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/swamp/streets.json"
+hash = "935fa01d288ca3f919a4a3370c5460e25b1bd3d562009ea3fbfe890cb878114e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/swamp/terminators.json"
+hash = "abd73e1e0ed1fc024f4f1e591e72a5fc28302cb0cbdc61028b4e7bc178977a1d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/swamp/town_centers.json"
+hash = "701628fa97c93ab2a0532304b2a34853b3611b07e84ccbacdd62489ec273d13d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/brutos/worldgen/template_pool/village/swamp/villagers.json"
+hash = "256df8a6ea3b6f5c401f1332f95aecd906dd186021a17ba0093f7a666e3b25d2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_1.nbt"
+hash = "63daa212f4e6f11c516563b47e0abbd72960c24f8b64fc2341abfb8237f1129a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_2.nbt"
+hash = "0da926ddb3210f9a0ea98bf6f29f45241ddc8641b23d80cac853565b8f9d9cff"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_3.nbt"
+hash = "35a174d176816a24519da826f791878b457203432a1e738192bd742e6ef47182"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_4.nbt"
+hash = "9915f6ab177e31a3b4c233b049cea3862b2aed56bcc519adc2fe4c92ec59bf8f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_broken_cage.nbt"
+hash = "16e03f02a7e0e5513895baa44e2502fdb75985f5b6cb912a0ad439776006983f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_broken_iron_cage.nbt"
+hash = "36910e319cbdc7fab2df866ab6e471fb5ea8b0e9b95b4daead922c94e2339aa8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_cage_with_allays_1.nbt"
+hash = "2412246080bfdafc8231ffad0bab557cad9b62a9330bbec3ad00db36c26d82c8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_cage_with_allays_2.nbt"
+hash = "374b208b5bb813727a0e2d6cffdab9b4913414f5f17b3734d0341e78dac75061"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_iron_cage_1.nbt"
+hash = "e441033cd8729981f7aeac5ca4c395512a252a8451140544e7e5a89360634376"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_logs.nbt"
+hash = "abd8fc5c3d306fb8a5cccdd4f9ab2204efa474c00cf8705d64cf4eea54556280"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_plate.nbt"
+hash = "765bf9b6ccf9bb8fd832e25dce98c628395544a085ae32af767e8571f6e21771"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_plate_2.nbt"
+hash = "a1993ec938684df9fa3e932e97f65a6f26a8b31b15e30e2d58444e9d47cf7b1c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_plate_3.nbt"
+hash = "bbce72b1a14393925b8e845d6ea8831dad6084dd946865c45777f1252d4209d2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_targets.nbt"
+hash = "4b82a964897f85c9da2e3d9dc4f85d3c99ed5136dc7819d449de7d699adf53ea"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_villager_cage.nbt"
+hash = "e958fe5b6a2e41c5b96c5f965b88c40609dba0d66c1dac0f8d8ff9186b7f5b53"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/feature_villager_cage_2.nbt"
+hash = "e8c1f6dc16353bbeabd27e119046cec9b2dd36eb1eee5853c7a9600abb775b28"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/pillager_watchtower.nbt"
+hash = "32f1827ce73247b302b204e918d903df646acb178f3129588f4d17f6dc188eb9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/tent_1.nbt"
+hash = "32f0033194ef8a3340cf8b801c9608e043cdde8a1defc9a1bed7c8b9d3b8f9de"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/tent_2.nbt"
+hash = "798d8dc9fef30c5a13b1e2bebf7ad862519817c97a2dd4db6ef7ec086fd3a8c9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/tent_3.nbt"
+hash = "8009cc7c444e41d99adcb0e44a55e63cf29aa6aa600ce04a7e3a048f42983b59"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/tent_4.nbt"
+hash = "038112cbf9ae6353413d322c09ce935ed4dc8b568ccabfc82d8cf894c73bd196"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/tent_5.nbt"
+hash = "6c57b59c2b4d8d0f489391b116356fd2898ba0f6f6927f1e4287543f693747ee"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/tent_6.nbt"
+hash = "a434921d4f83e282d881addaf7bb13370f5e20b96e018134b247a7b0aacafb89"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/tent_7.nbt"
+hash = "a560863d9b82483353b79819b1db088e3a4866d529e16562f59641443720d3e9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/pillager_outpost/wagon.nbt"
+hash = "613f5bf8b42280eea8d97166afc0566f41bca1ff9c14dadd9f5c6a617cb12cec"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/animals/cows_1.nbt"
+hash = "68d5fbafe70bc655556f98c6d0b120ced1c186cb64983e4b626a15f94c8352e3"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/animals/horses_1.nbt"
+hash = "5abdcc93ce158ac5b4d1b7a84fa73890009b3d96e46a85952b24f3a30af92415"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/animals/horses_2.nbt"
+hash = "981a1d8ef53fcf943f7241e6be55a19be3dc044dfcf060d675abcd3023b6fc22"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/animals/horses_3.nbt"
+hash = "878879536de882514b8f38139fcee61d29d4a4e733e080e3f236d36cecf0f51a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/animals/horses_4.nbt"
+hash = "c50b01204bfc379d74955bda6de29d74d410233b60544eaa134f893cb38dfcf0"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/animals/horses_5.nbt"
+hash = "ba9843da80d5ee0295583a4d2c6c69fd16cddf1c5835b4b066b3b0f7c57e2386"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/animals/pigs_1.nbt"
+hash = "e3bbde06036bc0dbe58207a112f37a1271ab7f5625b4550d0f2d898e78ca4444"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/animals/sheep_1.nbt"
+hash = "31604a342e1c7d6cc72a42a2a6e9fef2b4f1ed7509febc2eadcd8732051a7c5f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/animals/sheep_2.nbt"
+hash = "c7a62b97f39b15cfe9f39471ef702a67107264249dc6eccbcc4334115374017f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/cats/cat_black.nbt"
+hash = "9cc182ff555bbda711f23909aea8dc3a1a611efababe1cf835d956f1915128f6"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/cats/cat_british.nbt"
+hash = "8586421b7bb15cbb144ccecf4a5ab038db833a2a50c6f614e6dc3b982f49a223"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/cats/cat_calico.nbt"
+hash = "55f37a8c9684f362bb539e2451371ce13d9bf71fc5d68e9184e499d0dbb4328b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/cats/cat_jellie.nbt"
+hash = "8c7951bd2271beccada51af10bde33324e6d08458e5e2034b5ebfe727dc4930c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/cats/cat_persian.nbt"
+hash = "39cf87364f769a96752a9ec7f0cff29fa0cf4cf69e4d2c684d4eb497a7c4a3c3"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/cats/cat_ragdoll.nbt"
+hash = "112685c47e024222aba884e874e3c81b249a2181799d5fda88f29dd89d1b7770"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/cats/cat_red.nbt"
+hash = "af4fdbc28ac76163ebd792ecaa99a325188a605b405fc8f97dac994dc3667bd3"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/cats/cat_siamese.nbt"
+hash = "df8161ea2cfe882609bb5f927147827deadf9f66b000039ee6a6e43a781b02f7"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/cats/cat_tabby.nbt"
+hash = "edcfc0028fa459265068355ea2e990527faf31f4a754be101ebe74e4408cfe72"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/cats/cat_white.nbt"
+hash = "adf613d0c02be3830b4809c68e1c95597439e684a32923825a1d5e33a43599b8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/common/iron_golem.nbt"
+hash = "4ba1f17a1ff3f3262e121f5d4d88ccdeb26af80d121a6397542640cc73e4b5f1"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/camel.nbt"
+hash = "c436e610b1eb5edc7ebe477f12b67ae776ed50ec27547628d150a769dfcbe7df"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_armorer.nbt"
+hash = "d75839303dd9c194966addeb29aa75bcd25c5147bf49123ddb38f84006673f40"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_big_house.nbt"
+hash = "611d45206aee6c00214e84e60959d1f438df231015365a1db916807199bede84"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_butcher.nbt"
+hash = "7a68db289288c6717c22d0fff70d5542b0f975b3a12e776528900309026d83b0"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_cartographer.nbt"
+hash = "950c630f8e0081ea28f167d403beabe3c8069936f3e66ecbf3aed0f1803efc6f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_church.nbt"
+hash = "b8a9fb9ba3a98f67b562340fdffb56fc067da68c01ecaffcfb6b42335fc0d760"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_farm1.nbt"
+hash = "4ae2f6d8244fff55ad069dcb8d717f271c00ada20707458d94d093b588587439"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_farm2.nbt"
+hash = "1a1e28428b8d87bd8f0fd10422183fcf27041b59c0fcf1bce810337f49240a7b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_farm3.nbt"
+hash = "6b150ff21537ff10a7951ea17e3414fbda7f47fcc0614aeca1048ac9084936a0"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_fisher.nbt"
+hash = "6c418db463ffddeade812ed267babe406bb5f1e80fcaca8ac919db4d200b949c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_fletcher.nbt"
+hash = "1e6624c0b1a0d24d5c36c433d1cfa1507679f9e618eb61845ba5546825d1d1bf"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_library.nbt"
+hash = "70236ba309b501fc3a12853841f8c9a336d72d15e659ec1220ace5540edab70a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_mason.nbt"
+hash = "f6fd046a68bafe0d6e855a81725ae6e3ce640cf7456bebfb10fa7661e0c41eb5"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_medium_house.nbt"
+hash = "436296e10e31636e0eb96309c05e522292c0736b3408035dacdb279088a3aa4c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_medium_house2.nbt"
+hash = "6b94f2b974ac52a5f55bc6312954bb002b39c53786080d13d60f0352d82c33ab"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_shepherd.nbt"
+hash = "e4c2818c2a56b4acc5805b4c961ef43712f8ddf45466c5370888e83d48f732d8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_smallhouse.nbt"
+hash = "7776a8fe4f6d1ebaa0b6821045846e2d7e42ea3cac3a730e44eca190882cefab"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_smallhouse2.nbt"
+hash = "dd4c94ba441eff825e23cd09dd34f0ddfdda4e43b6b4a84e2cf49a62e753ff03"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_smallhouse3.nbt"
+hash = "2dc1d6fda7dc42a0d269a158f2aadbbcad2c95f5d7da4f4af62348f379f6a420"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_smallhouse4.nbt"
+hash = "d8f691376f597331721e3347be71b3db8a8f1dad79894ab10e5a883b0722cabf"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_smallhouse5.nbt"
+hash = "cae7bf0d2da828fc822cda8b0e3849a40420a67a587a449d6d455c69dbef1629"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_smallhouse6.nbt"
+hash = "e53a6620cdab6e0b6c477b7b29c3cb9ae55b79d87110d3d2059f467d041d23f4"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_smallhouse7.nbt"
+hash = "e52b53e0cab86dee984a6844af1f416fc3e76144298b49c51bf0a78970c117e1"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_smallhouse8.nbt"
+hash = "c1c589a3cd3eff7bb499fc561edd20f735d6831139dd60871c6c6a7dfeb00b25"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_tannery.nbt"
+hash = "8d6ab631045f665a3a36788ecda935ba533e0384fe7e9466a5ef6f1195b444b5"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_toolsmith.nbt"
+hash = "5f1262c4754dce84537f811ac76d2d858265e2844b854b09b57b68f2fd9b108b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_weaponsmith.nbt"
+hash = "18a479a70cfca1466832fe1284c73f523a673c5e3f2b7bc9a10685f5e52028b7"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_crossroad.nbt"
+hash = "5b9ddedd42487477a2cc98afed126b53a90c8adca943e8a220ba19d3fd6574be"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_crossroad4.nbt"
+hash = "3d21f97537bd89f4bc5fa4ed1ff0771dcfba378746a5433ddd9d580d9e06cba5"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_crossroad5.nbt"
+hash = "d74fff78b16d57e8119dd5fe89fd070c9bbfd5e4dde3f5e4e73881657b69e040"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_curve.nbt"
+hash = "5571bbfeddd31be87cfcbad6a1b847a09a29a295e6cf4791c65573b0de8d52b2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_curve2.nbt"
+hash = "2b8259d39fe37fb1e2d2706e8f4b184f5a746a8618a268f361a83f5d386755b5"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_deadend.nbt"
+hash = "acc47ea3d47b68a82eab8a0a36a16530d654db750a0f1e9df53b5d2e82a4b512"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_medium_house.nbt"
+hash = "688e70b5e5247b5932e80b94425ae790e16a81d01dc10bbe9fccc921f09216fa"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_medium_house2.nbt"
+hash = "331e35a285e8718963e2d98f1d8ccd8385db920967b1109d20b26746e4785df3"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_straight.nbt"
+hash = "2a612b3b416949d2eb6edaa3a933201122a20af43e3356ce4419a06c737fcaaf"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_straight2.nbt"
+hash = "958f3b95af36dd608b88dee1568111a6a672a3d0be9ac59f2437039f5cb27b30"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_straight3.nbt"
+hash = "b4324b2876f71b81066b64f0e2a58f7fbdcf6e1324e82fd96ec1d1d154c146fe"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/terminators/terminator_01.nbt"
+hash = "df8c760af8e3e484963c0ad5d3d0dcfdcda4606590d2699bb3b27e371c5ce02c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/terminators/terminator_02.nbt"
+hash = "1ed1b5962ad68ca71f68615dd60c9bc1ff284218a93e70f92187fc0d09be544a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/town_centers/desert_market.nbt"
+hash = "11c4ecb8a476f3c020b20818ca64a14735a3ea59f97d8a78ca29eba5ca14b8b8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/town_centers/desert_meeting_point_1.nbt"
+hash = "d7d6801f0cd6b4cab6e455594c64fd353fc3bd08303c865ad8a8f2a32b6cb62a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/town_centers/desert_meeting_point_2.nbt"
+hash = "8b996c13f8e2a69df21e71778f3a79331262b972693f8e97515404e742ddabbb"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/villagers/unemployed_desert.nbt"
+hash = "4c356d96d9b5c43a12d8da5139820d3bb1586df2ad1c6c585c58e6b7ea4186b8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/decor/plains_decor_1.nbt"
+hash = "0fe30f2a4afafc6119e9f3360cbef4e405c966e26853dc32cd4b727f19c08383"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/decor/plains_decor_2.nbt"
+hash = "9ff888bf1e773fe7c15bc6c91521e56671a6d5446d6eac7dc09743893ebc1021"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/decor/plains_decor_3.nbt"
+hash = "b093a9c52320122ae296fd042166d95b090dde7b7f45ac9560bc740b1f672583"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/decor/plains_decor_4.nbt"
+hash = "f56919da51d21c936c27c82ff0a552fb0ca90f70375ed99fc9d6ee35aea6ad0b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_armorer.nbt"
+hash = "b009d0c0696a6c5374af05420ad6f733436fc316182081870891f894448e168d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_big_house.nbt"
+hash = "548762a4c0da4733e4b85d259f384129a4229bba2f7dd64f1e8c9ddb55cc8266"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_butcher.nbt"
+hash = "ba48a863fc94991041dfddc3047e092e25f0e799fd186ced019df1f18d2e6e7a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_cartographer.nbt"
+hash = "d2e0c1231b6390874e8f919723440d7c87a88cd1bc963d7892b32f354d1fed6b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_church.nbt"
+hash = "564151dccfff82fab0a7b105d7da283679c03faf805c9d2735409c6a74061b60"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_farm1.nbt"
+hash = "32aa579a265a976d1c0e33346f6b0d5e7372fc52b99285576761b27a65cea9a6"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_farm2.nbt"
+hash = "cd0082d5d79da498eed7857463dcd0b1aa2a0d4e49167b2a2a82862ff34c7d65"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_fisher.nbt"
+hash = "68c1f605ff55659d3c64de84c59baf080d0117b48a4abf5b42be7c44e2babceb"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_fletcher.nbt"
+hash = "528b00f93a74d3f764951f93abcfec19bacf7a2d2399d968b32ec206a1ca1af3"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_library.nbt"
+hash = "9a774486b7c8d5e04332b7e8bd158d9c4221b43ee455e710fb199b72b865486c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_mason.nbt"
+hash = "51fc518d10a5840f232e838cc40ec6ec27276da42855726e3302d4cbcce3e885"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_medium_house.nbt"
+hash = "39a99fd1b9852482a7862d7a41e87c1cfa7434b13dc75ba1d508ac247b83b6fd"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_medium_house2.nbt"
+hash = "74303547e3fc1ce6f1fd2b25083486299cefb7d7113e7b026e8e578f939f5934"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_shepherd.nbt"
+hash = "bf52e8492252f159d06f3b12aae2cc4375f583c4374cb1555eb32b7ea3d3867a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_smallhouse.nbt"
+hash = "f8c2318c7fcdb4f8727caf1e1ebf2d53981b6c6e8cea6cc46bae6d20c93d0d7b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_smallhouse2.nbt"
+hash = "1f759ace659e0d96d8342c94195a384384a717e723504e756912ce4488e102de"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_smallhouse3.nbt"
+hash = "a85203a517f456be16711980b2d32861405cd662676c73ed6bab891186437160"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_smallhouse4.nbt"
+hash = "edb9b097da23694a8c4c41e9ce423a5e59f083b1f53521425c648bdaece10c01"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_stable.nbt"
+hash = "8faa2a0a56c0d5c93591fb8431acf09098f20b5aab61bd6adc13905a1ee23f05"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_tannery.nbt"
+hash = "afaebf917339ec43616bd26619602dc0eb0b39015369f6c69ac9019a7f93396a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_toolsmith.nbt"
+hash = "6c1a170f6fcd2236642038362b0bd31c63382f219c48c1968c447c862c16c9b6"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_weaponsmith.nbt"
+hash = "44a69dc69e3142769f72171c83f62abb0095f9eb1c6ea7cd697e0b86c67215ca"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/plains_fisher.nbt"
+hash = "df3937f9e00bfb168a84e26c6c1ce26dee31d4505a2a40c309d1cbe20d26de82"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/streets/plains_crossroad_1.nbt"
+hash = "4ab532daf124edeef0820c483692561a610b76314dc1dfa937e381f2c8840f86"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/streets/plains_crossroad_2.nbt"
+hash = "e7ba7524dae706c554fcc8019bbc5fd91124124e63b650851764f62ff62c8b11"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/streets/plains_crossroad_3.nbt"
+hash = "ed45581b8e51f43d606fa53ed83829e7c9772fe8d2706aa501692418e2d35389"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/streets/plains_curve.nbt"
+hash = "0ff166cb0ab6e6ae51014b3cc47f71722de6f3b4e6886acd45fb910ffdd224f2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/streets/plains_deadend.nbt"
+hash = "2c026867e2bce6fa18fa2863de0b4e1ad2ee728f1023ca924507b502720f893d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/streets/plains_straight.nbt"
+hash = "e0f8ddbff73bd5ea45a2a994ae1fa27daf528151b055192979a1bcc93b023f9f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/streets/plains_straight2.nbt"
+hash = "6793f52200e0133e2e1dab7e9c6c367067a42ea43df5b9758c0cf15be6c6807d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/streets/plains_straight3.nbt"
+hash = "54e8daa327983d352ce327357a742dbc770b73c8eb3ee7c949c88b2edf4999e7"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/streets/plains_straight4.nbt"
+hash = "c4c92a9cdf3f48da07d2f62ed52a12112570d78f45ba4bb90dbd95c07ac55a69"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/terminators/terminator_01.nbt"
+hash = "2fee89887f4cd6b9526d7ac13e670d50aa7f59c38d914c83acc48816b211a667"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/terminators/terminator_02.nbt"
+hash = "4b0d6630b31a8dd612325a3e4a54840d4858c7abaf43554fb16cd6b244238b43"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/terminators/terminator_03.nbt"
+hash = "8e1a539b084b5e935a1f5d9cc60c7864934ba1f6eb5ade78016bddcf64aecb5c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/terminators/terminator_04.nbt"
+hash = "eb3a53b8b9992137f83e36fd659ddb311299ee3dfbd6ff7a20c2dd370853a3bc"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/town_centers/plains_market.nbt"
+hash = "e478fee190ba30fb8a5b11a49dbf54cba9922fba52df7b508336c2dd6cc1fca2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/town_centers/plains_meeting_point_1.nbt"
+hash = "0021ec983fc37b2152bc01bd0615f71c96c8ce8c4f3a5148962ee3e49f4fda29"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/town_centers/plains_meeting_point_2.nbt"
+hash = "25c8e068a0219c499ef263b3c02b670d5fc1b90b616e96754fd24482186115a1"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/villagers/unemployed_plains.nbt"
+hash = "c9b968c87fd34293f04814ef2dcebc6be4aafb305e1266ca4ba8980731018970"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_armorer.nbt"
+hash = "b2c7a32232348705914dc9dab9fef99f65ecb40ae113213033565d3d64392a99"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_big_house.nbt"
+hash = "f46dbfc9157d1a6c8ad4bacc47a5e90229c9bb3af4a26f3f44320d35ffb1c6f2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_butcher.nbt"
+hash = "f26aebc9615240c04a0a3b5b75389bb92b81056abcee8b740bbffc61e125fa1e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_cartographer.nbt"
+hash = "82c0716e18103aa67a84db95db9bd81872e8f9dc4a3316ce7b17ea3dadca8d92"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_farm1.nbt"
+hash = "27b6119ee96939ba46915e90fbbf9188ab0a19bd7c3b2a29c118ea5c620178ca"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_farm2.nbt"
+hash = "4287ce4620d171404f37be401efc738f002608455cb61408a14449378b77cd0c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_fisher.nbt"
+hash = "5813093ff0cedc789d5f489c30e16cbfeec84068520f69e29bb4ea3408004a88"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_library.nbt"
+hash = "2abdf5ae1182c3460d00553489ab4e5af71c73dca30bae23e3598777edfe8558"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_mason.nbt"
+hash = "1d6e1400a6179aa5f247b72204d1bbf04e2cf2a57b015e13cf0c26b9f3941a9f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_medium_house1.nbt"
+hash = "40d606e9098955052272e343c6499bbfb3e65d9327ac309b50d17ee92ceb2e62"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_medium_house2.nbt"
+hash = "b141670b9af404863ad6ab5234204e97789fd717ea7e23c5e2b80dc74d9b4003"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_shepherd.nbt"
+hash = "bf853b57779b56897dd9619d999bb4ad6a2053de4cd84f44673c207cb72ee59f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_tannery.nbt"
+hash = "d75acf813e7a87ff19cdaac20c2dc851813d65fa34a2a932397f24d0a57661b9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_teepee1.nbt"
+hash = "0de47c3164369ff52a9e4f0c2e6a6ba755dab323b5d98421d12c7122a16a49c8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_teepee2.nbt"
+hash = "06515cc904718e4808dad60ec1340ce26be6e169b493043e4094a6cc09242bfa"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_teepee3.nbt"
+hash = "e141ecbff133447acff7aeabc69dcebdb04ba262ff506a5ee70705de0d978d4a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_temple.nbt"
+hash = "2c1e4c1554f1d5edf04e7291621365ee8aa3c0b022d9da0d11c1200640f907c6"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_toolsmith.nbt"
+hash = "182b43a22f2d6c77c8ae5e91944d65e0d31aa8976c52e31741692adef0ce5f79"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_weaponsmith.nbt"
+hash = "344cb29fe48a15264916fe1440e7456699bdf02061c211a3a085d833a387cb09"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/streets/savanna_circle1.nbt"
+hash = "a3124c828b190301a03dfc95a74c9851cf4228a7b2dff370d4c82bfb7927c9ea"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/streets/savanna_circle2.nbt"
+hash = "7e37747059a4e8ac81f7b4d0a2bd297b468e555298fbc7ea7b6adcaa485fbd53"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/streets/savanna_curve1.nbt"
+hash = "a31a015ef4cd3a6a2f3e85a657a5d4a048bb9c68520c35052430227c67b6e127"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/streets/savanna_curve2.nbt"
+hash = "816b2b347d40b1a157daf53052621aa1934b149b01139f436eb44c8fd4b396d9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/streets/savanna_straight1.nbt"
+hash = "e6c243dee3e6ba961a5fb806855470411f6c12c38fcb487bcb39a44383f34229"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/streets/savanna_straight2.nbt"
+hash = "3f461781892c859db6b2464ee626bf88d25f2c30025319938d22c406159b0878"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/streets/savanna_straight3.nbt"
+hash = "3ecda9e29a5fa5c93b967d039c5c8224da7a7bea631a093e3387ba672043007e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/streets/savanna_straight4.nbt"
+hash = "96af21bef72b6c7914965f732fb91db85192e81ed9eba09b63472ee4d66a6534"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/terminators/terminator_01.nbt"
+hash = "aea4a10f9a1d1ce75b1e389c79c9fb967528197caa33a3845223b93cd33673c0"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/terminators/terminator_02.nbt"
+hash = "277471ea07ea0c5e3fc6bc5c81d91a7d65a6b80ce10bb81ba62d7feab46b51c2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/terminators/terminator_03.nbt"
+hash = "e69f3cd4ff858971644b69dfe5eb45df924ebc68dacd8c4b0d7eac07bf20839b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/terminators/terminator_04.nbt"
+hash = "b2c988756589545a5fbbb56e02ca0f48cd47db62d41335e4eec940223f5ed29a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/town_centers/savanna_market.nbt"
+hash = "b2f0cd38979b2eac22587025fb1cac335656958b012db6357d88b7084339f827"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/town_centers/savanna_teepee_crossing.nbt"
+hash = "af5e3863fe51ce5e2614b6b0946900ec62191b0182776cc7d5a22a8650b2bcfa"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/town_centers/savanna_totem.nbt"
+hash = "1645a4dff3a396f3786482e2fa69b053d2eda80905605da4f3279fb50ca6d5a9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/town_centers/savanna_tree_crossing.nbt"
+hash = "c8e623dbe01bcd4a7505dfbd5e06723e4069ca1cf10408247bc76b5167f2ad36"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/villagers/unemployed_savanna.nbt"
+hash = "c1bc13b66c4c99a12acbd8d2967ca192348f6e5b05fe321adc2754e0dd9c5eb8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/decor/snowy_decor_1.nbt"
+hash = "4086dba03e28074e04d5108857de149a55fcb8a0a9fad5239672582675cdfe10"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/decor/snowy_decor_2.nbt"
+hash = "fb88176f9dac18938600f3b4b35893f2a5da97227af90df1129a2ba4c137f939"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/decor/snowy_decor_3.nbt"
+hash = "d871a9386f24785dcd6fe418441d43835fb83564f82b76edf5918ac77f6aca12"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/decor/snowy_decor_4.nbt"
+hash = "d56c2ff6c68e15c9429fda004a9311a8f27c2250afc07dc1d25416b38d3484b0"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_animal_pen_1.nbt"
+hash = "3c6df6408e9afa30eacac6ac78a3c5892c8acc9cf6c10149eef719cf3585e36e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_animal_pen_2.nbt"
+hash = "01b59bdd03609060194c96a9ebf8f60bc3881e18c26daa68aa4980ecd704b7ad"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_armorer.nbt"
+hash = "ac6a3c3f363685123afcf521e202564a384ef2b1c94b4cd9753faa7fa8d6a2f5"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_butcher.nbt"
+hash = "a39cb4d18a2e55af859060f154139059d54727bcc011e0a9c192c7709a613917"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_cartographer.nbt"
+hash = "9607a61653824cc6e6a605a316fe9d7c433bbfe702da1ba80c38aea8b81a7c1b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_chicken_coop.nbt"
+hash = "e6220afc9b1c4b967ae9c8a71fd9331af7e8c6f4dd29dccc1b10ded5a5e87029"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_fisher.nbt"
+hash = "762127d99adcae975f8a993ee33e60635a6bf0f227c5d9da8446273a96dc6cec"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_fletcher.nbt"
+hash = "d8bc1c77b73337b6974b37da174d3e27f4989eb67f0b3ba5acfff41b8ca3c37f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_library.nbt"
+hash = "48766f6839e0761fb1f9467624877307d4f41badb820ffce3ec07696cfc48a6b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_longhouse.nbt"
+hash = "8428b7269d750ea2abef67c6c2bd1afa2532d92f3244286f2dbab711df37f6a1"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_mason.nbt"
+hash = "f6eb527aa9df1faed71381e543454a25b5bb9b99255bd9fc5c393c0e963135fd"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_medium_house_1.nbt"
+hash = "736c14cc71640d01ce14ba844bc91fa6d59a1b1ccedd2e7ffaaabafab05c12d4"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_medium_house_2.nbt"
+hash = "bc384af11851d91ce24365a58e1b11c589612ddc586542ff1bde8d1d313f6305"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_shepherd.nbt"
+hash = "4b96ecf10c7b7cc5f017a6eb1be5964824c926ccdc7d3fe030a75c491772fb90"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_small_house_1.nbt"
+hash = "7d0f3bb8f5c93eb91519f270d872e29d70734608c87c5ff675ef2773177e1511"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_small_house_2.nbt"
+hash = "12444dc66fd35265426b23002461b09f908c1e4a8b0a8d44511bf5cb39512b7e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_small_house_3.nbt"
+hash = "5f09e13d73d6ca14e2c0b02d790daec380409b588c0bbf7f70c00f6c644a75cc"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_small_house_4.nbt"
+hash = "0a6a469ab7c801b444700bad731c1da67fc61a745efb0afc78157dedcf8fb658"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_small_house_5.nbt"
+hash = "00374055a327af0885a5cf66c517e37b0f5c164c7a69e6d76cd17361eb6aa089"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_small_house_6.nbt"
+hash = "478bb511377034b5f116c571015eb904c63b2d7d7de71c0a1300be176bb6436b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_stave_church.nbt"
+hash = "99640e9c4f18c899680c1af14d0a8d5b54246c35530504fe645a7eece60ae7ba"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_tannery.nbt"
+hash = "3d3a5da65be1c1a9cef68f1920dedea1ec899b4c4604f6ef6fd4946aec8919ed"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_toolsmith.nbt"
+hash = "419f28b5db9cec3ac8dfb10fc7af2d2d98fda94053256f4de530b8efeb0cedc8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_weaponsmith.nbt"
+hash = "24e2dcf39a548045f2d1ac5d8a3a1bb6360274b153013111533b938ce21cf301"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_corner_1.nbt"
+hash = "bc2e4c43b9112d8496c9c116fa8b68fc7a2126b471464906aa5e5288f68a4e36"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_corner_2.nbt"
+hash = "10578d6839046d4a6fe753324a895a98ab4522d7206d5bc0070248b433ac0ebf"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_corner_3.nbt"
+hash = "8001474136d39b9dfee21f90296bec591263d6299b711a7792541c84f887ad8b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_crossroad_3.nbt"
+hash = "172eefeeacc60e1437e95e84967fa39088b9b74e3b7a1de80e96fdb34b5ea3fb"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_crossroad_4.nbt"
+hash = "e407c7f708958f02e93bdde7bf7c1029601c558d496e373e6c2caaba2c6905f1"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_crossroad_5.nbt"
+hash = "ae7f5b6a7ba729b014dc1a318d1ac43a2da392c2262395b6d7ad9616bd0b9c63"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_crossroad_6.nbt"
+hash = "0c1c15afaf8b508c544cb6017f44c96ea28539d88d1f761326fdfa9a2ab13e7b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_square_1.nbt"
+hash = "bd66c03349f8ef3c8b158eb429961a128fa60dd14ec861c95a0faa531d0fcf32"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_straight_1.nbt"
+hash = "c5d97b1aceb9e7c8a3816f1920a1b372764ee99b122ca8f288fff65f559fb0cd"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_straight_2.nbt"
+hash = "70d5234eee47261e879f740e9bab3bdb2c093adbd621ea047dbb64c82ba10a6f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_straight_3.nbt"
+hash = "4c6b50558c47597bd042f164d3aa45e83f195f15b709b1d78d545d7571d9be39"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_straight_4.nbt"
+hash = "7afb26b36d7d72c163ef1aa9482edf794167710f410f809a1f7d7a0a1b82ba58"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_straight_6.nbt"
+hash = "43b6cfd2307cdb2dae108fd77690b048cac2113a447ca68af31e2ea84ae25826"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_straight_8.nbt"
+hash = "bcf57998facdc2f48ac63c9645e171adc15b3209244cf8b0556ef55ed2274249"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_turn_1.nbt"
+hash = "4cc452a98dc5f56ff6c2fa0afe4da8bd18e2e592170552068f122432c577e15e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/town_centers/snowy_meeting_point_1.nbt"
+hash = "1ccca4854d10eb9f24784110b313fee07d21678dd54bb9defdf9c6f9c68685e9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/town_centers/snowy_meeting_point_2.nbt"
+hash = "fad90418528f18252254458f0db7e470ad6a8a9137234909ae5e16ebe9c89742"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/town_centers/snowy_meeting_point_3.nbt"
+hash = "5bed253b711000a9262fa4b8277fa7b4b97c41e35f00db57289f228d4281ebab"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/villagers/unemployed_snow.nbt"
+hash = "6bfd4966dd6534787deeffb8b792205a5f031f89ff7678327981409492ce7926"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/decor/taiga_decor_1.nbt"
+hash = "ac4d915c5d402fc99dffc88f6a1d712d2b675aedc12bf0ec192608da9471f8e3"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/decor/taiga_decor_2.nbt"
+hash = "24d71da98e341ae0ffee418ac751f20bf5ef2a744f026844df381d237cd9079c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/decor/taiga_decor_3.nbt"
+hash = "8c887ac35cb1905b33aeb1739d039643aa332d63b8d713b986309cb364d57fda"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/decor/taiga_decor_4.nbt"
+hash = "6054d35a83a33279ef0daffbc5153577422512b93591e1178690e5d822ca0203"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/decor/taiga_decor_5.nbt"
+hash = "0f936f8345008e2d06c50939fb9f3c90d7dffba101dee791c99ee4b65cf94c51"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_armorer.nbt"
+hash = "f6a8672a50878368f562f30137b6b7d6e950a77d81be34db0fecd7abbc642e72"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_big_house.nbt"
+hash = "806c9436a0f0b2cfb8659823f9e1c6c78dea09dc875719c22a1bcaae52ed021a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_butcher.nbt"
+hash = "34d49597fcd49dfc5a58340e5e17155ac5ecad49a0bac005832ad0545649dd22"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_cartographer.nbt"
+hash = "64b97d65ee9e016545dd27d3ea726c1f5d1b04c4a8763d07fc6765738c5ce583"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_church.nbt"
+hash = "08b8b20ce7994b6b70d127ec6c2f6d06d323404346d244e153cacdf06d18682c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_farm1.nbt"
+hash = "168685ddb66bfa1dfc2c6fd25fa4795eb70e66062810b2232e438d96e90791e8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_farm2.nbt"
+hash = "1eae011d73289087276a5f8d2d2f2b2bc7cd6cbbbd1847f880f28a67d6c7f672"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_farm3.nbt"
+hash = "76cd05c6564476e258b579dd1531d432d8116f07cb68c9d8b68946e2d8c2b446"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_fisher.nbt"
+hash = "051126dbcd56b33d9b521e10a99f6d5d7c9a3fecf62c218b95f512d165204c8d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_fletcher.nbt"
+hash = "b5c2d4f58bebcb78af1d0c9585558f35aec38ebeab1bc90dcf58936256f52b19"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_library.nbt"
+hash = "dd563b396e4085a42f6e5727a0f77a8209b94395facbc30edeeac12e7db2a541"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_mason.nbt"
+hash = "3662f27f7515b55869a53525d9b21a492393e84b06e6b9957f038919a4b136c8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_medium_house.nbt"
+hash = "e7ff633f97421da1507b38c001ed693423337e8baa5ea3c0b2502e5cfa3169b8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_medium_house2.nbt"
+hash = "e3fd1f43a73c5db60a929894c50bb614429a85f78d1c4e4f0d4647c9e07289b8"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_shepherd.nbt"
+hash = "357c74b2f90457dfcbcfef246d940e2e2758bdd9571daa9da488dfea39f719dc"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_smallhouse.nbt"
+hash = "09c8a603ecc5af4eb70ceb497938b08fce6417749d60c8270576337082fa43ff"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_smallhouse2.nbt"
+hash = "3a72b653b310284f0ad958f3e2987f9ba52db94894811e681a2e5e34d3428584"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_smallhouse3.nbt"
+hash = "140625b15fed91ea73833c76fd3891573bb095cfd92d4ff1a96df98711934d64"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_smallhouse4.nbt"
+hash = "eb7f0232ab27bc75ec673f06e8ddebc9d6643be1ad82fd9f91699b01f37f745b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_stable.nbt"
+hash = "50d0598e932e40e4b9edc3afe9d713bf217eba08c63a85665700859092aae779"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_tannery.nbt"
+hash = "0f88b71b6d276ca20a5bce46290a97d9da2d8230562e595799379ba2d4f97219"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_toolsmith.nbt"
+hash = "797c3fe00a187d6ba6511c3fd34a37db8e1bca384d98dec32add5fac1a2eed81"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_weaponsmith.nbt"
+hash = "47ffce39eeceaad039a602a690185dc18ae9ed70f856c297a145b3cec286d23a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/streets/taiga_crossroad_1.nbt"
+hash = "0c6f7b994645ba8ba88acbb7174929e22c1991c2a9a394137ed8897e304a20ce"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/streets/taiga_crossroad_2.nbt"
+hash = "7a4aa23c71525c6beccaca86cdc3c2ff129b43dd55b28db21a0d980a0d563ad0"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/streets/taiga_crossroad_3.nbt"
+hash = "41f54f2ce2204f4d96aa1e5883d281772041afeeb94a9bcd77fc37d9bd88ff09"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/streets/taiga_curve.nbt"
+hash = "7d41816781edb2fb8d8964b03e9d46ecdbaed97ae27871667d1d9b8f9f0d9b6d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/streets/taiga_deadend.nbt"
+hash = "625ddbde9c9670e1e9892f23d39a32dca1e29131a80db042224757e5b5334d8d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/streets/taiga_straight.nbt"
+hash = "adc777af5680c7a2cccfaa3fbae6ea1cecd49e0eb5fba100824a6fa2982ec2dd"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/streets/taiga_straight2.nbt"
+hash = "2ae959dfae3a8778fcc976d7408149b52722afbcaa9a966e8c750e4f7a26f6ee"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/streets/taiga_straight3.nbt"
+hash = "e2ecd39bf0fa0b6db2772fd3574ad1a9eb36af0e30e2d0b15f2fad19d34a06d9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/streets/taiga_straight4.nbt"
+hash = "41d02576a59de0ef4a81ba59b91350d9f5e1342bdf88721f3cc12f62d9b77a81"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/town_centers/taiga_market.nbt"
+hash = "7450cc9ae782b630fecfba53f2c116f5f43e8def4be0010b3c3de0d24d908e34"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/town_centers/taiga_meeting_point_1.nbt"
+hash = "8ebcdd8f05efe4292ac928d104f06ddccbc546ec086ec3a74870c091e116f583"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/town_centers/taiga_meeting_point_2.nbt"
+hash = "6caed625ea53f07fe6fb50f3c107fd210d50316441e39a0d52588a6ab49a57f3"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/villagers/unemployed_taiga.nbt"
+hash = "635b8a82e6beebac79a5b000d8eb1df7ec4333b178bfc335a33648cde7eedf32"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/tags/worldgen/biome/has_structure/village_cherry.json"
+hash = "929f7659be3004f03fb2401821d9c6666759a4ca29cae25c3366e9ba66846abc"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/tags/worldgen/biome/has_structure/village_desert.json"
+hash = "8de2b4593324bfb8b5b633356a66cb1f239acab9d046e10183a1c007dc2c3f7d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/tags/worldgen/biome/has_structure/village_plains.json"
+hash = "a286d1586dddf908d5b1a6335f914030b4eca80866dbf424f281aeda7f101920"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/tags/worldgen/biome/has_structure/village_savanna.json"
+hash = "b480f16e16b1b63bc6a332f76a9ea24a9c40dfcccad1b031741eb6310a1e1410"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/tags/worldgen/biome/has_structure/village_snowy.json"
+hash = "d6a6847ed7c9d8a38c5485c06e17656e8d42d50e529c3b695263ffea05998bfb"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/tags/worldgen/biome/has_structure/village_swamp.json"
+hash = "21dabdd282c2ea7d057ccecbdcff7fa6b11cf68bd590c26d59ac3c31949e820c"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/tags/worldgen/biome/has_structure/village_taiga.json"
+hash = "9a6f3da62229e7025dba20dad8edaa934a6a7643c43b2c086678f20cc07d1b29"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/structure/village_desert.json"
+hash = "f72db1943627ba9e3a24c846725e7019cb01b0469b6324388a81e91d491b4f5d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/structure/village_plains.json"
+hash = "727788c2955ab12203c20344be71f95bf713bab0f1d116426bc3cc2b43310c1f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/structure/village_savanna.json"
+hash = "2956d98397083ac85b9c77cdc01677e56cdf6888b94b0a232d7a9798c820ab2f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/structure/village_snowy.json"
+hash = "6e4cb5bf8b8858126a7c913b1b509b59104c395c7a52e9fa2b5af2634686e4cc"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/structure/village_taiga.json"
+hash = "3c454218481188b2ee5c8d97577f400452007be46bef2b6dbbbe1c709da2403f"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/desert/camel.json"
+hash = "1bb64e4cda5b691666956ee16881320b8081de29890bf963be8e325f749de2f9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/desert/houses.json"
+hash = "767c8682b77fe3c32437da21563f2f28cdebb9984b672f3e2ab9fa3a0e0c06c7"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/desert/streets.json"
+hash = "3f6b0bdb445c26ed779ad3885a107ca15c9c36a9c100484a96244e6ba26daee7"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/desert/terminators.json"
+hash = "4526700c8ed1635008bc9cb1827e3007dd446548a3369188b12f9809be9eb513"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/desert/town_centers.json"
+hash = "28d732890b50f58baa3896fa4b468921c6338b8d7113b9702b45789007342161"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/desert/villagers.json"
+hash = "cf3149e83615cc12aec4e48e75e1e7abfd58031feb17c6fa096584f1da5aaaaf"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/plains/decor.json"
+hash = "2c7c823b8839533db3d45fdb4a4150a6472a9f9873942343c300b4d6314baa78"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/plains/houses.json"
+hash = "a59aa2397f565adac0af14246aa76598515719cd0e44da8dddae839eb748181d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/plains/streets.json"
+hash = "709424ea8906365f66a8cc06a658558683d799d7d4e4a36104c5e11150ce4fc7"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/plains/terminators.json"
+hash = "aa12274c8ec0c1c8d9ff0e7fc3cd0309af891335d7a5febc0c565f3404b3d14e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/plains/town_centers.json"
+hash = "0c78065475aff1bcdbf863b35910dfdf0b682b5377322c5de2eca701c7bd5976"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/plains/villagers.json"
+hash = "4d600a338a4c945f898f492776054c680b482fff56a281c5c2b53100083b9684"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/savanna/houses.json"
+hash = "c5dee213353d361b972e9e240f6ef144c628b78561a4282ff75d3aeee6387d64"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/savanna/streets.json"
+hash = "436d33c82211a4067b29f407c37f4cca14258253eeadf6628a6893ccca6938c9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/savanna/terminators.json"
+hash = "405623932f14a13f4f18cbdd0185f8e434891362d53e08fb555fb4be0876b2f0"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/savanna/town_centers.json"
+hash = "b74265f074cb02a07fc3e17ce14ca7af4d9175d1f24103b2b7261ebfbecf304d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/savanna/villagers.json"
+hash = "62c62759158eda8f6dfc7a130a836ac804af9c766f0a797daf174cda170a62e7"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/snowy/decor.json"
+hash = "7acef6e63942b810c90320ffee7d90ff62b8ba4226869a89958df4c61879a5de"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/snowy/houses.json"
+hash = "1034fe647a34d20ffb802e9ed8ea6229ed0b06f8adcddb619aeb4b3925e3cc61"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/snowy/streets.json"
+hash = "84b81933114d9a60485b3c9c39831421cae3385cd9490a2d9ae2a0deec7fc970"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/snowy/town_centers.json"
+hash = "8de1f2293ba344fa69dcfcceca39eea159938fceb874bcc33921d93dca8f43cd"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/snowy/villagers.json"
+hash = "4217b2efe17c7d417e39b3b0b20587599e6911e0cf1a0e45eef12e2552a2f8f2"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/taiga/decor.json"
+hash = "61c3e70f13f485c7a93c9da68c82067d8b6a5e857031e8f3cf0d7f381372018e"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/taiga/houses.json"
+hash = "d0bd1732d21ebcd4a98526e18d89dd76ff2452368a11ef78e5949af725e23cb6"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/taiga/streets.json"
+hash = "2fcdea93b0df2442331eac8067ae9d8c439c89e23fce1698ebbb45798486757b"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/taiga/town_centers.json"
+hash = "d60fbb378ea0ec2ca358b85030ffd4650074ac3ecf67396aaf6a6bab3826cb18"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/minecraft/worldgen/template_pool/village/taiga/villagers.json"
+hash = "6fcf43c837cce6d10880f7fa4939844a475bc770f67bd6fc30d4fef34185d995"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/loot_table/chests/village/village_cherry_house.json"
+hash = "c534e33b9b1d21c92406b120530ea82aec419c22d57671f4bf4e9ee32bb4378a"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/loot_table/chests/village/village_library.json"
+hash = "db75ab23e540fd7362244895be52884d4cde9f0d1da3155cd2525e8f37a7e224"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/loot_table/chests/village/village_swamp_house.json"
+hash = "7cec92c1c9c48116481b5c295463b7f7b9c955ab6360ee216ddd71f8db74c7b9"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/worldgen/processor_list/plains_streets.json"
+hash = "7af34616f3894c871e3411c34c5d456b66502cf6717e0d422228e6753dd27d40"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/worldgen/processor_list/snowy_streets.json"
+hash = "5636e713cd231c8a7a6c0dd184cba2bbc534705731b04b9cea0b18c567773f93"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/worldgen/processor_list/swamp_house.json"
+hash = "5f3371c4d3295d76c4ee48204e051ce32f195192c8d223b4656e6952ddd7e7a7"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/worldgen/processor_list/swamp_streets.json"
+hash = "294606611d853535ded5f6f4cc3a630a9fc9eb1954aee7fb4f5507ad84410d67"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/worldgen/processor_list/taiga_streets.json"
+hash = "294606611d853535ded5f6f4cc3a630a9fc9eb1954aee7fb4f5507ad84410d67"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/worldgen/structure/village_cherry.json"
+hash = "34cc5ad77ad0f582ba8ca7a41af5ede1192b208cde2cef4ec46cbbc50764bcdf"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/worldgen/structure/village_swamp.json"
+hash = "63d1940ad23c1fe18eb5a9d37a293b3d2f5f7140f7a551b535076113665f01e1"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/worldgen/structure_set/village_cherry.json"
+hash = "dc2f9eb7f8395eac4fa3255347f177dabd38811a080b3d48f9997cdff335d21d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/data/vsrevamped/worldgen/structure_set/village_swamp.json"
+hash = "5d40963f756c54e10385e37c66dc2ba6a296d1ff3aa34a8a8bc25abdaef1556d"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/pack.mcmeta"
+hash = "1b08f58f4b8dab4a8502860c7152ae3f7e62b8890ae56454a2fd91ef4cc0d966"
+
+[[files]]
+file = "global_packs/required_data/villages-revamped/pack.png"
+hash = "4e005875abe91f7efff8aa57f3bf8d614faa38ac801d7efd81f51c8f1bc3acc0"
 
 [[files]]
 file = "global_packs/required_data/wwoo/1-20-5-overlay/data/wythers/worldgen/configured_feature/palm/branch/tall_east.json"
@@ -7085,7 +8716,7 @@ metafile = true
 
 [[files]]
 file = "mods/another_edition_core-0.1.3.jar"
-hash = "596de3bf4e92c23cb411fc505fc12ac5b69d26f384e434e15c613b9677b964ba"
+hash = "622bbcb73c895a7d8b4d44addb25a6ab3b5b22b5d463141635e2cbac7d055b67"
 
 [[files]]
 file = "mods/appleskin.cf.pw.toml"
@@ -7564,17 +9195,17 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+hash = "a80d243759a5998d1f61cab61a9769526c21e1a9ac2f328ec1f213bb97311bfe"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.cf.pw.toml"
-hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
+hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.mr.pw.toml"
-hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]

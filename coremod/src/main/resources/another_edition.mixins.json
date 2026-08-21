@@ -7,7 +7,6 @@
     "client.CuriosScreenMixin",
     "client.GameMenuScreenMixin",
     "client.GameOptionsMixin",
-    "client.HandledScreenMixin",
     "client.LoadingDisplayMixin",
     "client.MinecraftClientMixin",
     "client.TitleScreenMixin",
@@ -21,8 +20,6 @@
     "GameRulesMixin",
     "IBlockExtensionMixin",
     "LifecycledResourceManagerImplMixin",
-    "PlayerInventoryMixin",
-    "client.curios.CuriosContainerMixin",
     "SpyglassItemMixin",
     "accessor.FireBlockAccessor"
   ],
