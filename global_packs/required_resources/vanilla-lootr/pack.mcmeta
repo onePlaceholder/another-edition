@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 6,
+      "max_inclusive": 26
+    },
+    "description": {
+      "text": "Vanilla textures for Lootr chests.",
+      "color": "gold"
+    }
+  }
+}
