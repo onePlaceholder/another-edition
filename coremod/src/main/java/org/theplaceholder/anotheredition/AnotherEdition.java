@@ -1,6 +1,7 @@
 package org.theplaceholder.anotheredition;
 
 import com.mojang.logging.LogUtils;
+import net.minecraft.util.Identifier;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 import org.slf4j.Logger;
@@ -25,5 +26,9 @@ public final class AnotherEdition {
 
     public static AnotherEditionConfig getConfig() {
         return CONFIG;
+    }
+
+    public static Identifier identifier(String path) {
+        return Identifier.of(MOD_ID, path);
     }
 }
