@@ -61,28 +61,28 @@
   "region_3_weight": 8,
   "vanilla_additions": {
     "comment": "Setting this to False will disable all vanilla additions, making the enabled_vanilla_additions section ignored.  (Only Available on Fabric and NeoForge)",
-    "value": false
+    "value": true
   },
   "individual_vanilla_additions": {
     "biomeswevegone:palm_trees": {
       "comment": "Will add Palm Trees to minecraft:beach.",
-      "value": false
+      "value": true
     },
     "biomeswevegone:vanilla/flower_default": {
       "comment": "Will add Flower Patch, Clover Patch, White Anemone, Pink Anemone, Orange Daisy, Horseweed and rose to minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:windswept_hills, minecraft:windswept_gravelly_hills, minecraft:windswept_forest, minecraft:desert, minecraft:snowy_plains, minecraft:ice_spikes, minecraft:windswept_savanna, minecraft:forest, minecraft:old_growth_birch_forest, minecraft:birch_forest, minecraft:taiga, minecraft:snowy_taiga, minecraft:dark_forest.",
-      "value": false
+      "value": true
     },
     "biomeswevegone:vanilla/forest_flowers": {
       "comment": "Will add Flower Patch, Clover Patch, Blue Rose Bush and Blue Berry Bushes to minecraft:forest, minecraft:dark_forest.",
-      "value": false
+      "value": true
     },
     "biomeswevegone:vanilla/flower_warm": {
       "comment": "Will add Flower Patch, Clover Patch, White Anemone, Pink Anemone, Orange Daisy, Horseweed and rose to minecraft:sparse_jungle, minecraft:jungle, minecraft:bamboo_jungle, minecraft:savanna, minecraft:savanna_plateau.",
-      "value": false
+      "value": true
     },
     "biomeswevegone:vanilla/flower_plains": {
       "comment": "Will add Green/Cyan/Magenta/Purple/Yellow Tulips, Rose, Orange Daisy, Flower and Clover Patches to minecraft:plains, minecraft:sunflower_plains.",
-      "value": false
+      "value": true
     }
   }
 }
