@@ -118,7 +118,6 @@
     ],
     [
       "minecraft:freeze_top_layer",
-      "wythers:decor/dense_steam",
       "wythers:decor/desert"
     ]
   ],
@@ -140,6 +139,18 @@
         "maxCount": 3,
         "minCount": 2,
         "weight": 4
+      },
+      {
+        "type": "minecraft:camel",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 1
+      },
+      {
+        "type": "minecraft:wolf",
+        "maxCount": 8,
+        "minCount": 4,
+        "weight": 2
       }
     ],
     "misc": [],

@@ -61,6 +61,18 @@
         "weight": 1,
         "minCount": 1,
         "maxCount": 1
+      },
+      {
+        "type": "minecraft:armadillo",
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 10
+      },
+      {
+        "type": "minecraft:wolf",
+        "maxCount": 8,
+        "minCount": 4,
+        "weight": 2
       }
     ],
     "misc": [],
@@ -224,7 +236,6 @@
     [
       "minecraft:freeze_top_layer",
       "wythers:terrain/local/replace_basalt_to_tuff",
-      "wythers:decor/dense_steam",
       "wythers:vegetation/local/other/baobab_interior"
     ]
   ]

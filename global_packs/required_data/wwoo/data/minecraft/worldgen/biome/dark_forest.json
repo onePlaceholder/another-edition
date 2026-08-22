@@ -170,7 +170,14 @@
         "maxCount": 4
       }
     ],
-    "creature": [],
+    "creature": [
+      {
+        "type": "minecraft:wolf",
+        "maxCount": 8,
+        "minCount": 4,
+        "weight": 2
+      }
+    ],
     "ambient": [
       {
         "type": "minecraft:bat",
