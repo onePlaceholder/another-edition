@@ -7,7 +7,7 @@
 		"reducedDebugInfo": true,
 		"announceAdvancements": false
 	},
-	"modpackVersion": "0.3.2",
+	"modpackVersion": "0.4",
 	"disabledKeybinds": [
 		"key.advancements", 
 		"key.modernfix.config",

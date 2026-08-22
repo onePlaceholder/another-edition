@@ -15,50 +15,284 @@
         "rules": []
       },
       "target": {
-        "type": "minecraft:all_of",
+        "type": "minecraft:any_of",
         "predicates": [
           {
-            "type": "minecraft:matching_blocks",
-            "blocks": [
-              "minecraft:air",
-              "minecraft:snow",
-              "minecraft:snow_block"
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "minecraft:air",
+                  "minecraft:snow",
+                  "minecraft:snow_block"
+                ]
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ],
+                "blocks": [
+                  "minecraft:stone",
+                  "minecraft:deepslate",
+                  "minecraft:smooth_basalt",
+                  "minecraft:tuff",
+                  "minecraft:mud",
+                  "minecraft:muddy_mangrove_roots",
+                  "minecraft:blackstone",
+                  "minecraft:lava",
+                  "minecraft:magma_block",
+                  "minecraft:water",
+                  "minecraft:grass_block",
+                  "minecraft:snow_block"
+                ]
+              }
             ]
           },
           {
-            "type": "minecraft:matching_blocks",
-            "offset": [
-              0,
-              -1,
-              0
-            ],
-            "blocks": [
-              "minecraft:stone",
-              "minecraft:deepslate",
-              "minecraft:smooth_basalt",
-              "minecraft:tuff",
-              "minecraft:mud",
-              "minecraft:muddy_mangrove_roots",
-              "minecraft:blackstone",
-              "minecraft:lava",
-              "minecraft:water",
-              "minecraft:grass_block",
-              "minecraft:snow_block"
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "minecraft:air",
+                  "minecraft:snow",
+                  "minecraft:snow_block"
+                ]
+              },
+              {
+                "type": "minecraft:any_of",
+                "predicates": [
+                  {
+                    "type": "minecraft:all_of",
+                    "predicates": [
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          1,
+                          0,
+                          0
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      },
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          -1,
+                          0,
+                          0
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      },
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          0,
+                          0,
+                          1
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "minecraft:all_of",
+                    "predicates": [
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          1,
+                          0,
+                          0
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      },
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          -1,
+                          0,
+                          0
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      },
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          0,
+                          0,
+                          -1
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "minecraft:all_of",
+                    "predicates": [
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          1,
+                          0,
+                          0
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      },
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          0,
+                          0,
+                          1
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      },
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          0,
+                          0,
+                          -1
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "minecraft:all_of",
+                    "predicates": [
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          -1,
+                          0,
+                          0
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      },
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          0,
+                          0,
+                          1
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      },
+                      {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                          0,
+                          0,
+                          -1
+                        ],
+                        "blocks": [
+                          "minecraft:deepslate",
+                          "minecraft:smooth_basalt",
+                          "minecraft:tuff"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
             ]
           }
         ]
       },
       "radius": {
         "type": "minecraft:uniform",
-        "value": {
-          "min_inclusive": 5,
-          "max_inclusive": 8
-        }
+        "min_inclusive": 5,
+        "max_inclusive": 8
       },
       "half_height": 4
     }
   },
   "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "above_bottom": 0
+      }
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_blocks",
+            "offset": [
+              0,
+              1,
+              0
+            ],
+            "blocks": [
+              "minecraft:moss_block"
+            ]
+          },
+          {
+            "type": "minecraft:matching_blocks",
+            "offset": [
+              0,
+              2,
+              0
+            ],
+            "blocks": [
+              "minecraft:sculk"
+            ]
+          }
+        ]
+      }
+    },
     {
       "type": "minecraft:count",
       "count": 15
@@ -83,7 +317,7 @@
       "type": "minecraft:surface_relative_threshold_filter",
       "heightmap": "WORLD_SURFACE",
       "min_inclusive": -220,
-      "max_inclusive": -130
+      "max_inclusive": -125
     },
     {
       "type": "minecraft:heightmap",

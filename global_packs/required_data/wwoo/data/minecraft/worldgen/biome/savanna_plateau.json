@@ -78,6 +78,18 @@
         "weight": 10,
         "minCount": 4,
         "maxCount": 4
+      },
+      {
+        "type": "minecraft:parrot",
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 40
+      },
+      {
+        "type": "minecraft:wolf",
+        "maxCount": 8,
+        "minCount": 4,
+        "weight": 2
       }
     ],
     "ambient": [
