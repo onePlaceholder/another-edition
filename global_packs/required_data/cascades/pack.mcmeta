@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "supported_formats": [
+      48,
+      61
+    ],
+    "pack_format": 48,
+    "description": "§bMaking Minecraft more inspiring!§f [1.21.x]"
+  }
+}

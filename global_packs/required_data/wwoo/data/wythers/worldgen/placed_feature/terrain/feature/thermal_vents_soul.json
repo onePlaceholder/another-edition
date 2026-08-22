@@ -6,7 +6,7 @@
         "fallback": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "minecraft:soul_sand"
+            "Name": "biomeswevegone:peat"
           }
         },
         "rules": [
@@ -36,7 +36,7 @@
                     ],
                     "blocks": [
                       "minecraft:dripstone_block",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {
@@ -48,7 +48,7 @@
                     ],
                     "blocks": [
                       "minecraft:dripstone_block",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {
@@ -60,7 +60,7 @@
                     ],
                     "blocks": [
                       "minecraft:dripstone_block",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {
@@ -72,7 +72,7 @@
                     ],
                     "blocks": [
                       "minecraft:dripstone_block",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {

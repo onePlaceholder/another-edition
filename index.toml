@@ -14,7 +14,7 @@ hash = "7867c8243b92c0d7bb93006d4da52b28c6fbab03167b620fcdbab7ca7fc79405"
 
 [[files]]
 file = "config/biome_replacer.properties"
-hash = "5de4b44b14f28920477c3be5dfb4a35a5866b0fcc3c7b00c534de1b40a7f145b"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/biomeswevegone/mob_spawn.json"
@@ -105,6 +105,582 @@ file = "global_packs/required_data/another_edition/pack.mcmeta"
 hash = "3ff25090f20d5ffee4f51b8686e80920531647ff42844320c1f295ef4d552d58"
 
 [[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/configured_feature/autumnal_forest_vegetation.json"
+hash = "628a56212b2af397f66e3ea350f0cc7014f17689a10833e8acffcb7c30bb4361"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/configured_feature/fancy_oak_bees_002_seasonal.json"
+hash = "109d406be63b3f484ce0397ddc6c20be1336637d8b05b69793d4f7777554faa7"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/configured_feature/fancy_oak_seasonal.json"
+hash = "bfed4dba1bead2430ce418f998d2465169f41844ba10e4648189850b04408f5e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/configured_feature/oak_seasonal.json"
+hash = "305c761726ad74b2a6c058e9db86065b71955da4bb8648a98b7a93d8856be52a"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/configured_feature/patch_grass.json"
+hash = "a36026a6e0f57433c902d4c056e1266cc2d6ac34cf97c308fcf55c54953c683e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/configured_feature/patch_temperate_rainforest_grass.json"
+hash = "313222650810e87b05b4c52421ff6726e43fe43ed85c370e37ccbafe46a7a5ec"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/configured_feature/trees_jungle.json"
+hash = "f48f06d70264ab7b00001c54e2d1f4e3848595d1d38a5fd72e19148772ada670"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/configured_feature/trees_rainforest.json"
+hash = "eaedd1cd7227887c96ca002ef04a5afda035e398bde03d82c1f86831ca47fb94"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/configured_feature/trees_seasonal_forest.json"
+hash = "d38d07ac8dcbf6eab50ae3e3c040c617d185187d4551f6ecd4f6ff63f5f7bbe1"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/caves/cheese.json"
+hash = "4b48ea53086fe9ea9102fa60f0205f656a5ec5a074e158b67b21372c56f0862f"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/caves/entrances.json"
+hash = "3b1f8c500c58b78810612e363c9201600b65749f8955bff098049d73edb39708"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/caves/layer.json"
+hash = "259c17d4b3428cbfc6fdaf857d72b382b23e545f211306ac96f40e3c28c6a5d4"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/caves/noodle.json"
+hash = "b8d630cdfa42fa9d2f10c1a0156211e04888bbe949a55909572862484d7777d5"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/caves/spaghetti.json"
+hash = "b2dac94e854edde0f1ed1556f842bea882bf9508089fa164088233d0767246b8"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/factor.json"
+hash = "28758370c2311f6f820e4ee9af06fa3ea1dfbe17030cf68908b5e2ff85aa3818"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/fluid_level_floodedness.json"
+hash = "26a8161b6c9e4a9ba148a8a57e1b828e8b1f027aa0f329f86046b70a5167e470"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/gravel_beach.json"
+hash = "97aeff3a0bc336ae938350b3a6fb6e6504f9e2470c298f004e7b5abdd27b70bc"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/river_carver/noise_selector.json"
+hash = "e7cf515783df2bbb92c107e2449430abe1e2725275835413eed3c49b88789993"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/river_carver/river_carver.json"
+hash = "13837415342ade6f339a7a0e6a00eda3fbac641b28f984f297fd879d38004fb1"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/rivers_extra_density.json"
+hash = "461507e9d24cc318f0aff657d275ca5e35217c3a1f1ec868ace404eee1b2ed43"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/density_function/overworld/vegetation.json"
+hash = "5639091a592752125c1a75cc12ac810264a4c5f04b5b13086327b47eceab1279"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/noise/gravel_beach.json"
+hash = "d398def44bda3849ab1185a85f1537d6bee8368398fc9f48904c689fae29f9c7"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/noise/sand_beach.json"
+hash = "d398def44bda3849ab1185a85f1537d6bee8368398fc9f48904c689fae29f9c7"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/autumnal_forest_vegetation.json"
+hash = "b500918214d273e9e466afc60f616dc4429391ead9c1310b111e1d0c0245fe22"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/fancy_oak_bees_002_seasonal.json"
+hash = "6d8e4442c4d0a3786e9c35928b1db25a1ff70ce4d2a3d47de8c76ed2f1ac9a44"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/fancy_oak_seasonal.json"
+hash = "183e3eaf5fbc1b5fdc9b97a1b7b5dcded97f3a6cb0c18a9525694a7865af30a2"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/oak_seasonal.json"
+hash = "8cb1e1071daba65ce6fcdd633fae6975f74a265408b2c1813539f9e4e0aa7db3"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/patch_grass_plain.json"
+hash = "c40fb5273f7da5c0e12e95009c4a006cdab445e6540d10103373493fec30334f"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/patch_grass_savanna.json"
+hash = "1961443fd5d66ecc682bfa91f6efc3fe8325ee4ca0be4aeb92a5c2916f39a2b2"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/patch_grass_temperate_rainforest.json"
+hash = "48489a8a677cc6f38fcf9269e5b4f2b08f416cfa654bbf717d582b2dc5ea5f38"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_birch.json"
+hash = "2fe39d8a708ba2ccf6b5688c378f75714a4e7443b6c008c2bd23303dce913910"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_birch_and_oak.json"
+hash = "36210ed59345abf32ce18f4e1da5b6b669bf80dd39236f1771e6f6c0ff5ecf83"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_flower_forest.json"
+hash = "690696cfc1dffd887e86bf52435e9f33a3132cd4903e4a54f35fbae835962cdd"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_grove.json"
+hash = "e9a993f51a388c3ce5bd695ac7842e536141fde6c0d002b312f6bb5af44577c4"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_jungle.json"
+hash = "1577fd7b861fae8e9be2ee033baccdd8e4b67bd0f691a6f8e1aa5d2ec45c4444"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_mangrove.json"
+hash = "4f282e878e7ce69fdd3cc1b07914e0d32192b024517b2a4cf547053285bd5080"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_meadow.json"
+hash = "494e07b75025c472da38badcc854e2adc15a4a5c66d8aca037dc23e964046d4e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_old_growth_pine_taiga.json"
+hash = "cb581cd49f6d6a4cbfd5149a4492f1685eea4b3aafac0019f89cc8f8e450111d"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_old_growth_spruce_taiga.json"
+hash = "2b8b0485f14403b60203dfe6c15aac13e8992b19bf4817b5fc5197ef60e6f24e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_plains.json"
+hash = "a03789585e04fee01856d473276401c30c450fc7552a300e33973c76f053d096"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_rainforest.json"
+hash = "e456c80a5bd1a2560562e816008d23c540dcb35683f1a675e085da6ab853b7d2"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_savanna.json"
+hash = "0d5159d8413f5402b9949b7a6f86dbe35fa9e8e201c885fe45c340edb55d4f9b"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_seasonal_forest.json"
+hash = "884b669ea757273776f4adcd9abc7e41e4852644b234425fc89313ffbdc1cf5c"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_snowy.json"
+hash = "23d748b91d2f3863e4efc89ae7ac785a6c5d423277d163062442a225cf55e07b"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_sparse_jungle.json"
+hash = "187d1460dc54cd5d84f0afe4da14dea496d486fd5edb04fcd94891ca1c38cf4c"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_swamp.json"
+hash = "f8532e8b8275f6ad1e81326b6e39f170e0d9ef7b53ea9a087009e57fe1ee64e6"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/hybrid_beta/worldgen/placed_feature/trees_taiga.json"
+hash = "eb1ff0998e3487e3f48c012043413895abbf7bbab2fc39bc3a28c9d97118882f"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/dimension/overworld.json"
+hash = "89463eafa0520f6209918aef0bd2f2b6bf95861bfb0e7ed7eb50cadae6c8740d"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/dimension_type/overworld.json"
+hash = "54424484db2b3c2da350e41233aa5bff0fd11b2ad72cf2325c49e78f2085abfe"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/tags/worldgen/biome/is_forest.json"
+hash = "e3a868566b660eee5426a2c4180c035b7e95d59d101d19ae947962e69a49069d"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/tags/worldgen/biome/is_jungle.json"
+hash = "e39941a4b867d5d5e541b390ace899ca420e63dd7c6dd16de703313d70443f62"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/badlands.json"
+hash = "0678553479f4ff446e10c8933896676083cbb76ad32604fdb0dfca80546b9e98"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/bamboo_jungle.json"
+hash = "e564cb151475e4f5d1869ee56ac8b22a4603b3a4cebeae54f2acf6f79f847d94"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/beach.json"
+hash = "081ff8b7e63666baefbdf411a5d386f6bc59691e61e83055625a6ba105a3c27f"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/birch_forest.json"
+hash = "9eca6fcc7a153c383fad1c051559d7f300d4ac46f025b1ca2b78cc699c523d2e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/cherry_grove.json"
+hash = "caa5bab3f50d729e38607cbe553650847d5f4e8d22f7d877ffe26a956e170dfc"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/cold_ocean.json"
+hash = "d54a0705474f1b4048340caadd1e82669f8e9354749d0fbb329f5eb6ef3b8416"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/dark_forest.json"
+hash = "1815498d55cc8fcf7481e9feb1c2e3cea1a6bcf78af808acbde1c3b9e37aff7d"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/deep_cold_ocean.json"
+hash = "b79414265be9c4230aed78134b22d37d0210d71167bc702f871df1161ff21fa7"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/deep_frozen_ocean.json"
+hash = "7efc4e25d71249b210944af93588764914760dc2b97f7c05c7716dee6067bcc1"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/deep_lukewarm_ocean.json"
+hash = "03ae56a80373658786d73a51aef4e475fd84400c1c9754e0258accc27f5780ee"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/deep_ocean.json"
+hash = "91c4d202f4e3cd24b3bed5b43d988d2fd190fef3ca2869b1578e458213aa8310"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/desert.json"
+hash = "a8290df1b1da77109d876c7b19e1a0781e7216c8a65e570b5fffebf1f639d217"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/dripstone_caves.json"
+hash = "14428e9ca98c1829fc6b1cf14dd6f016720349634c368bdcda457a2c08abdd50"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/eroded_badlands.json"
+hash = "7c68dbf664255d2245cb6f4c45ddfc10c7a328ff0f8818de7a2fc69e76c7c0eb"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/flower_forest.json"
+hash = "41b3414ab2eb346030cd4840dfd3f62d989cc970bdc5870f3d90f51294890e4a"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/forest.json"
+hash = "da21f7e5c5977e59dc2d5120161c4a2118ff61aa057679df6e6410daa158ce0a"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/frozen_ocean.json"
+hash = "1ce674eba5f63203910b076dd23b5dabecb4d893a0673b3df36483575303a50e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/frozen_peaks.json"
+hash = "bab5e2efe0ff4261b52e494c8ff082246f4ef75d38c472bfce8c2755c8ab5b51"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/frozen_river.json"
+hash = "02320ff1b915bbc8acbe7baffebf168780e871d17c9d09d3bf4cd50e1757e1df"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/grove.json"
+hash = "0286774f88152202a301afa9805ad34b847b4cea320c6e39f96f5087ffe14cee"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/ice_spikes.json"
+hash = "13f82fd11acffc332c1ab6656367c7d1706c0337a660580e18db69f3ded82665"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/jagged_peaks.json"
+hash = "8e230725f165b4499a330edc451fc8c44650b01dad38011ed20a2851afc24779"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/jungle.json"
+hash = "df980dcbefaf44c559f4bd4002f7353873ff633169a0487b6ffa93e43b5452a1"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/lukewarm_ocean.json"
+hash = "9e45543b89b606e09b940dc3b8c82df1d546731c512c21f3b81ff7fcc205d939"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/lush_caves.json"
+hash = "626a03564112f9510e446b5f4d6b662aef6f4425116305e57ea18bac94c93a38"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/mangrove_swamp.json"
+hash = "a7c5198994918526fd11fd740ede51087d4724e691d51cbdc34728fae2783930"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/meadow.json"
+hash = "199a831149befd9cc60c965ab32d2eccd0f924376b2afc52e30afb4d0d7fbf96"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/mushroom_fields.json"
+hash = "7f79039761e6e67c76fdcd65cde7ebaa14e37c0cbad9ab4c2820b0702ff901fc"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/ocean.json"
+hash = "8c3c1d06580b9d54c184e084d8ca80bd52b32c7bec7f85035677574b243404fa"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/old_growth_birch_forest.json"
+hash = "165689976f586a880c3444eaa029ad03ffe47ea9d76542c2943a89aeb14dbaa5"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/old_growth_pine_taiga.json"
+hash = "628766a34f7f7f6f9d70e60b0d42dabf6b3ed29fffcc327cc5d94ea082c8eb82"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/old_growth_spruce_taiga.json"
+hash = "43d8f741016a09d0278f91fd50425b38d493449e6a688b19fb04eac30aa02e0c"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/plains.json"
+hash = "2a5d3587c0b45d4ecde96b8d2fed5478865d68d6c3818ed871d1e82404b5db2e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/river.json"
+hash = "bae64690022b3988cf6776aaad6d44a505667e1cca5a0b046d02c5b537c79982"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/savanna.json"
+hash = "b78f6d98dd704749582e05a41dc418625c046c51ba34f664ed329bc763e4aa12"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/savanna_plateau.json"
+hash = "4e1042c6467e78c858b798dca84171081eb21de08c7444f708878dc24c443f8d"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/snowy_beach.json"
+hash = "ec3db2d980c5cdf3380a2d410a9301632e6ac4f7967ecf517dd2fdf1858e7939"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/snowy_plains.json"
+hash = "ad8a51efa0cfe230f17a0f892c88d884e7d9e9fa175d6f5de90b12ee5b585514"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/snowy_slopes.json"
+hash = "4e6f3614c7c973a6c7d1da6c223ad998051b09953623d17ac7a9ff8a61cda8be"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/snowy_taiga.json"
+hash = "55f7f649d1368901988da85fb2b0e9dbe2a667e439ef36375b8983a5a6ac40d3"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/stony_peaks.json"
+hash = "94b71f3b07b70e118fcdf3e7035b0b7f6406c85b35b47d82465017aac6220ef4"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/stony_shore.json"
+hash = "edae3e804251a470a28b4395b70b1303f379a9a40870a75267bd00b03cd29a00"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/sunflower_plains.json"
+hash = "39636974d9f8bce32e53cdddf4ae641a7a434090925c7afb31dbb61e8315a6aa"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/swamp.json"
+hash = "38108873c7ce8d5340e8e815d0a2f43c2578896570e354e4344f5b6b3067d9c8"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/taiga.json"
+hash = "324583de532f6af2d6477072fa8e58103395660fa9796569df6b1e8fb0a0460b"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/warm_ocean.json"
+hash = "2e148094c6e74a638e9b1b7b4a793ddc2ebfbf210a5d37a7e2aebb03ebe5e46b"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/windswept_gravelly_hills.json"
+hash = "bdb00c7d5f0d776d75fa5db9517973db36cc6483066354158f59874453b6b21e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/windswept_savanna.json"
+hash = "c63f78f824e0ddda07f4dc387d9fa7d86b4cdef8581d98a8ea9e551b3de6c92b"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/biome/wooded_badlands.json"
+hash = "f658a99784f666a221009e4fa81afa7924644574e35249e10e84fe2817afb0f2"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/caves/entrances.json"
+hash = "f92b181869375712268846f1fac620e750fd331cc38fdd12d84915d5aca9ae76"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/caves/noodle.json"
+hash = "050bdb9b04b7a2a3765460823e4f95805c294bd0234f40eb76446327edece778"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/caves/pillars.json"
+hash = "24ce67322f2d163fe3f8b6cb9c88b08cfa47f7524c1012566b1b0ce01ba12c90"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/caves/spaghetti_2d.json"
+hash = "64f17e438868ff14a18e017a357b06371ebf7f5846af295ce2467ca89fda04ab"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/caves/spaghetti_2d_thickness_modulator.json"
+hash = "e41f54b39ec00d43bf3d1b1c988f5bfbe68fbacc9e1042a3822daecb46b9f897"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/caves/spaghetti_roughness_function.json"
+hash = "b6d660c27b66eb617654da24041c6c88da755eba583cd9e0e2692984fe9fbfd6"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/continents.json"
+hash = "e8fb9760d521a5b7185a0e3aefa2489bd416fe9a0f18ce3b7a3e95a29e8f7e59"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/depth.json"
+hash = "ca9a7d4cbc8000bdc9ba31bab349309d31e8ce005033fb8ca70804df22a2c70f"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/erosion.json"
+hash = "d65b7a3530862da47156479d70b1fd6a4432a39817c36e0b9c9af1b47947e344"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/factor.json"
+hash = "3e65f1f170a769d840a446b305c577921af1c71d93206a3558257d9bc315d98e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/jaggedness.json"
+hash = "27031b05196a1b86672087113554ba7ba10f123dfd0e105388e003f5877fcbfa"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/offset.json"
+hash = "054ee17edbaa138478711ebdd9fcbbcad0ef918640551476023c160f96dd51bb"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/sloped_cheese.json"
+hash = "28d5a01a07f16ed4acbd31bc7c38a85091195671922e0639f244afde0230793c"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld_amplified/depth.json"
+hash = "bbf5c46d34f34009865f7618a7827637edf412b9dd23800b4c670508cef707f5"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld_amplified/factor.json"
+hash = "eba0c4b773c404b2e4b1fec1db943cd7448172661f10ae48e31b3c03a2b385cc"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld_amplified/jaggedness.json"
+hash = "20230738426c3e5df39812d153831302992f0b4c908eafda152add494b797a3d"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld_amplified/offset.json"
+hash = "e8084c7878845a9a4485967a0336556f6644216472af43c0c3b9982cb28be4fb"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld_amplified/sloped_cheese.json"
+hash = "57cda03ff2a40bceb3e7c7cae73469e229c702b34812229bf6d94235b74cd58f"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/shift_x.json"
+hash = "ab55564130965a5df7bb578a04b438a530f197c4fdabd35b4bdf30e84e4669d0"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/shift_z.json"
+hash = "603a6c4d11f8d4f16742dc4196193ecc60e0850c9d16feb1008f5bf860f28638"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/y.json"
+hash = "5ed09c041999cef58fe6e6206dbd7f95dfbcc310cef192057dde0c8e704acb74"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/continentalness.json"
+hash = "b9632b0228d8f2927aca494d958cdac10d265fc1e83e837ba0b58b22e9eae01f"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/continentalness_large.json"
+hash = "7b1603ab711c47e3b142d68fd6dbac5281c1da3de92d7d8c083f8f46a0753904"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/erosion.json"
+hash = "0444228573337a2d9f7ccaa73a78353de73283d58f1fe27ee5b27083cea044b9"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/erosion_large.json"
+hash = "a152550842a7126e9d627ef4564792bf35524c0a2b1725b7fe5c8d1975470d7e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/jagged.json"
+hash = "e176bb3cfab852e5b92cf91ea02ba5c650ea9475b8799da701fa728f61844b7c"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/offset.json"
+hash = "685ec5d37332a7bcc5aec62ee1835b69af9c1c0b8daf7411753713ad135da59a"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/ridge.json"
+hash = "62cf6eb0bf49b414e2ecdc8f29531d205a4a46482709f4869e87d77ce2e45f6e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/temperature.json"
+hash = "8f5c2fea9428deafd5831359a03104afa2b60de84e29e3c1db810cc38b0052e4"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/temperature_large.json"
+hash = "eb266cadc818706a4bd7c47906b63b6732b2050a8fa8f04606a1ff78f5ec5fca"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/vegetation.json"
+hash = "404eb9e94518246236aad8d23a06a7a27960b004454a10253035d5d188b8c951"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise/vegetation_large.json"
+hash = "d5fe0bb7722cc5599e46dcfd0400784d0a54769819cf6a2a7846fd657c59baa3"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise_settings/amplified.json"
+hash = "18a045595b19d326d0198f16bf90347d00ea6eed516a0a6ba0eb87b078a36b70"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise_settings/caves.json"
+hash = "892666f6e566934f015c9504d8e0668ab1f53573f04f3da54b948d0427b9c9ec"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise_settings/floating_islands.json"
+hash = "4433a0970aea30b5806a61badc771cb3becb46da69af4e7d6c553c34ba6907b3"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise_settings/large_biomes.json"
+hash = "8458dc43e1937ababa47fa5b1fc735b5d10371425fdbb2e8e5f476391c5827cf"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/noise_settings/overworld.json"
+hash = "ca9cc392e5d6d2c5da7de65a694d67bb2e038205bacb0e93bf4f9df170583780"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/structure/village_desert.json"
+hash = "a558ac3c16e18450bb54b68ce16db25bf147a5da633b940c92e86e15adc5c7a1"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/structure/village_plains.json"
+hash = "804eaa16796db37c2e3fa7d1eb176ed27afa89088257459ea32ee605db1eb4f4"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/structure/village_savanna.json"
+hash = "0fa8d5e256e2023baf0417ca530afaec0410b162eb0aeea6677966a73c00126e"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/structure/village_snowy.json"
+hash = "32f2255d755ba222cbcdfb4ec27912427351b508217b0232402d87e692e4510b"
+
+[[files]]
+file = "global_packs/required_data/cascades/data/minecraft/worldgen/structure/village_taiga.json"
+hash = "032d4eb361187b11afb51330855fb5f948f34a174b075dbb57a35d287e780014"
+
+[[files]]
+file = "global_packs/required_data/cascades/pack.mcmeta"
+hash = "8938b9af00b958b44cde3dc2b7d48d5b5608623859c3de2f26bba45e69c0b377"
+
+[[files]]
+file = "global_packs/required_data/cascades/pack.png"
+hash = "1365e74650124b938fcda0eb4c5e48ae423c58ab5f0ac02ba676cb85a3a9827f"
+
+[[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/decor/cherry_decor_1.nbt"
 hash = "8040fdc92b105d7b39285823c4103b3b710fb205f175de1c6a78404c37834444"
 
@@ -150,19 +726,19 @@ hash = "86240e55d71a8842169120a807ae58a2b6ece606fc2285b96972c1478ddc3d18"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_armorer.nbt"
-hash = "39cd6566bdb473250c4d8ab95b25eab7f2b3af5eee31f53514528813fa34243b"
+hash = "5310e157e70bc03137ce9a662e776d625f406d60a0b16cb8f26d79978d5ff8b5"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_big_house.nbt"
-hash = "22a9b2e795ea1025823e71aa761bcc56a03f34c9b678db779711204b8f0e9fda"
+hash = "55e8194beb653a8482bd90fc9a6561398b873534ee1811ed5636d605de61c99f"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_butcher.nbt"
-hash = "93962653acdd95ccb9a8a1438e4bd55f6ed0815679e4ab1dc9bfeffd4e18b2c0"
+hash = "be3aa1e07b3d10252b227add776614f5c56df522f92e95e2ea199716b73e881e"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_cartographer.nbt"
-hash = "aac46bca4d189b56f2c866bc8fd639f201e60b7d4c152c64b83dcc6ecd15a918"
+hash = "162e035c875c8fc9518224b7de51a25f21b393fd4110cf86a5f81e82ffaa2c7e"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_farm_1.nbt"
@@ -178,15 +754,15 @@ hash = "a92524b9e782b4222877e23e0f1f59562cdfb64bbeb7335bfd4a1b7ab5beb1c6"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_fletcher.nbt"
-hash = "1386d694617199da01ed14ab2ed05448fa59b443553a12985905cd98ae55d0e4"
+hash = "84bc94f829d4ef408c40b97254c74e12ab767835852db034c563b56b979b90d0"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_library.nbt"
-hash = "8ea4a96c207a910879220ca8deac0d65f77a296fde78870694bbfe2da000e8ef"
+hash = "6aed1c0a1cf76b30aca39bbe027728414993f3c4307e90b107d66da5e4aa69ca"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_mason.nbt"
-hash = "7e68ebed4e76a35123fdd52080d237f4b6859deb8f6ccffb9f2a6b8b26348995"
+hash = "6693b6b14d9af2255b57f90baec420ed1e934f82191e8a232400db4479d6c913"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_medium_house.nbt"
@@ -194,7 +770,7 @@ hash = "9422c71565c90a6e1f514f2c118b082f5f2bb0f05df9f46bb6898f7af2c9a914"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_pagoda.nbt"
-hash = "e7eee67b7e8a387d4e39bca7c2e9a4da65f1bdaa1d01217583c0bfedfe09256b"
+hash = "a2ee9ce9c9f072e5e57ce3f251003320ae0f6268c877e8dc6e6a117a68c224fa"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_shepherd.nbt"
@@ -218,15 +794,15 @@ hash = "336d21133a4b5f7b9a1fbe0d50ef70589442dac4c3003b905d9ecd8d159e176e"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_tannery.nbt"
-hash = "2c6a65e8dec65322ccb4313aab2f3dca957816834f75f7c2e7065f1433754eba"
+hash = "ebf22092d77a85d2479e85cc330a8da3b9aa3351b739a358e14c98519da3ca4a"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_toolsmith.nbt"
-hash = "cc2c3c0355d667015c6de2f384c418dfb73459a79e520cff4954b631b00436ed"
+hash = "e029d888cb600d5faa9897c7e5f5b49aba18757d2a6e5395f1c4cab66969010e"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/houses/cherry_weaponsmith.nbt"
-hash = "3e5e9bf12dde35c27153dfd809391c8d12da6f450a9ab9353c813c2e954632ec"
+hash = "bc9af1d5cdd57b1c2e2bcd0af5d8da8f2b6012a6062179c3c4c7beea35a574a5"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/cherry/streets/cherry_crossroad_1.nbt"
@@ -310,23 +886,23 @@ hash = "b6d8dad1df650b80b821bfad933c7d559d5c02bd6ce0a96250221e0bc6c44a09"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_armorer.nbt"
-hash = "7e82d08ffa60279d4a3a78dc07b8ccaf621c00aa5c0e075301bfbd7d3884a785"
+hash = "ceb6cf00d99fa541b6d001c9de19efe2e6325ed5b2a34179b384c976b78355f5"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_big_house.nbt"
-hash = "80a367e56eb58fb760ec476ccbad61d9c6bf7bb08c672119adc02ac3e58c0056"
+hash = "326a262ae349853f46382562f66d855682ced6aace551d35280ed3e423c4d6d2"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_butcher.nbt"
-hash = "be7992009af4308ae1437a7a27363f207ba91347ee0631720275b34766ac7613"
+hash = "0a7bf66917fd430e8425ae4344ca82be422784c9920b635313155dd8cc575c64"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_cartographer.nbt"
-hash = "3bbc596166131a131d34a00a7e643aa440f923c4713b0dc225cf39629591db62"
+hash = "e291c035b09f728f3e7ccbecdc4321be8ea21b3ae595c033d90d9e4d665ba293"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_church.nbt"
-hash = "3c2b7ddf7ebf49f3c2bf414dbd43088f01b0786c636ce66196f3b88937f09093"
+hash = "b42c8ce906add8cb48e204f1dc8cbe2edb982f8164918e9f531cce9c77a4e680"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_farm1.nbt"
@@ -342,19 +918,19 @@ hash = "a65eebd850852dccfc365c29eb967dfcc8292ad6c499339a4a5bfcfbb298c2b3"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_fletcher.nbt"
-hash = "6a7572a492d500ef8a8f29ffe347fd8dd516d4ad95d170f7a0f770c878d740ce"
+hash = "ef998d135c154350cab33024ee256d8265ec3bf8bc6d8d68ccfb80e4e6208d1d"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_library.nbt"
-hash = "d1315efbdd81bdeccc1cecd8d08db299ec114fe82add4709747414ef784bae05"
+hash = "bac4a5ceee6061e566ca3d95624cfcde0998d7f537c5965235ab6eca00ba25eb"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_mason.nbt"
-hash = "b749bd0339000a456a8ece4063f1ab5241f73ae7d9f6755bd5c44e080369d15d"
+hash = "217e2ad1666ebd140f003d82ab38ae48d588a3834a05607c4d309953ad7645db"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_medium_house_1.nbt"
-hash = "be3c1c114d0b5f976766600b7b0de4d1fe5e2827e096b8311d7b475d3c709fa1"
+hash = "7f62d7641e0d14942790a7514df33d9c3b482674e613e460c354c189478846c6"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_medium_house_2.nbt"
@@ -362,7 +938,7 @@ hash = "7ddb887f3d570b9ca8dc3cfbc45565df154718a5d27dc5d02f9faaf5c54bc2c9"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_shepherd.nbt"
-hash = "56c81d5d710baf20e4ccfb2a972b23117cdd7e4497a3fdcbec189289a06fcd4f"
+hash = "53480d3802b2b7a56eadeeb6726207e6dfea748f0caf4fc56c0d991a42023527"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_small_house_1.nbt"
@@ -386,15 +962,15 @@ hash = "bc71cd4dc45d3163a62547181e58b142ea5a55bc218a79499fd5532c779bba4a"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_tannery.nbt"
-hash = "bde3d9f2ac2a4b46caecb7a642bee723513c8ee064ab13bbda3d087fc284d307"
+hash = "15b61acbd0fa4243d80b1a8f1e832851a6a75acc7d508868b1013a99aad1ca50"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_toolsmith.nbt"
-hash = "fdac635a35535c825c2769118ad97a36b1f4c4bac22d7b4d09214991c6b7734f"
+hash = "05195203c9198c17eb8027f97028735c73282ce1a6b84b95ca404281fcb2baed"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/houses/swamp_weaponsmith.nbt"
-hash = "ffe2f2cc17c27c4774dac6e3a858479b140f5ca041b479f84ffba736f0fe70d3"
+hash = "70339dec8ce39e90bdb255e93a5bbabed1a2c5f593ba768faa5490ac9555385d"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/brutos/structure/village/swamp/streets/swamp_crossroad_1.nbt"
@@ -686,23 +1262,23 @@ hash = "c436e610b1eb5edc7ebe477f12b67ae776ed50ec27547628d150a769dfcbe7df"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_armorer.nbt"
-hash = "d75839303dd9c194966addeb29aa75bcd25c5147bf49123ddb38f84006673f40"
+hash = "ccbc856a37916d0a529112d791db27e5beaab438a68de79e014b0137904ff1b5"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_big_house.nbt"
-hash = "611d45206aee6c00214e84e60959d1f438df231015365a1db916807199bede84"
+hash = "2a49ff560b253f9cc58f42df29943094a007a8089f5d1992243a0bedf7bb362c"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_butcher.nbt"
-hash = "7a68db289288c6717c22d0fff70d5542b0f975b3a12e776528900309026d83b0"
+hash = "f34b8231bcd3fa3d2c59f3784e76e4714117faea9f81383c9da47a1c3d4598d3"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_cartographer.nbt"
-hash = "950c630f8e0081ea28f167d403beabe3c8069936f3e66ecbf3aed0f1803efc6f"
+hash = "942ff8d286096df4013f20983352e61c80bec9ce2c0136edbeb55a912800e88f"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_church.nbt"
-hash = "b8a9fb9ba3a98f67b562340fdffb56fc067da68c01ecaffcfb6b42335fc0d760"
+hash = "8fb13ef945d41b8755689b0cea8d2673c542454b124ab3f07b83033a60f12d6a"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_farm1.nbt"
@@ -722,15 +1298,15 @@ hash = "6c418db463ffddeade812ed267babe406bb5f1e80fcaca8ac919db4d200b949c"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_fletcher.nbt"
-hash = "1e6624c0b1a0d24d5c36c433d1cfa1507679f9e618eb61845ba5546825d1d1bf"
+hash = "bec921e929ff198168ec2a56f35b89df144f6e293c549b14fcefda10a46fad8e"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_library.nbt"
-hash = "70236ba309b501fc3a12853841f8c9a336d72d15e659ec1220ace5540edab70a"
+hash = "48a524a98a28ada281ff191b5fd325a6ab47f0e07dd80d495415f27332a87d15"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_mason.nbt"
-hash = "f6fd046a68bafe0d6e855a81725ae6e3ce640cf7456bebfb10fa7661e0c41eb5"
+hash = "65684556576773d9a0f500bcda39e4b7361ed9dff03aa25260de118931482a2a"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_medium_house.nbt"
@@ -778,15 +1354,15 @@ hash = "c1c589a3cd3eff7bb499fc561edd20f735d6831139dd60871c6c6a7dfeb00b25"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_tannery.nbt"
-hash = "8d6ab631045f665a3a36788ecda935ba533e0384fe7e9466a5ef6f1195b444b5"
+hash = "a3460abc61ab87b95f4a95ce063ed4cf45fccc1cdc5aa41bef68504f1d7e1e29"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_toolsmith.nbt"
-hash = "5f1262c4754dce84537f811ac76d2d858265e2844b854b09b57b68f2fd9b108b"
+hash = "7ca1d6d254a8ff9dd8d67c20a485a2f4a18f03c2cc3e096b7610d259c634a0f3"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/houses/desert_weaponsmith.nbt"
-hash = "18a479a70cfca1466832fe1284c73f523a673c5e3f2b7bc9a10685f5e52028b7"
+hash = "044516a97ebbaaaa9e79d12f8ae01ce0bf31ecd6c8a3bef7802a394be7f6a786"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/desert/streets/desert_crossroad.nbt"
@@ -874,23 +1450,23 @@ hash = "f56919da51d21c936c27c82ff0a552fb0ca90f70375ed99fc9d6ee35aea6ad0b"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_armorer.nbt"
-hash = "b009d0c0696a6c5374af05420ad6f733436fc316182081870891f894448e168d"
+hash = "aa31a1eba0cf03d3c3d38125a49fb1353790d3c44e5e4b32a898338995814ad6"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_big_house.nbt"
-hash = "548762a4c0da4733e4b85d259f384129a4229bba2f7dd64f1e8c9ddb55cc8266"
+hash = "8df1e50c29714f6f0e02511ca1ab37526e4dfd41ac6b3c492bb53bdcfe39e653"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_butcher.nbt"
-hash = "ba48a863fc94991041dfddc3047e092e25f0e799fd186ced019df1f18d2e6e7a"
+hash = "e77fb66c722c4fc345d17e62f89f90ffec44ddd998a6d186a89b44e272e09970"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_cartographer.nbt"
-hash = "d2e0c1231b6390874e8f919723440d7c87a88cd1bc963d7892b32f354d1fed6b"
+hash = "f82e32d0c79a510791a7d6e1e8cf31ecf49cb59805c4f27cb8c8fe19210117aa"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_church.nbt"
-hash = "564151dccfff82fab0a7b105d7da283679c03faf805c9d2735409c6a74061b60"
+hash = "c30137e2c098f7cb55d662dea8ffff3d26e5b6afa58d35692f7514d7c601efe0"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_farm1.nbt"
@@ -906,19 +1482,19 @@ hash = "68c1f605ff55659d3c64de84c59baf080d0117b48a4abf5b42be7c44e2babceb"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_fletcher.nbt"
-hash = "528b00f93a74d3f764951f93abcfec19bacf7a2d2399d968b32ec206a1ca1af3"
+hash = "8ccc9b1ab710ffb2e3c8b34e645dbcbf49733e991a75ff4c7e58416691d90b07"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_library.nbt"
-hash = "9a774486b7c8d5e04332b7e8bd158d9c4221b43ee455e710fb199b72b865486c"
+hash = "105f097642b862edf2de0aa0703131943039442e7acbda917e153bd50d763a2a"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_mason.nbt"
-hash = "51fc518d10a5840f232e838cc40ec6ec27276da42855726e3302d4cbcce3e885"
+hash = "d4d243bd90e5694489e8e335c21cd8e0042dd6a17fe6dc4d8e40094174417bd8"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_medium_house.nbt"
-hash = "39a99fd1b9852482a7862d7a41e87c1cfa7434b13dc75ba1d508ac247b83b6fd"
+hash = "998f4fd01001f155c63781de8da9063e407781c7f19463914c0d144264e52b7f"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_medium_house2.nbt"
@@ -930,7 +1506,7 @@ hash = "bf52e8492252f159d06f3b12aae2cc4375f583c4374cb1555eb32b7ea3d3867a"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_smallhouse.nbt"
-hash = "f8c2318c7fcdb4f8727caf1e1ebf2d53981b6c6e8cea6cc46bae6d20c93d0d7b"
+hash = "ce8bf8039b0b7fd1c167c4549f5ce2f7a24a272b4b4208b29818311e73397a24"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_smallhouse2.nbt"
@@ -942,7 +1518,7 @@ hash = "a85203a517f456be16711980b2d32861405cd662676c73ed6bab891186437160"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_smallhouse4.nbt"
-hash = "edb9b097da23694a8c4c41e9ce423a5e59f083b1f53521425c648bdaece10c01"
+hash = "ade4176e0de103764c1dc0ed228256ccf08648de051edc536c7b8c6b3b5ee377"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_stable.nbt"
@@ -950,15 +1526,15 @@ hash = "8faa2a0a56c0d5c93591fb8431acf09098f20b5aab61bd6adc13905a1ee23f05"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_tannery.nbt"
-hash = "afaebf917339ec43616bd26619602dc0eb0b39015369f6c69ac9019a7f93396a"
+hash = "cd9fab7975b0a9ff1b2cf4ff72e5877dbb689b8f839370aeaea4f25596641ae2"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_toolsmith.nbt"
-hash = "6c1a170f6fcd2236642038362b0bd31c63382f219c48c1968c447c862c16c9b6"
+hash = "c8d78751e96fe90b09205c56a014b47c2a05bc6e7bb838d60df32b53dda034f9"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/houses/plains_weaponsmith.nbt"
-hash = "44a69dc69e3142769f72171c83f62abb0095f9eb1c6ea7cd697e0b86c67215ca"
+hash = "abbb3be5ec91d262a11c2e5772b1b4a4d72ed02e58d8bf2d29c64bdb4fc32c7f"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/plains/plains_fisher.nbt"
@@ -1034,19 +1610,19 @@ hash = "c9b968c87fd34293f04814ef2dcebc6be4aafb305e1266ca4ba8980731018970"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_armorer.nbt"
-hash = "b2c7a32232348705914dc9dab9fef99f65ecb40ae113213033565d3d64392a99"
+hash = "816dda08a3a5ffc229edc6579de185226a0aa314a23b2f3c2e01d04cbe4eca97"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_big_house.nbt"
-hash = "f46dbfc9157d1a6c8ad4bacc47a5e90229c9bb3af4a26f3f44320d35ffb1c6f2"
+hash = "58991ae7782b41a3ce4efb6da15d73537046f2a5b8bc39e48dfa3d11d454315d"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_butcher.nbt"
-hash = "f26aebc9615240c04a0a3b5b75389bb92b81056abcee8b740bbffc61e125fa1e"
+hash = "26c474e75e4e36a3f9d753ba448dd9fabab2164b59838eea1a67f8f953df2d31"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_cartographer.nbt"
-hash = "82c0716e18103aa67a84db95db9bd81872e8f9dc4a3316ce7b17ea3dadca8d92"
+hash = "afb151d149cd941eabe565d5c75724d512e993a77ed9bb608b5b84160ec0172f"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_farm1.nbt"
@@ -1062,15 +1638,15 @@ hash = "5813093ff0cedc789d5f489c30e16cbfeec84068520f69e29bb4ea3408004a88"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_library.nbt"
-hash = "2abdf5ae1182c3460d00553489ab4e5af71c73dca30bae23e3598777edfe8558"
+hash = "3f9fe68d9e52bcd6384501c7683e9d23d0dbb4f8005b91adee1ef0e3b74787fd"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_mason.nbt"
-hash = "1d6e1400a6179aa5f247b72204d1bbf04e2cf2a57b015e13cf0c26b9f3941a9f"
+hash = "d165ba57acfb052505c6b0135f2a58bf64e6ca7fc05a869b2ab010ea4ae594fc"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_medium_house1.nbt"
-hash = "40d606e9098955052272e343c6499bbfb3e65d9327ac309b50d17ee92ceb2e62"
+hash = "689bb3f1429b75b78339df49b85890425ed6fa5268f7eba261615413561ec826"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_medium_house2.nbt"
@@ -1078,11 +1654,11 @@ hash = "b141670b9af404863ad6ab5234204e97789fd717ea7e23c5e2b80dc74d9b4003"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_shepherd.nbt"
-hash = "bf853b57779b56897dd9619d999bb4ad6a2053de4cd84f44673c207cb72ee59f"
+hash = "079849f952fb82cbe1af1a28564b4fc8b734d6ba170252c8826c1a958b8104bf"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_tannery.nbt"
-hash = "d75acf813e7a87ff19cdaac20c2dc851813d65fa34a2a932397f24d0a57661b9"
+hash = "4db9e156cc7daa4b871e351cc4f986e9637a91350977ecef4ef4045fc9a91890"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_teepee1.nbt"
@@ -1098,11 +1674,11 @@ hash = "e141ecbff133447acff7aeabc69dcebdb04ba262ff506a5ee70705de0d978d4a"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_temple.nbt"
-hash = "2c1e4c1554f1d5edf04e7291621365ee8aa3c0b022d9da0d11c1200640f907c6"
+hash = "b6e2d3985aa0341165606fbd36ede02dcc81fad70ee34453a394d159ad3256be"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_toolsmith.nbt"
-hash = "182b43a22f2d6c77c8ae5e91944d65e0d31aa8976c52e31741692adef0ce5f79"
+hash = "ae76faf152ec455149f949a77361103f72c01d87ee88c7d8c226017c1e2dbb5d"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/houses/savanna_weaponsmith.nbt"
@@ -1166,7 +1742,7 @@ hash = "af5e3863fe51ce5e2614b6b0946900ec62191b0182776cc7d5a22a8650b2bcfa"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/town_centers/savanna_totem.nbt"
-hash = "1645a4dff3a396f3786482e2fa69b053d2eda80905605da4f3279fb50ca6d5a9"
+hash = "d4499397660cd2e67970569e4d4949e0182ca5c6ea3826c0ac41d0c9939c9af0"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/savanna/town_centers/savanna_tree_crossing.nbt"
@@ -1202,7 +1778,7 @@ hash = "01b59bdd03609060194c96a9ebf8f60bc3881e18c26daa68aa4980ecd704b7ad"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_armorer.nbt"
-hash = "ac6a3c3f363685123afcf521e202564a384ef2b1c94b4cd9753faa7fa8d6a2f5"
+hash = "41b63cff2f2778cf2944a03e83d32b064a8d5375c7dba046782673ece25fccd5"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_butcher.nbt"
@@ -1210,7 +1786,7 @@ hash = "a39cb4d18a2e55af859060f154139059d54727bcc011e0a9c192c7709a613917"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_cartographer.nbt"
-hash = "9607a61653824cc6e6a605a316fe9d7c433bbfe702da1ba80c38aea8b81a7c1b"
+hash = "fdb074b3b5cfc411ede9b96abbcffe0041804eda409685ed381459bad5c23445"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_chicken_coop.nbt"
@@ -1222,19 +1798,19 @@ hash = "762127d99adcae975f8a993ee33e60635a6bf0f227c5d9da8446273a96dc6cec"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_fletcher.nbt"
-hash = "d8bc1c77b73337b6974b37da174d3e27f4989eb67f0b3ba5acfff41b8ca3c37f"
+hash = "2142683e06aa4805a084b2b18975b500338db1d7fbca06a3e055827c74d93f42"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_library.nbt"
-hash = "48766f6839e0761fb1f9467624877307d4f41badb820ffce3ec07696cfc48a6b"
+hash = "be38a5703abff0057e9bfbad2641633f802320f45ac3333d4cfeeddfca72bb2f"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_longhouse.nbt"
-hash = "8428b7269d750ea2abef67c6c2bd1afa2532d92f3244286f2dbab711df37f6a1"
+hash = "6f85f88e4bea0c520c4cf5d8dffbaa1e4cf7522e4c0d4b77ba2deb08411a3486"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_mason.nbt"
-hash = "f6eb527aa9df1faed71381e543454a25b5bb9b99255bd9fc5c393c0e963135fd"
+hash = "dd78fe999f7e27e9b54bda0151ab1ba1f6ad7fa40a15a24ea0c8948792573c10"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_medium_house_1.nbt"
@@ -1246,7 +1822,7 @@ hash = "bc384af11851d91ce24365a58e1b11c589612ddc586542ff1bde8d1d313f6305"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_shepherd.nbt"
-hash = "4b96ecf10c7b7cc5f017a6eb1be5964824c926ccdc7d3fe030a75c491772fb90"
+hash = "598f403efb18dd807e90f83b6918fe5a594aeff12736ee8ca07666ee668ce3a4"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_small_house_1.nbt"
@@ -1274,7 +1850,7 @@ hash = "478bb511377034b5f116c571015eb904c63b2d7d7de71c0a1300be176bb6436b"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_stave_church.nbt"
-hash = "99640e9c4f18c899680c1af14d0a8d5b54246c35530504fe645a7eece60ae7ba"
+hash = "c46a41a30f9d5cd90ba8a19070b7ec778a67406addc4269dec961d6c0a577ec4"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_tannery.nbt"
@@ -1282,11 +1858,11 @@ hash = "3d3a5da65be1c1a9cef68f1920dedea1ec899b4c4604f6ef6fd4946aec8919ed"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_toolsmith.nbt"
-hash = "419f28b5db9cec3ac8dfb10fc7af2d2d98fda94053256f4de530b8efeb0cedc8"
+hash = "0b8f43606313fe17e7bc0764956b52753b6f5d81c2616a4930c30296fdb78d24"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/houses/snowy_weaponsmith.nbt"
-hash = "24e2dcf39a548045f2d1ac5d8a3a1bb6360274b153013111533b938ce21cf301"
+hash = "f5e8f219afe7e6925012dc3c5d7af709d5facb447763d5377b29b43306ded841"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/snowy/streets/snowy_corner_1.nbt"
@@ -1386,23 +1962,23 @@ hash = "0f936f8345008e2d06c50939fb9f3c90d7dffba101dee791c99ee4b65cf94c51"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_armorer.nbt"
-hash = "f6a8672a50878368f562f30137b6b7d6e950a77d81be34db0fecd7abbc642e72"
+hash = "468c3543b5d4efd888c905bb9142b01fa293174459c36d0b9e26008219483c68"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_big_house.nbt"
-hash = "806c9436a0f0b2cfb8659823f9e1c6c78dea09dc875719c22a1bcaae52ed021a"
+hash = "b1fb4b62cbc7ea5701988c5b16672ac224e1f58210ec12b6e626f1186da29b85"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_butcher.nbt"
-hash = "34d49597fcd49dfc5a58340e5e17155ac5ecad49a0bac005832ad0545649dd22"
+hash = "871b09215e19fb795ca02708776fafe5fe3b52c7edb5547584e412c45799cc45"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_cartographer.nbt"
-hash = "64b97d65ee9e016545dd27d3ea726c1f5d1b04c4a8763d07fc6765738c5ce583"
+hash = "9c5adecfe44565f6cc77a5ec84d98cdd2796f47509d3eb88f23e582cfec96e40"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_church.nbt"
-hash = "08b8b20ce7994b6b70d127ec6c2f6d06d323404346d244e153cacdf06d18682c"
+hash = "a724910a02e73b09c23b96140c8c690a66dcd16bd49a8d2e855e130119f779da"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_farm1.nbt"
@@ -1422,15 +1998,15 @@ hash = "051126dbcd56b33d9b521e10a99f6d5d7c9a3fecf62c218b95f512d165204c8d"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_fletcher.nbt"
-hash = "b5c2d4f58bebcb78af1d0c9585558f35aec38ebeab1bc90dcf58936256f52b19"
+hash = "65cd960c8d18d559e604880732005050cd8bd061b6901622384c1d62213ed03f"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_library.nbt"
-hash = "dd563b396e4085a42f6e5727a0f77a8209b94395facbc30edeeac12e7db2a541"
+hash = "867422020f0de2e63a2fef0693fad3034ed25a9ce228ee819889b5d7a15b545a"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_mason.nbt"
-hash = "3662f27f7515b55869a53525d9b21a492393e84b06e6b9957f038919a4b136c8"
+hash = "4ccf5fe3fc682bc0347b80fc246f615fcf017ac3f62a556608d1a63d80c8f057"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_medium_house.nbt"
@@ -1466,15 +2042,15 @@ hash = "50d0598e932e40e4b9edc3afe9d713bf217eba08c63a85665700859092aae779"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_tannery.nbt"
-hash = "0f88b71b6d276ca20a5bce46290a97d9da2d8230562e595799379ba2d4f97219"
+hash = "75f22e3beda7867e0cdf492fb5287982d3cdeab9339e8c5e387a8afcaead59f6"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_toolsmith.nbt"
-hash = "797c3fe00a187d6ba6511c3fd34a37db8e1bca384d98dec32add5fac1a2eed81"
+hash = "1871f5c7e21b896176395ea1fc7d84173fd1e1a02a9229a603a4119756fccabf"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/houses/taiga_weaponsmith.nbt"
-hash = "47ffce39eeceaad039a602a690185dc18ae9ed70f856c297a145b3cec286d23a"
+hash = "a2c676104c8fd06fc0ad9dcc35d6755d68d4481f91bf7549ff259d7cadd0787c"
 
 [[files]]
 file = "global_packs/required_data/villages-revamped/data/minecraft/structure/village/taiga/streets/taiga_crossroad_1.nbt"
@@ -1866,7 +2442,7 @@ hash = "773463f69969e86ccd8e53f20cf927b1a773d3efb001cfc189398a1cbefb7ea8"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/flower_forest.json"
-hash = "ae3d8a1108410eb17d9034d4f2fe5e92f751581acae8f29393f4043af1e1e27d"
+hash = "9c60b6ed77edee5562c1211d49d5f13e7b0afd046aeac9e2a502334b86cfcf0e"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/forest.json"
@@ -1890,7 +2466,7 @@ hash = "a51ae006d8479a88e83d19adfd8d4ce00d3e1ca445e210187fc9346d23587d61"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/ice_spikes.json"
-hash = "af6c1696b15fdaf8a81d759f977cf0d1f7b90f7d256571e3f12a64c5e960d75c"
+hash = "fbcc86d9474a4e4e46e3545881c5223d63993c413f0c60416951ea31121f1530"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/jagged_peaks.json"
@@ -1902,7 +2478,7 @@ hash = "fe780d953c3f7b4bdd12c36b3f99e80ac1d6e53cc43be9d30d46e61cdf3603ca"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/lukewarm_ocean.json"
-hash = "309bfde8de0d7812320e7b72bdbf7fdcf6f7f9c419233e22fe640832074d7f1c"
+hash = "ed6e36d3fba5de3688e78902353e46593524e9cf11637b15a07d51487273f1f5"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/lush_caves.json"
@@ -1958,7 +2534,7 @@ hash = "557331409ad582cc4ae73460cb4bc673e0eb121ebd7e568132c4b6dae3e92323"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/snowy_slopes.json"
-hash = "b499b33e8f65c088f222a840a731ce73b0de28fa39d2bef4f142f0403b0dbfe5"
+hash = "4b82cd0431c8fdfafe1850c9a81dc06673e08346a4446f8ca3c3e3e43d0028bb"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/snowy_taiga.json"
@@ -1970,7 +2546,7 @@ hash = "aa9e23a65b34218508d985fd83b54633bdb1088485bc3931206e53f9e63fa0f5"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/stony_peaks.json"
-hash = "47c2a0d6bc497e3313fe77b2d41b64e551085ba7d7958cc843366fa942c46f46"
+hash = "3d182f1cf33b5f4204cb7cb5d9ca4a4f2cc244175f083e276142dff01dedc035"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/stony_shore.json"
@@ -1986,7 +2562,7 @@ hash = "32a0dee9d7281f1f4bb837ffd2d9a0f47f803b685f2465d80a59fa0954dfc00d"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/taiga.json"
-hash = "9020f69e71748dba343f1dd13d1a4ee33ed3c22145560e9a9ff307a55b4d7cc5"
+hash = "9226705dca8ac085f03550e0bd59a2e2b72c5a562e79c18af3e75d26ba9fc606"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/warm_ocean.json"
@@ -2002,7 +2578,7 @@ hash = "097c21cf11c6fc2d4ca091687706085d19bd60e1addd61e5a64aae324a3ec957"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/windswept_hills.json"
-hash = "24f9376296610e95ed5b6ea0b4e03f3e93e74f213246d48db31b2a31594a170a"
+hash = "150a6f6bd3f7aa2737ad01bed5e68fd10674cea34837b8bb63ae3dffed5acac5"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/minecraft/worldgen/biome/windswept_savanna.json"
@@ -3374,7 +3950,7 @@ hash = "11fcb2bfd58234187b09bdd0650628c5b4e2ab052c9e16cf05c44115abe7aeea"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/vegetation/tree/marula.json"
-hash = "ffb75631a98790593628d2c163fd165f03d7ac24e892fc6f03887737f294211e"
+hash = "93f23bc3f3432bd6545db7542994bfe887b4008165105ce8f83f6aeae6c5c171"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/vegetation/tree/mediterranean_cypress.json"
@@ -3613,16 +4189,8 @@ file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/dec
 hash = "08a92954f3b3179c0bbe09ba5a877f55b86f0756beb06b40398e9fc6c24269b9"
 
 [[files]]
-file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/decor/dense_steam.json"
-hash = "66f442c086d6f916c47c8ccd240046492eb1f01180a91c667b5d7ea529f91557"
-
-[[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/decor/desert.json"
 hash = "60e1a7a46df780216cc05e4b3596d091f5efd7ea0fe99ed53e4bf1a8d47b49e9"
-
-[[files]]
-file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/decor/sparse_steam.json"
-hash = "68633506b1db005cf5e93e0672e41b118575fc4c8a13d5962533622bf8540851"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/farm/harvest_fields_1.json"
@@ -3890,7 +4458,7 @@ hash = "4806e5759432ce1242d7cdf47ff332feeed32d4e3a7586d59af5aa8845c9678f"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/extended/gravelify_packed_mud.json"
-hash = "fa5ed907581df99a9bf8792718c6594665649ae45cbdece120f4fd88507bf172"
+hash = "441ad768b5a9aeac73a5707dbd3a7f87b3043e34300255abe988e9e8e3fc7fc8"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/extended/mangrove_swamp_savanna_filler.json"
@@ -4150,11 +4718,11 @@ hash = "6a898515ddf189a995f02c5f5f13e96be19adc770715e47dacc234f49b6a73bf"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/feature/thermal_vents_mounds.json"
-hash = "a3cb9eff651f0e741b44db7733f829f290f7e23b22143ed42f09feb8eacadde6"
+hash = "504efb8dfca10b6bff1f26e8c33cbd947e9ebfd541ccb2fd86270ab2d045a820"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/feature/thermal_vents_soul.json"
-hash = "529dc16ca84bd733474ce1f238c70e4327dccee8c11c056acd96adfbb139de04"
+hash = "ad2309ca07c814263a335c88e821c0fb24b90a28a803134c70541d84fa99cdc3"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/feature/tuff_spikes.json"
@@ -4670,7 +5238,7 @@ hash = "2f014ca06fbca3e5c9dc312dfbfef8457873ef5ea92d8c93723ab23f9c762333"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/thermal_savanna_soul.json"
-hash = "706bc01c2301b26c6a1e3b9d9741e15c6cd83df82ebde2deb8c8bc6cd227a25b"
+hash = "a3e4ee52ca8648a6d55218ab495d53b26508cf7bf84c213331cd7662527b3a53"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/thermal_steppe_brown.json"
@@ -4686,7 +5254,7 @@ hash = "4959df650594d8f780f8f8494a184be4fbfdbce95e99b2258bd3c42b0a99dbd4"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/thermal_steppe_gray.json"
-hash = "0e04291904adcf746f21b7db660d4385dacd91e57dbdf2aff5909e20194745c0"
+hash = "23cb4e5a0c2c0951eb1e6f9dd26b3e106731d125e0f4c7eff2440a39439e4ac7"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/thermal_steppe_mud.json"
@@ -4694,7 +5262,7 @@ hash = "1a02dc5f6ccf365dae3bfe23576c75e9fae8312e23b46eaac1bcd8ba85ce9085"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/thermal_steppe_soul.json"
-hash = "a6a1a0efe560387b7af174e3aa8b178da07c12cf6bd9371cf9bfdb0a0d82cbe4"
+hash = "9b48479a2c6cd8d07e3685f44dc90c8d8571cfb46e8b45c1290fb2878eea321a"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/thermal_taiga_disk_terracotta_orange.json"
@@ -5159,10 +5727,6 @@ hash = "69c6f05e985294150259cd24d251250c34df53914f7751add0e826f3ef43e667"
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/patch/oasis_vegetation_moss.json"
 hash = "f5e2eb6791485efa56e7606dfdb45b3da94d87a1cd7cd8350a2cca699126e01c"
-
-[[files]]
-file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/patch/pineapples.json"
-hash = "4b7b53b5229565cc46f102e32f0bd4cd7cc7aeaa1fdb98dcd6e2f7da5f761f48"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/patch/red_coral.json"
@@ -5863,11 +6427,6 @@ metafile = true
 [[files]]
 file = "mods/hisuis-backpacks.mr.pw.toml"
 hash = "c1924c3c43bbd640b03786394bddd9d5cf3e984694741f6ea273337ae8b0155f"
-metafile = true
-
-[[files]]
-file = "mods/hybrid-beta.pw.toml"
-hash = "1ad92ffac4c6bd88c6479464cc36fd4c61e3432a6a82039b95f13d96b6326e14"
 metafile = true
 
 [[files]]

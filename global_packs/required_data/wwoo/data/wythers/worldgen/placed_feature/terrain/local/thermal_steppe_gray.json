@@ -105,7 +105,7 @@
                       "minecraft:brown_terracotta",
                       "minecraft:gray_terracotta",
                       "minecraft:air",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {
@@ -145,7 +145,7 @@
                       "minecraft:brown_terracotta",
                       "minecraft:gray_terracotta",
                       "minecraft:air",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {
@@ -159,7 +159,7 @@
                       "minecraft:brown_terracotta",
                       "minecraft:gray_terracotta",
                       "minecraft:air",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {
@@ -173,7 +173,7 @@
                       "minecraft:brown_terracotta",
                       "minecraft:gray_terracotta",
                       "minecraft:air",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   }
                 ]

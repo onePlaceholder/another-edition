@@ -215,8 +215,7 @@
       "wythers:terrain/feature/thermal_savanna_dripstone_spikes"
     ],
     [
-      "minecraft:freeze_top_layer",
-      "wythers:decor/dense_steam"
+      "minecraft:freeze_top_layer"
     ]
   ]
 }

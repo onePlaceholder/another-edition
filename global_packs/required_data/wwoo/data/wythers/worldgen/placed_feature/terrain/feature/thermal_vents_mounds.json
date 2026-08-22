@@ -92,7 +92,7 @@
           0
         ],
         "blocks": [
-          "minecraft:soul_sand",
+          "biomeswevegone:peat",
           "minecraft:dripstone_block"
         ]
       }

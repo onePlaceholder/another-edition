@@ -211,8 +211,7 @@
       "minecraft:red_mushroom_normal"
     ],
     [
-      "minecraft:freeze_top_layer",
-      "wythers:decor/sparse_steam"
+      "minecraft:freeze_top_layer"
     ]
   ]
 }
