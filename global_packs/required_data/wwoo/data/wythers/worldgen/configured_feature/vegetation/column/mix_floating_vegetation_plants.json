@@ -40,7 +40,7 @@
                   0,
                   0
                 ],
-                "blocks": "minecraft:azalea_leaves"
+                "blocks": "biomeswevegone:water_silk"
               }
             },
             {
@@ -145,7 +145,7 @@
                   0,
                   0
                 ],
-                "blocks": "minecraft:azalea_leaves"
+                "blocks": "biomeswevegone:water_silk"
               }
             },
             {
@@ -250,7 +250,7 @@
                   0,
                   0
                 ],
-                "blocks": "minecraft:azalea_leaves"
+                "blocks": "biomeswevegone:water_silk"
               }
             },
             {
@@ -355,7 +355,7 @@
                   0,
                   0
                 ],
-                "blocks": "minecraft:azalea_leaves"
+                "blocks": "biomeswevegone:water_silk"
               }
             },
             {
@@ -459,7 +459,7 @@
               0,
               0
             ],
-            "blocks": "minecraft:azalea_leaves"
+            "blocks": "biomeswevegone:water_silk"
           }
         },
         {

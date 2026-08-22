@@ -140,22 +140,6 @@
             {
                 "type": "minecraft:leave_vine",
                 "probability": 0.25
-            },
-            {
-                "type": "minecraft:attached_to_leaves",
-                "probability": 0.0025,
-                "exclusion_radius_xz": 1,
-                "exclusion_radius_y": 0,
-                "required_empty_blocks": 2,
-                "block_provider": {
-                    "type": "minecraft:simple_state_provider",
-                    "state": {
-                        "Name": "minecraft:white_wool"
-                    }
-                },
-                "directions": [
-                    "down"
-                ]
             }
         ]
     }

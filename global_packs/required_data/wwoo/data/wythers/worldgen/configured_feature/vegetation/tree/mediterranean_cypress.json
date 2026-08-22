@@ -32,7 +32,7 @@
                         "trunk_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:stripped_spruce_log",
+                            "Name": "biomeswevegone:pine_log",
                             "Properties": {
                               "axis": "y"
                             }
@@ -41,7 +41,7 @@
                         "foliage_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:spruce_leaves",
+                            "Name": "biomeswevegone:pine_leaves",
                             "Properties": {
                               "distance": "6",
                               "persistent": "false",
@@ -89,7 +89,7 @@
                     "trunk_provider": {
                       "type": "minecraft:simple_state_provider",
                       "state": {
-                        "Name": "minecraft:stripped_spruce_log",
+                        "Name": "biomeswevegone:pine_log",
                         "Properties": {
                           "axis": "y"
                         }
@@ -98,7 +98,7 @@
                     "foliage_provider": {
                       "type": "minecraft:simple_state_provider",
                       "state": {
-                        "Name": "minecraft:spruce_leaves",
+                        "Name": "biomeswevegone:pine_leaves",
                         "Properties": {
                           "distance": "6",
                           "persistent": "false",
@@ -178,7 +178,7 @@
                         "trunk_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:stripped_spruce_log",
+                            "Name": "biomeswevegone:pine_log",
                             "Properties": {
                               "axis": "y"
                             }
@@ -187,7 +187,7 @@
                         "foliage_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:spruce_leaves",
+                            "Name": "biomeswevegone:pine_leaves",
                             "Properties": {
                               "distance": "6",
                               "persistent": "false",
@@ -235,7 +235,7 @@
                     "trunk_provider": {
                       "type": "minecraft:simple_state_provider",
                       "state": {
-                        "Name": "minecraft:stripped_spruce_log",
+                        "Name": "biomeswevegone:pine_log",
                         "Properties": {
                           "axis": "y"
                         }
@@ -244,7 +244,7 @@
                     "foliage_provider": {
                       "type": "minecraft:simple_state_provider",
                       "state": {
-                        "Name": "minecraft:spruce_leaves",
+                        "Name": "biomeswevegone:pine_leaves",
                         "Properties": {
                           "distance": "6",
                           "persistent": "false",
@@ -324,7 +324,7 @@
                         "trunk_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:stripped_spruce_log",
+                            "Name": "biomeswevegone:pine_log",
                             "Properties": {
                               "axis": "y"
                             }
@@ -333,7 +333,7 @@
                         "foliage_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:spruce_leaves",
+                            "Name": "biomeswevegone:pine_leaves",
                             "Properties": {
                               "distance": "6",
                               "persistent": "false",
@@ -382,7 +382,7 @@
                         "trunk_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:stripped_spruce_log",
+                            "Name": "biomeswevegone:pine_log",
                             "Properties": {
                               "axis": "y"
                             }
@@ -391,7 +391,7 @@
                         "foliage_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:spruce_leaves",
+                            "Name": "biomeswevegone:pine_leaves",
                             "Properties": {
                               "distance": "6",
                               "persistent": "false",
@@ -440,7 +440,7 @@
                     "trunk_provider": {
                       "type": "minecraft:simple_state_provider",
                       "state": {
-                        "Name": "minecraft:stripped_spruce_log",
+                        "Name": "biomeswevegone:pine_log",
                         "Properties": {
                           "axis": "y"
                         }
@@ -449,7 +449,7 @@
                     "foliage_provider": {
                       "type": "minecraft:simple_state_provider",
                       "state": {
-                        "Name": "minecraft:spruce_leaves",
+                        "Name": "biomeswevegone:pine_leaves",
                         "Properties": {
                           "distance": "6",
                           "persistent": "false",
@@ -529,7 +529,7 @@
                         "trunk_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:stripped_spruce_log",
+                            "Name": "biomeswevegone:pine_log",
                             "Properties": {
                               "axis": "y"
                             }
@@ -538,7 +538,7 @@
                         "foliage_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:spruce_leaves",
+                            "Name": "biomeswevegone:pine_leaves",
                             "Properties": {
                               "distance": "6",
                               "persistent": "false",
@@ -587,7 +587,7 @@
                         "trunk_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:stripped_spruce_log",
+                            "Name": "biomeswevegone:pine_log",
                             "Properties": {
                               "axis": "y"
                             }
@@ -596,7 +596,7 @@
                         "foliage_provider": {
                           "type": "minecraft:simple_state_provider",
                           "state": {
-                            "Name": "minecraft:spruce_leaves",
+                            "Name": "biomeswevegone:pine_leaves",
                             "Properties": {
                               "distance": "6",
                               "persistent": "false",
@@ -645,7 +645,7 @@
                     "trunk_provider": {
                       "type": "minecraft:simple_state_provider",
                       "state": {
-                        "Name": "minecraft:stripped_spruce_log",
+                        "Name": "biomeswevegone:pine_log",
                         "Properties": {
                           "axis": "y"
                         }
@@ -654,7 +654,7 @@
                     "foliage_provider": {
                       "type": "minecraft:simple_state_provider",
                       "state": {
-                        "Name": "minecraft:spruce_leaves",
+                        "Name": "biomeswevegone:pine_leaves",
                         "Properties": {
                           "distance": "6",
                           "persistent": "false",
@@ -733,7 +733,7 @@
                     "trunk_provider": {
                       "type": "minecraft:simple_state_provider",
                       "state": {
-                        "Name": "minecraft:stripped_spruce_log",
+                        "Name": "biomeswevegone:pine_log",
                         "Properties": {
                           "axis": "y"
                         }
@@ -742,7 +742,7 @@
                     "foliage_provider": {
                       "type": "minecraft:simple_state_provider",
                       "state": {
-                        "Name": "minecraft:spruce_leaves",
+                        "Name": "biomeswevegone:pine_leaves",
                         "Properties": {
                           "distance": "6",
                           "persistent": "false",
@@ -790,7 +790,7 @@
                 "trunk_provider": {
                   "type": "minecraft:simple_state_provider",
                   "state": {
-                    "Name": "minecraft:stripped_spruce_log",
+                    "Name": "biomeswevegone:pine_log",
                     "Properties": {
                       "axis": "y"
                     }
@@ -799,7 +799,7 @@
                 "foliage_provider": {
                   "type": "minecraft:simple_state_provider",
                   "state": {
-                    "Name": "minecraft:spruce_leaves",
+                    "Name": "biomeswevegone:pine_leaves",
                     "Properties": {
                       "distance": "6",
                       "persistent": "false",
