@@ -4,13 +4,13 @@
     "barrier": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:calcite"
+        "Name": "biomeswevegone:white_sandstone"
       }
     },
     "fluid": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:white_concrete_powder"
+        "Name": "biomeswevegone:white_sand"
       }
     }
   }

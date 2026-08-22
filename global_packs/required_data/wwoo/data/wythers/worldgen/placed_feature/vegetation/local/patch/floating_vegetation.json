@@ -15,18 +15,13 @@
                 {
                   "weight": 10,
                   "data": {
-                    "Name": "minecraft:azalea_leaves",
-                    "Properties": {
-                      "distance": "1",
-                      "persistent": "true",
-                      "waterlogged": "true"
-                    }
+                    "Name": "biomeswevegone:water_silk"
                   }
                 },
                 {
                   "weight": 1,
                   "data": {
-                    "Name": "minecraft:water",
+                    "Name": "minecraft:air",
                     "Properties": {
                       "level": "0"
                     }
@@ -52,13 +47,13 @@
           {
             "type": "minecraft:block_predicate_filter",
             "predicate": {
-              "type": "minecraft:matching_fluids",
+              "type": "minecraft:matching_blocks",
               "offset": [
                 0,
                 0,
                 0
               ],
-              "fluids": "minecraft:water"
+              "blocks": "minecraft:air"
             }
           },
           {
@@ -81,7 +76,7 @@
                 "type": "minecraft:matching_blocks",
                 "offset": [
                   0,
-                  -4,
+                  -5,
                   0
                 ],
                 "blocks": [
