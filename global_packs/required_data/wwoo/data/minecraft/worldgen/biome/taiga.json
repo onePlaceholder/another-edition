@@ -223,8 +223,7 @@
       "wythers:terrain/local/snow_blocks",
       "wythers:vegetation/local/patch/grass_and_ferns_range",
       "wythers:vegetation/local/patch/berry_range",
-      "wythers:vegetation/local/patch/large_fern_taiga",
-      "wythers:decor/sparse_steam"
+      "wythers:vegetation/local/patch/large_fern_taiga"
     ]
   ]
 }

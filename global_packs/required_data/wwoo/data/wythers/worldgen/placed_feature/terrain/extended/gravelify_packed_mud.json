@@ -35,7 +35,7 @@
         {
           "target": {
             "predicate_type": "minecraft:block_match",
-            "block": "minecraft:soul_sand"
+            "block": "biomeswevegone:peat"
           },
           "state": {
             "Name": "minecraft:gravel"

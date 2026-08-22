@@ -189,7 +189,6 @@
       "minecraft:freeze_top_layer",
       "wythers:terrain/local/snow_blocks",
       "wythers:vegetation/local/patch/grass_forest",
-      "wythers:decor/dense_steam",
       "wythers:terrain/local/snowy_slopes"
     ]
   ]

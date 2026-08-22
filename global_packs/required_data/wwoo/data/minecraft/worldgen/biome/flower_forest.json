@@ -107,8 +107,7 @@
       "wythers:terrain/local/pamukkale_diorite",
       "wythers:terrain/local/pamukkale_calcite",
       "wythers:terrain/local/pamukkale_pools",
-      "wythers:terrain/extended/volcanic_extinction",
-      "wythers:decor/dense_steam"
+      "wythers:terrain/extended/volcanic_extinction"
     ]
   ],
   "has_precipitation": true,

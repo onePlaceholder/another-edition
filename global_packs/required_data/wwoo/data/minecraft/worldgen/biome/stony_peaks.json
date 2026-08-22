@@ -99,8 +99,7 @@
       "wythers:vegetation/local/patch/grass_standard"
     ],
     [
-      "minecraft:freeze_top_layer",
-      "wythers:decor/sparse_steam"
+      "minecraft:freeze_top_layer"
     ]
   ],
   "has_precipitation": true,

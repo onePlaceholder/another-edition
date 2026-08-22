@@ -6,7 +6,7 @@
         "fallback": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "minecraft:soul_sand"
+            "Name": "biomeswevegone:peat"
           }
         },
         "rules": [
@@ -25,7 +25,7 @@
                     ],
                     "blocks": [
                       "minecraft:gray_terracotta",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {
@@ -37,7 +37,7 @@
                     ],
                     "blocks": [
                       "minecraft:gray_terracotta",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {
@@ -49,7 +49,7 @@
                     ],
                     "blocks": [
                       "minecraft:gray_terracotta",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {
@@ -61,7 +61,7 @@
                     ],
                     "blocks": [
                       "minecraft:gray_terracotta",
-                      "minecraft:soul_sand"
+                      "biomeswevegone:peat"
                     ]
                   },
                   {
