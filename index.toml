@@ -26,7 +26,7 @@ hash = "776c17c445215cddd78b1eef51e324d81dc6561fbd7aeaab9af092d2aa8b2cad"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json"
-hash = "3675ee391359f7665cf4164154d00a8c9254c6aebcf08e9ed6c5e46f4a5296c4"
+hash = "8b8b26bc63bb46f272d94b21cd06ed58b0fd662504aa0cd64529f4f459925db6"
 
 [[files]]
 file = "config/create-client.toml"
@@ -402,19 +402,19 @@ hash = "d65b7a3530862da47156479d70b1fd6a4432a39817c36e0b9c9af1b47947e344"
 
 [[files]]
 file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/factor.json"
-hash = "3e65f1f170a769d840a446b305c577921af1c71d93206a3558257d9bc315d98e"
+hash = "c62b36cd1c69fc35bdfa5a7cfe76bd30960d5433cb93d311a3b0ee5c18c2fb97"
 
 [[files]]
 file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/jaggedness.json"
-hash = "27031b05196a1b86672087113554ba7ba10f123dfd0e105388e003f5877fcbfa"
+hash = "888c61c569cc05beff1e1eafccaf3ee2d5d7673535455b4c0f5d59d4ae6d2684"
 
 [[files]]
 file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/offset.json"
-hash = "054ee17edbaa138478711ebdd9fcbbcad0ef918640551476023c160f96dd51bb"
+hash = "bf62d37a983918c17fbbee0b30c873b9443245d87b9e5dd59e0ad839bdf4a3a1"
 
 [[files]]
 file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/overworld/sloped_cheese.json"
-hash = "28d5a01a07f16ed4acbd31bc7c38a85091195671922e0639f244afde0230793c"
+hash = "ee60e501c4ad50bd3d2776398555920b381190e608cce283a767e602f7024258"
 
 [[files]]
 file = "global_packs/required_data/cascades/data/minecraft/worldgen/density_function/shift_x.json"
@@ -6157,6 +6157,21 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.mr.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library.pw.toml"
+hash = "276e79d919c3a698ab2881d784544b7e60bef69b43f44808353bb65d38633cb3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests.pw.toml"
+hash = "7baf8ef642d3c40608b344fbbfe3634c09b38f8670099b2f307df8f7a4143d99"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
 
 [[files]]

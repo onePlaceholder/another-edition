@@ -16,7 +16,7 @@
           "argument2": {
             "type": "minecraft:spline",
             "spline": {
-              "coordinate": "minecraft:overworld_large_biomes/continents",
+              "coordinate": "minecraft:overworld/continents",
               "points": [
                 {
                   "derivative": 0.0,
@@ -27,7 +27,7 @@
                   "derivative": 0.0,
                   "location": 0.03,
                   "value": {
-                    "coordinate": "minecraft:overworld_large_biomes/erosion",
+                    "coordinate": "minecraft:overworld/erosion",
                     "points": [
                       {
                         "derivative": 0.0,
@@ -155,7 +155,7 @@
                   "derivative": 0.0,
                   "location": 0.65,
                   "value": {
-                    "coordinate": "minecraft:overworld_large_biomes/erosion",
+                    "coordinate": "minecraft:overworld/erosion",
                     "points": [
                       {
                         "derivative": 0.0,
