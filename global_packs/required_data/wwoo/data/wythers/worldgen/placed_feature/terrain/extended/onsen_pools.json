@@ -6,11 +6,7 @@
                 "fallback": {
                     "type": "minecraft:simple_state_provider",
                     "state": {
-                        "Name": "minecraft:light",
-                        "Properties": {
-                            "level": "1",
-                            "waterlogged": "true"
-                        }
+                        "Name": "minecraft:water"
                     }
                 },
                 "rules": []
@@ -28,7 +24,7 @@
                         "blocks": [
                             "minecraft:deepslate",
                             "minecraft:calcite",
-                            "minecraft:light"
+                            "minecraft:water"
                         ]
                     },
                     {
@@ -41,7 +37,7 @@
                         "blocks": [
                             "minecraft:deepslate",
                             "minecraft:calcite",
-                            "minecraft:light"
+                            "minecraft:water"
                         ]
                     },
                     {
@@ -66,7 +62,7 @@
                         "blocks": [
                             "minecraft:deepslate",
                             "minecraft:calcite",
-                            "minecraft:light"
+                            "minecraft:water"
                         ]
                     },
                     {
@@ -79,7 +75,7 @@
                         "blocks": [
                             "minecraft:deepslate",
                             "minecraft:calcite",
-                            "minecraft:light"
+                            "minecraft:water"
                         ]
                     },
                     {
@@ -92,7 +88,7 @@
                         "blocks": [
                             "minecraft:deepslate",
                             "minecraft:calcite",
-                            "minecraft:light"
+                            "minecraft:water"
                         ]
                     },
                     {
@@ -105,7 +101,7 @@
                         "blocks": [
                             "minecraft:deepslate",
                             "minecraft:calcite",
-                            "minecraft:light"
+                            "minecraft:water"
                         ]
                     },
                     {
@@ -118,7 +114,7 @@
                         "blocks": [
                             "minecraft:deepslate",
                             "minecraft:calcite",
-                            "minecraft:light"
+                            "minecraft:water"
                         ]
                     },
                     {
@@ -131,7 +127,7 @@
                         "blocks": [
                             "minecraft:deepslate",
                             "minecraft:calcite",
-                            "minecraft:light"
+                            "minecraft:water"
                         ]
                     },
                     {

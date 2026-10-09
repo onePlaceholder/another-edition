@@ -63,24 +63,6 @@
                                         }
                                     }
                                 }
-                            },
-                            {
-                                "height": {
-                                    "type": "minecraft:uniform",
-                                    "min_inclusive": 3,
-                                    "max_inclusive": 4
-                                },
-                                "provider": {
-                                    "type": "minecraft:simple_state_provider",
-                                    "state": {
-                                        "Name": "minecraft:azalea_leaves",
-                                        "Properties": {
-                                            "distance": "1",
-                                            "persistent": "false",
-                                            "waterlogged": "false"
-                                        }
-                                    }
-                                }
                             }
                         ]
                     }

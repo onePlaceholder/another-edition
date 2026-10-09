@@ -221,7 +221,7 @@
                         ],
                         "blocks": [
                             "minecraft:grass_block",
-                            "minecraft:mossy_cobblestone",
+                            "biomeswevegone:mossy_stone",
                             "minecraft:moss_block",
                             "minecraft:dirt",
                             "minecraft:water",
@@ -238,7 +238,7 @@
                         ],
                         "blocks": [
                             "minecraft:grass_block",
-                            "minecraft:mossy_cobblestone",
+                            "biomeswevegone:mossy_stone",
                             "minecraft:moss_block",
                             "minecraft:dirt",
                             "minecraft:water",
@@ -255,7 +255,7 @@
                         ],
                         "blocks": [
                             "minecraft:grass_block",
-                            "minecraft:mossy_cobblestone",
+                            "biomeswevegone:mossy_stone",
                             "minecraft:moss_block",
                             "minecraft:dirt",
                             "minecraft:water",
@@ -272,7 +272,7 @@
                         ],
                         "blocks": [
                             "minecraft:grass_block",
-                            "minecraft:mossy_cobblestone",
+                            "biomeswevegone:mossy_stone",
                             "minecraft:moss_block",
                             "minecraft:dirt",
                             "minecraft:water",
@@ -289,7 +289,7 @@
                         ],
                         "blocks": [
                             "minecraft:grass_block",
-                            "minecraft:mossy_cobblestone",
+                            "biomeswevegone:mossy_stone",
                             "minecraft:moss_block",
                             "minecraft:dirt",
                             "minecraft:water",
@@ -306,7 +306,7 @@
                         ],
                         "blocks": [
                             "minecraft:grass_block",
-                            "minecraft:mossy_cobblestone",
+                            "biomeswevegone:mossy_stone",
                             "minecraft:moss_block",
                             "minecraft:dirt",
                             "minecraft:water",
@@ -323,7 +323,7 @@
                         ],
                         "blocks": [
                             "minecraft:grass_block",
-                            "minecraft:mossy_cobblestone",
+                            "biomeswevegone:mossy_stone",
                             "minecraft:moss_block",
                             "minecraft:dirt",
                             "minecraft:water",
@@ -340,7 +340,7 @@
                         ],
                         "blocks": [
                             "minecraft:grass_block",
-                            "minecraft:mossy_cobblestone",
+                            "biomeswevegone:mossy_stone",
                             "minecraft:moss_block",
                             "minecraft:dirt",
                             "minecraft:water",
