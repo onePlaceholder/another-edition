@@ -653,7 +653,10 @@
                           0,
                           0
                         ],
-                        "blocks": "minecraft:light"
+                        "blocks": [
+                          "minecraft:water",
+                          "minecraft:air"
+                        ]
                       },
                       {
                         "type": "minecraft:matching_blocks",

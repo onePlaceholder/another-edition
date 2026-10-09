@@ -48,7 +48,7 @@
                     {
                       "weight": 10,
                       "data": {
-                        "Name": "minecraft:birch_leaves",
+                        "Name": "minecraft:oak_leaves",
                         "Properties": {
                           "distance": "7",
                           "persistent": "false",
@@ -134,7 +134,7 @@
                     {
                       "weight": 10,
                       "data": {
-                        "Name": "minecraft:birch_leaves",
+                        "Name": "minecraft:oak_leaves",
                         "Properties": {
                           "distance": "7",
                           "persistent": "false",
@@ -219,7 +219,7 @@
                 {
                   "weight": 10,
                   "data": {
-                    "Name": "minecraft:birch_leaves",
+                    "Name": "minecraft:oak_leaves",
                     "Properties": {
                       "distance": "7",
                       "persistent": "false",

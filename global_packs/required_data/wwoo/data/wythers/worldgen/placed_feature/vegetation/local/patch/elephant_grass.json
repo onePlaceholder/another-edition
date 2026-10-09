@@ -84,11 +84,7 @@
                           "provider": {
                             "type": "minecraft:simple_state_provider",
                             "state": {
-                              "Name": "minecraft:light",
-                          "Properties": {
-                            "level": "0",
-                            "waterlogged": "false"
-                          }
+                              "Name": "minecraft:air"
                             }
                           }
                         }
@@ -211,11 +207,7 @@
                       "provider": {
                         "type": "minecraft:simple_state_provider",
                         "state": {
-                          "Name": "minecraft:light",
-                          "Properties": {
-                            "level": "0",
-                            "waterlogged": "false"
-                          }
+                          "Name": "minecraft:air"
                         }
                       }
                     }

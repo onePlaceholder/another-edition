@@ -163,11 +163,7 @@
                           {
                             "weight": 10,
                             "data": {
-                              "Name": "minecraft:light",
-                              "Properties": {
-                                "level": "8",
-                                "waterlogged": "false"
-                              }
+                              "Name": "minecraft:air"
                             }
                           }
                         ]
@@ -281,11 +277,7 @@
                           "provider": {
                             "type": "minecraft:simple_state_provider",
                             "state": {
-                              "Name": "minecraft:light",
-                              "Properties": {
-                                "level": "8",
-                                "waterlogged": "false"
-                              }
+                              "Name": "minecraft:air"
                             }
                           }
                         }

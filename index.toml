@@ -2790,7 +2790,7 @@ hash = "731c453de6d3e2d397beddabdc18082080fab576e84cfaed1ef277965ee5d0c6"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/vegetation/column/bamboo_shoot.json"
-hash = "4800d8987b4475329457d9f274ebea4d89c5bc9aa6d53133768cd4c51781de8c"
+hash = "9eff9cfc35c6490581e95e7a1a6a182efbea447e505fc27871ab5e88d4a294cb"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/vegetation/column/beets.json"
@@ -3910,15 +3910,15 @@ hash = "05866599540370daf5242999a350ea6c68ca1fee04bce3a878fbf97b9384db33"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/vegetation/tree/sclerophylous.json"
-hash = "75c90b5bec3fe93a0acea2433ff2f495d324789e887b08612a868e572b7d4ba6"
+hash = "4fa1a808fa55c8434158ea002de92e818942f0c9c4d40ef7a049615dbe29e651"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/vegetation/tree/sclerophylous_birch.json"
-hash = "63c2fe638dad51026e2e23cf1dab9e68c2df72b8c99ee04b405a506aadc8380d"
+hash = "e8eeb6554f98b9853f7a8fdef54036faa6623a322c396e562fb4d50a65cee2ec"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/vegetation/tree/sclerophylous_tall.json"
-hash = "6949df3830665209a2d7a951fa53cef97f48ad6002a550aa84ef831403ba6942"
+hash = "21ba602dc355f796f10906bb83c44c038f76f1ec1bcadb592d1ddb7395961247"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/configured_feature/vegetation/tree/scrub_acacia.json"
@@ -4546,11 +4546,11 @@ hash = "b16da2195c5b1f2dc5d382d64d4e989f60ce535a4180e4d0f53a4a24475388b5"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/feature/tepui_cavern_lakes.json"
-hash = "ad42427271829e9e8d5f2830a69a1748efc025bd5e4f8d8b2197deccf31f1838"
+hash = "6651b6a867aafdf156d679c8849d1b226ba9603aa67e2c583de5c5c1f233bb9e"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/feature/tepui_cavern_moss.json"
-hash = "5f02c6440bdf1366867f5b1d746ca63bd32667e0ce7c837f520105f7196115b7"
+hash = "4d512891d4a77bfb2c000d4e919063bb18bebe1bd85b2dd1535cfbcd5fcdb75c"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/feature/tepui_caverns.json"
@@ -4586,7 +4586,7 @@ hash = "7d53447d8aa7fff4843958fb517a3772f3201e76e97d3487a156319e971f14f1"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/feature/tepui_plants.json"
-hash = "7c8ac03b2c90262469efe01877f5288d511e0094c87a478e3f576322ef421993"
+hash = "f597f4dacd1b15b6884b937107253ca702340feecf0113d58f13c779aef4a04b"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/feature/tepui_surface.json"
@@ -4682,7 +4682,7 @@ hash = "c147f8e755955e6ab924aef43aecaa65b8e8e604dd68888073f21fd69d64dd15"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/beach_mossy_stone.json"
-hash = "b4f45463fe0afbabfd4eae7e2eb49564095b1cce943fab72748d5265c397220c"
+hash = "46b8a37bdb977c984a48f4cff7c5888a020d2d7004870158f1b462dcbbccf9c5"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/cave_disk_basalt.json"
@@ -4746,7 +4746,7 @@ hash = "5113e6736765a092513a215b50d77f595be4ff9e79e051b861bb1e37f7e8703e"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/danakil_water.json"
-hash = "837ad9cfdcef106c3508e4ccc1a26dfc478d47b5331bd90b404f639feb59d881"
+hash = "e9aa86c378f07172bf3e941d657ec5dd4cca9b98a6d62e950e991f80aa7d883f"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/danakil_yellow.json"
@@ -4978,7 +4978,7 @@ hash = "f39b5e7b6f4980c823f651b72ca49f5edac651e1e2731719f4e33822c7ed3f25"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/pamukkale_pools.json"
-hash = "a13d64c9eedae1289ddaddd58932d1736c0ee7ad4db968a1756a7bad4326e51d"
+hash = "921737f9958e86bbc136363e201711a0f802fc28be24c3c7fe7d1b7ee7e8d6d3"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/terrain/local/powder_snow.json"
@@ -5258,7 +5258,7 @@ hash = "6e90b5da159f936bbc94e24a49fbafd8657c98cbc57b4edb23b535b47bdcdc25"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/extended/patch/tepui_plants.json"
-hash = "e51222cab1c902af61e52fdb9b83709f16ddb1fefbb4a8a5285efc0122de4e70"
+hash = "01d71fbe788fc243617163a9b0f8dce67ccf466782754ad9ac2bc73d174792b5"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/extended/trees/ancient_beech_woods.json"
@@ -5402,11 +5402,11 @@ hash = "71f70e2fce4023ee44c97f3c4d358c379e6495cf5c2ddda7b27643a539373b90"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/other/fungal_blood_woods.json"
-hash = "edd8754de26c57e3923b59bde3d7d40fb2a4048eb5bbb3bedbf4a03741d2340d"
+hash = "e95f5adb1dbe942362f50a8905b4233ba74674a7205e52affd91f0a6ab844c94"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/other/fungal_glow.json"
-hash = "044d8d432efb10c2e2487a6eb160d3ebcda12e304f6c0b4b3f809fb41251e0a8"
+hash = "fdfcd2b1e582d028bfe55fd772d500d337dc6311a6b86d5497f7f0b15051764f"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/other/fungal_jungle_groundcover.json"
@@ -5422,7 +5422,7 @@ hash = "b2e5cfb3eadad8ae6523ae00dee367beb3a642af0564da9c7ace4880ee40cf4c"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/other/fungal_moss_sprouts.json"
-hash = "07f582e5e3e01a77e197958e3b52836b1b29ffb065e4532decbbaf78362b6818"
+hash = "9da205e70a87ac883bc32410ec4186f16c654670198506c82791c0b852203037"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/other/fungal_powder_spores.json"
@@ -5458,7 +5458,7 @@ hash = "a2e1452297b6b3533b4ab0ef98ee09dfbead9e3ed6f38fadc4566867bed03023"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/other/fungal_weeping_growths.json"
-hash = "4817bfcf1e10ea0122c76fd25427b338f3259a826315c178fb765fb85a16a1c1"
+hash = "aea27c567c270fb336ed25943e161f83ffd0c3343f9ab2aa313330e8d501aad5"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/other/giant_fungi.json"
@@ -5502,7 +5502,7 @@ hash = "5a67257bfdb4a79ca95f5b693a265bb96766de7f964414ebfdd264e28172b696"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/patch/elephant_grass.json"
-hash = "865a9a9d39a2bebbc48faba6ca9f397b6759fb45b79abbc37c59ae042e0877cc"
+hash = "a1e462c0990eb9697889ad38d5735d0f1736a7448bacc2e356db40644323cc87"
 
 [[files]]
 file = "global_packs/required_data/wwoo/data/wythers/worldgen/placed_feature/vegetation/local/patch/fern_cane.json"
@@ -6738,6 +6738,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "5c16e7977b81ed9fb2e7bbb98763c4471c2567ef2a2cfa77c1f2e16fb5eada7f"
+
+[[files]]
+file = "replace_light.py"
+hash = "3835b3bc663488c9c746062e7dd38ac9759e26d1fa2e1bcfaeafb24070154484"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
